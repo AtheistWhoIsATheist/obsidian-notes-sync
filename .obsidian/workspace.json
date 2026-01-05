@@ -246,14 +246,16 @@
       "bases:Create new base": true,
       "graph:Open graph view": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "infranodus-graph-view:InfraNodus Graph View": false
+      "infranodus-graph-view:InfraNodus Graph View": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9c4a926763e9ab43",
   "lastOpenFiles": [
+    "_Captured_/TEST NOTE.md",
+    "Engine-System-Inquiry/AiPhilEngine_complete_code/COMPLETE_sections1-6_AiPhilEngine.md",
     "Nihilismi Experientia Sacra.lnk",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/1_Ai_Philosopher_Engine_Complete_Code.md",
-    "Engine-System-Inquiry/AiPhilEngine_complete_code/COMPLETE_sections1-6_AiPhilEngine.md",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/1_Ai_Philosopher_Engine_Complete_Code 1.md",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/2__PROFESSOR NIHIL_ THE COMPLETE AI PHILOSOPHER ENG.md",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/AiPhilEngine_complete_code_newest.md",
@@ -286,7 +288,6 @@
     "Bases/Recent Notes January 2025.base",
     "NT Research/Recall/Unconfirmed 828135.crdownload",
     "Bases/_Recent Notes_.base",
-    "Bases/Untitled.base",
     "Metadata/Journal314/314SumPrompts/314Universal_Toward Transcendent Synthesis.png",
     "NT Research/Outlines and Mindmaps/314Prompt_As_markmap.svg"
   ]
