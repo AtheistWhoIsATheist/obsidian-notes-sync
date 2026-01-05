@@ -196,6 +196,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
@@ -204,8 +205,7 @@
       "bases:Create new base": true,
       "graph:Open graph view": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "infranodus-graph-view:InfraNodus Graph View": false,
-      "obsidian-git:Open Git source control": false
+      "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
   "active": "8542c4e576f93a40",

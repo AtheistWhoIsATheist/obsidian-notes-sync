@@ -52,7 +52,7 @@
     "margin": "0",
     "downscalePercent": 95
   },
-  "trashOption": "system",
+  "trashOption": "local",
   "userIgnoreFilters": null,
   "readableLineLength": true,
   "foldHeading": true,
