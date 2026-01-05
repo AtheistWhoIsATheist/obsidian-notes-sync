@@ -37,51 +37,9 @@
               "icon": "lucide-file",
               "title": "Mindmap&314_Agentic Workers"
             }
-          },
-          {
-            "id": "929e747dca82c889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engine-System-Inquiry/1_Ai_Philosopher_Engine_Complete_Code.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1_Ai_Philosopher_Engine_Complete_Code"
-            }
-          },
-          {
-            "id": "f8dde3893554cafb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engine-System-Inquiry/1_Ai_Philosopher_Engine_Complete_Code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1_Ai_Philosopher_Engine_Complete_Code"
-            }
-          },
-          {
-            "id": "9c4a926763e9ab43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engine-System-Inquiry/AiPhilEngine_complete_code/COMPLETE_sections1-6_AiPhilEngine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "COMPLETE_sections1-6_AiPhilEngine"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engine-System-Inquiry/AiPhilEngine_complete_code/COMPLETE_sections1-6_AiPhilEngine.md",
+                "file": "NT Research/Outlines and Mindmaps/Mindmap&314_Agentic Workers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of COMPLETE_sections1-6_AiPhilEngine"
+              "title": "Outline of Mindmap&314_Agentic Workers"
             }
           },
           {
@@ -250,10 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c4a926763e9ab43",
+  "active": "8542c4e576f93a40",
   "lastOpenFiles": [
-    "_Captured_/TEST NOTE.md",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/COMPLETE_sections1-6_AiPhilEngine.md",
+    "_Captured_/TEST NOTE.md",
     "Nihilismi Experientia Sacra.lnk",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/1_Ai_Philosopher_Engine_Complete_Code.md",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/1_Ai_Philosopher_Engine_Complete_Code 1.md",
