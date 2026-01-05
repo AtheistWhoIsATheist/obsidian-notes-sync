@@ -1,0 +1,8 @@
+# (Unclassified) — Schopenhauer
+## Quotes (REN-tagged)
+- ...in order to increase his pleasures, man has intentionally added to the number and pressure of his needs, which in their original state were not much more difficult to satisfy than those of the brute. Hence luxury in all its forms; delicate food, the use of tobacco and opium, spirituous liquors, fine clothes, and the thousand and one things than he considers necessary to his existence. _(REN: (Unassigned))_
+- If he has a soul above the common, or if he is a man of genius, he will occasionally feel like some noble prisoner of state, condemned to work in the galleys with common criminals; and he will follow his example and try to isolate himself. _(REN: (Unassigned))_
+- A man finds himself, to his great astonishment, suddenly existing, after thousands and thousands of years of non-existence: he lives for a little while; and then, again, comes an equally long period when he must exist no more. The heart rebels against this, and feels that it cannot be true. _(REN: (Unassigned))_
+- ...in such a world, happiness in inconceivable. How can it dwell where, as Plato says, continual Becoming and never Being is the sole form of existence? _(REN: 3. Uncanny Illusion of Naturalism)_
+- ...misfortune has its uses...If the world were a paradise of luxury and ease, a land flowing with milk and honey, where every Jack obtained his Jill at once and without any difficulty, men would either die of boredom or hang themselves. _(REN: 3. Uncanny Illusion of Naturalism)_
+- ...the misery of boredom...boredom is a form of suffering unknown to brutes. _(REN: 5. Startling Encounter with Infinite Nothingness)_

@@ -1,0 +1,8 @@
+# Ontological Abyss — Ecclesiastes
+## Quotes (REN-tagged)
+- All is vanity. _(REN: 1. Nihilism Preface)_
+- ...the eye is not satisfied with seeing, nor the ear filled with hearing. What has been is what will be, and what has been done is what will be done, and there is nothing new under the sun. _(REN: (Unassigned))_
+- I have seen everything that is done under the sun, and behold, all is vanity and a striving after wind. What is crooked cannot be made straight, and what is lacking cannot be counted. _(REN: 1. Nihilism Preface, 4. Madness, Nonexistence and the Other)_
+- So I became great and l surpassed all who were before me in Jerusalem. Also my l wisdom remained with me. And whatever my eyes desired I did not keep from them. I kept my heart from no pleasure, for my heart m found pleasure in all my toil, and this was my n reward for all my toil. Then I considered all that my hands had done and the toil I had expended in doing it, and behold, all was vanity and a striving after wind, and there was nothing p to be gained under the sun. _(REN: 1. Nihilism Preface)_
+- They all have the same breath, and man has no advantage over the beasts, for all is vanity. All go to one place. All are from the dust, and to dust all return. _(REN: 1. Nihilism Preface)_
+- The more words, the more vanity, and what is the advantage to man? For who knows what is good for man while he lives the few days of his vain life, which he passes like a shadow? _(REN: 1. Nihilism Preface)_

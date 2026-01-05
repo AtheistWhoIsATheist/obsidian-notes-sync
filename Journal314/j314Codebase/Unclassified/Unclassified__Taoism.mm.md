@@ -1,0 +1,24 @@
+# (Unclassified) — Taoism
+## Quotes (REN-tagged)
+- Under these two aspects, it is really the same; but as development takes place, it receives the different names. Together we call them the Mystery. _(REN: (Unassigned))_
+- Therefore the sage manages affairs without doing anything... _(REN: (Unassigned))_
+- Heaven and earth do not act from (the impulse of) any wish to be benevolent; they deal with all things as the dogs of grass are dealt with. The sages do not act from (any wish to be) benevolent; they deal with the people as the dogs of grass are dealt with. _(REN: (Unassigned))_
+- What makes me liable to great calamity is my having the body (which I call myself); if I had not the body, what great calamity could come to me? _(REN: (Unassigned))_
+- The multitude of men all have enough and to spare. I alone seem to have lost everything. My mind is that of a stupid man; I am in a state of chaos. Ordinary men look bright and intelligent, while I alone seem to be benighted. They look full of discrimination, while I alone am dull and confused. I seem to be carried about as on the sea, drifting as if I had nowhere to rest. All men have their spheres of action, while I alone seem dull and incapable, like a rude borderer. (Thus) I alone am different from other men, but I value the nursing-mother (the Tao). _(REN: 4. Madness, Nonexistence and the Other)_
+- The grandest forms of active force From Tao come, their only source. Who can of Tao the nature tell? Our sight it flies, our touch as well. Eluding sight, eluding touch, The forms of things all in it crouch; Eluding touch, eluding sight, There are their semblances, all right. Profound it is, dark and obscure; Things' essences all there endure. _(REN: (Unassigned))_
+- ...if he proceed to active movement, he will lose his throne. _(REN: (Unassigned))_
+- The sage, when employed, becomes the Head of all the Officers (of government); and in his greatest regulations he employs no violent measures. _(REN: (Unassigned))_
+- The kingdom is a spirit-like thing, and cannot be got by active doing...Hence the sage puts away excessive effort, extravagance, and easy indulgence. _(REN: (Unassigned))_
+- He who would assist a lord of men in harmony with the Tao will not assert his mastery in the kingdom by force of arms. _(REN: (Unassigned))_
+- Calm and repose are what he prizes; victory (by force of arms) is to him undesirable. To consider this desirable would be to delight in the slaughter of men; and he who delights in the slaughter of men cannot get his will in the kingdom. _(REN: (Unassigned))_
+- Scholars of the highest class, when they hear about the Tao, earnestly carry it into practice. Scholars of the middle class, when they have heard about it, seem now to keep it and now to lose it. Scholars of the lowest class, when they have heard about it, laugh greatly at it. If it were not (thus) laughed at, it would not be fit to be the Tao. _(REN: (Unassigned))_
+- Purity and stillness give the correct law to all under heaven. _(REN: (Unassigned))_
+- There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency. _(REN: (Unassigned))_
+- Therefore all things without exception honour the Tao, and exalt its outflowing operation. _(REN: (Unassigned))_
+- Let him keep his mouth closed, and shut up the portals (of his nostrils), and all his life he will be exempt from laborious exertion. Let him keep his mouth open, and (spend his breath) in the promotion of his affairs, and all his life there will be no safety for him. _(REN: (Unassigned))_
+- They shall wear elegant and ornamented robes, carry a sharp sword at their girdle, pamper themselves in eating and drinking, and have a superabundance of property and wealth;— such (princes) may be called robbers and boasters. This is contrary to the Tao surely! _(REN: 3. Uncanny Illusion of Naturalism)_
+- He who has in himself abundantly the attributes (of the Tao) is like an infant. _(REN: (Unassigned))_
+- Misery!— happiness is to be found by its side! Happiness!— misery lurks beneath it! _(REN: (Unassigned))_
+- (It is the way of the Tao) to act without (thinking of) acting; to conduct affairs without (feeling the) trouble of them; to taste without discerning any flavour; to consider what is small as great, and a few as many; and to recompense injury with kindness. _(REN: (Unassigned))_
+- The sage does not act (so), and therefore does no harm. _(REN: (Unassigned))_
+- The people make light of dying because of the greatness of their labours in seeking for the means of living. It is this which makes them think light of dying. Thus it is that to leave the subject of living altogether out of view is better than to set a high value on it. _(REN: (Unassigned))_

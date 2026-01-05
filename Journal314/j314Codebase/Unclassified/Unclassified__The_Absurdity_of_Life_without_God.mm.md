@@ -1,0 +1,99 @@
+# (Unclassified) — The Absurdity of Life without God
+## Quotes (REN-tagged)
+- Who am I? _(REN: (Unassigned))_
+- the threat of non-being. _(REN: (Unassigned))_
+- myself _(REN: (Unassigned))_
+- in it is growing farther and farther apart. As it does so, it grows colder and colder, and its energy is used up. Eventually all the stars will burn out and all matter will collapse into dead stars and black holes. There will be no light at all; there will be no heat; there will be no life; only the corpses of dead stars and galaxies, ever expanding into the endless darkness and the cold recesses of _(REN: 3. Uncanny Illusion of Naturalism)_
+- space—a universe in ruins. So not only is the life of each individual person doomed; the entire _(REN: (Unassigned))_
+- relative to certain other events, but what is the ultimate significance of any of those events? If all _(REN: 4. Madness, Nonexistence and the Other)_
+- Big Bang _(REN: (Unassigned))_
+- human race will eventually cease to exist, it makes no ultimate difference whether it ever did exist. _(REN: (Unassigned))_
+- could exist forever, but if there were no God, their existence would still have no ultimate _(REN: (Unassigned))_
+- and the other a potion that would make him live forever. Realizing his predicament, he gulped _(REN: 4. Madness, Nonexistence and the Other)_
+- down the poison. But then to his horror, he discovered he had swallowed the wrong vial—he had _(REN: (Unassigned))_
+- So what? _(REN: (Unassigned))_
+- French existentialists Jean-Paul Sartre and Albert Camus understood this, too. Sartre portrayed _(REN: (Unassigned))_
+- Well, let's get on with it. _(REN: (Unassigned))_
+- nausea _(REN: (Unassigned))_
+- If life ends at the grave, then it makes no difference whether one has lived as a Stalin or as a saint. _(REN: (Unassigned))_
+- Since one's destiny is ultimately unrelated to one's behavior, you may as well just live as you _(REN: (Unassigned))_
+- If there is no immortality then all things are permitted. _(REN: (Unassigned))_
+- rational persons, unhoodwinked by myth or ideology, need not be individual egoists or classical _(REN: (Unassigned))_
+- But the problem becomes even worse. For, regardless of immortality, if there is no God, then there _(REN: (Unassigned))_
+- can be no objective standards of right and wrong. All we are confronted with is, in Jean-Paul _(REN: (Unassigned))_
+- objective right and wrong, only our culturally and personally relative, subjective judgments. This _(REN: (Unassigned))_
+- exist—there is only the bare valueless fact of existence, and there is no one to say you are right _(REN: 6. Symbolic Resonance of Nothing)_
+- such a prospect. In his novel The Time Machine Wells's time traveler journeys far into the future to discover the destiny of man. All he finds is a dead earth, save for a few lichens and moss, orbiting a gigantic red sun. The only sounds are the rush of the wind and the gentle ripple of the sea. _(REN: (Unassigned))_
+- Beyond these lifeless sounds, _(REN: (Unassigned))_
+- For man and the universe would then be simple accidents of chance, thrust into existence for no _(REN: (Unassigned))_
+- reason. Without God the universe is the result of a cosmic accident, a chance explosion. There is _(REN: (Unassigned))_
+- no reason for which it exists. As for man, he is a freak of nature— a blind product of matter plus _(REN: 3. Uncanny Illusion of Naturalism)_
+- If God is dead, then man is dead, too. _(REN: (Unassigned))_
+- I seek God! I seek God! _(REN: (Unassigned))_
+- Did God get lost? _(REN: (Unassigned))_
+- Or is he hiding? Or maybe he has gone on a voyage or emigrated! _(REN: (Unassigned))_
+- I have come too early, _(REN: (Unassigned))_
+- This tremendous event is still on its way—it has not yet reached the ears of man. _(REN: (Unassigned))_
+- Most people still do not reflect on the consequences of atheism and so, like the crowd in the _(REN: (Unassigned))_
+- marketplace, go unknowingly on their way. But when we realize, as did Nietzsche, what atheism _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- implies, then his question presses hard upon us: how shall we, the murderers of all murderers, _(REN: (Unassigned))_
+- Bertrand Russell, for example, wrote that we must build our lives upon "the firm foundation of _(REN: (Unassigned))_
+- Russell, too, was inconsistent. For though he was an atheist, he was an outspoken social critic, _(REN: (Unassigned))_
+- incredible. _(REN: (Unassigned))_
+- All things are permitted. _(REN: (Unassigned))_
+- perfectly all right for soldiers to slaughter innocent children. He cannot live as though it is all right for dictators like Pol Pot to exterminate millions of their own countrymen. Everything in him cries out to say these acts are wrong—really wrong. But if there is no God, he cannot. So he makes a leap of faith and affirms values anyway. And when he does so, he reveals the inadequacy of a _(REN: 6. Symbolic Resonance of Nothing)_
+- The Gathering. _(REN: (Unassigned))_
+- survivors of the Holocaust in Jerusalem, where they rediscovered lost friendships and shared their _(REN: (Unassigned))_
+- experiences. One woman prisoner, a nurse, told of how she was made the gynecologist at _(REN: 4. Madness, Nonexistence and the Other)_
+- Where are the pregnant women who were housed in that barracks? _(REN: (Unassigned))_
+- Haven't you heard? _(REN: (Unassigned))_
+- Dr. Mengele used them for vivisection. _(REN: (Unassigned))_
+- coffee, but to no avail. Each day the baby lost weight, a fact that was eagerly monitored by Dr. _(REN: (Unassigned))_
+- Mengele. A nurse then came secretly to this woman and told her, "I have arranged a way for you _(REN: (Unassigned))_
+- When the woman protested, the nurse was insistent: _(REN: (Unassigned))_
+- And yet, if God does not exist, then in a sense, our world is Auschwitz: there is no absolute right _(REN: 3. Uncanny Illusion of Naturalism)_
+- and wrong; all things are permitted. But no atheist, no agnostic, can live consistently with such a _(REN: (Unassigned))_
+- German nationalism. Similarly Sartre, writing in the aftermath of the Second World War, _(REN: 3. Uncanny Illusion of Naturalism)_
+- condemned anti-Semitism, declaring that a doctrine that leads to extermination is not merely an _(REN: (Unassigned))_
+- opinion or matter of personal taste, of equal value with its opposite. (8) In his important essay _(REN: 3. Uncanny Illusion of Naturalism)_
+- Existentialism Is a Humanism, _(REN: (Unassigned))_
+- which is in man. The communist torturers often said, 'There is no God, no Hereafter, no _(REN: (Unassigned))_
+- And the same applies to acts of self-sacrifice. A number of years ago, a terrible mid-winter air _(REN: (Unassigned))_
+- disaster occurred in which a plane leaving the Washington, D.C., airport smashed into a bridge _(REN: (Unassigned))_
+- spanning the Potomac River, plunging its passengers into the icy waters. As the rescue helicopters came, attention was focused on one man who again and again pushed the dangling rope ladder to other passengers rather than be pulled to safety himself. Six times he passed the ladder by. When they came again, he was gone. He had freely given his life that others might live. _(REN: 4. Madness, Nonexistence and the Other)_
+- subconsciously borrowing the belief in immortality that his forefathers held to, even though he _(REN: (Unassigned))_
+- himself has no basis for this belief, since he does not believe in God. By borrowing the remnants of a belief in immortality, writes Bloch, "modern man does not feel the chasm that unceasingly _(REN: (Unassigned))_
+- surrounds him and that will certainly engulf him at last. Through these remnants, he saves his _(REN: (Unassigned))_
+- sense of self-identity. Through them the impression arises that man is not perishing, but only that _(REN: (Unassigned))_
+- Bloch concludes, _(REN: (Unassigned))_
+- which everything is the product of blind chance, these persons begin to ascribe personality and _(REN: (Unassigned))_
+- leap from the lower to the upper story. For example, Francis Crick halfway through his book The _(REN: (Unassigned))_
+- clever _(REN: (Unassigned))_
+- thinking _(REN: (Unassigned))_
+- Cosmos, _(REN: (Unassigned))_
+- which he always spells with a capital letter, obviously fills the role of a God-substitute. Though all _(REN: (Unassigned))_
+- these men profess not to believe in God, they smuggle in a God-substitute through the back door because they cannot bear to live in a universe in which everything is the chance result of _(REN: (Unassigned))_
+- conclusions. For example, certain feminists have raised a storm of protest over Freudian sexual _(REN: (Unassigned))_
+- society envisioned in George Orwell's 1984, where the government controls and programs the _(REN: (Unassigned))_
+- thoughts of everybody. If Skinner's theories are right, then there can be no objection to treating _(REN: (Unassigned))_
+- people like the rats in Skinner's rat-box as they run through their mazes, coaxed on by food and _(REN: (Unassigned))_
+- electric shocks. According to Skinner, all our actions are determined anyway. And if God does not _(REN: (Unassigned))_
+- qualitatively different from a rat, since both are just matter plus time plus chance. But again, who _(REN: 3. Uncanny Illusion of Naturalism)_
+- post-modern _(REN: (Unassigned))_
+- as well. Indeed, it is precisely the awareness that modernism issues inevitably in absurdity and _(REN: 1. Nihilism Preface)_
+- Confronted with this dilemma, man flounders pathetically for some means of escape. In a _(REN: (Unassigned))_
+- remarkable address to the American Academy for the Advancement of Science in 1991, Dr. L. D. _(REN: (Unassigned))_
+- Noble Lie _(REN: (Unassigned))_
+- the madhouse option, _(REN: 4. Madness, Nonexistence and the Other)_
+- totalitarian option," where social coherence is imposed at the expense of personal wholenesthen _(REN: (Unassigned))_
+- interests and so achieve social coherence. A Noble Lie "is one that deceives us, tricks us, compels _(REN: (Unassigned))_
+- us beyond self-interest, beyond ego, beyond family, nation, (and) race." It is a lie, because it tells _(REN: (Unassigned))_
+- us that the universe is infused with value (which is a great fiction), because it makes a claim to _(REN: (Unassigned))_
+- But without such lies, we cannot live. _(REN: (Unassigned))_
+- for the sake of social coherence, _(REN: (Unassigned))_
+- the interest of the herd do not always coincide. Besides, if (out of self-interest) I do care about _(REN: (Unassigned))_
+- social coherence, the totalitarian option is always open to me: forget the Noble Lie and maintain _(REN: (Unassigned))_
+- have done is clearly spell out the alternatives. If God does not exist, then life is futile. If the God of _(REN: (Unassigned))_
+- the Bible does exist, then life is meaningful. Only the second of these two alternatives enables us _(REN: (Unassigned))_
+- to live happily and consistently. Therefore, it seems to me that even if the evidence for these two _(REN: (Unassigned))_
+- options were absolutely equal, a rational person ought to choose biblical Christianity. It seems to _(REN: (Unassigned))_

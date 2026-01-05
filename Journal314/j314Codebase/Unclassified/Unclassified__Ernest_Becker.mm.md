@@ -1,0 +1,133 @@
+# (Unclassified) — Ernest Becker
+## Quotes (REN-tagged)
+- In this sense everything that man does is religious and heroic, and yet in danger of being fictitious and fallible. _(REN: (Unassigned))_
+- And the crisis of society is, of course, the crisis of organized religion too: religion is no longer valid as a hero system, and so the youth scorn it. _(REN: (Unassigned))_
+- let’s all learn from stupidity. _(REN: (Unassigned))_
+- let’s all learn from repression _(REN: (Unassigned))_
+- as the Eastern sages also knew, man is a worm and food for worms. This is the paradox: he is out of nature and hopelessly in it; he is dual, up in the stars and yet housed in a heart-pumping, breath-gasping body that once belonged to a fish and still carries the gill-marks to prove it. His body is a material fleshy casing that is alien to him in many ways—the strangest and most repugnant way being that it aches and bleeds and will decay and die. Man is literally split in two: he has an awareness of his own splendid uniqueness in that he sticks out of nature with a towering majesty, and yet he goes back into the ground a few feet in order blindly and dumbly to rot and disappear forever. It is a terrifying dilemma to be in and to have to live with. _(REN: (Unassigned))_
+- speculate that a full apprehension of man’s condition would drive him insane are right, quite literally right.” _(REN: (Unassigned))_
+- “Babies are occasionally born with gills and tails, but this is not publicized—instead it is _(REN: (Unassigned))_
+- Men are so necessarily mad that not to be mad would amount to another form of madness. _(REN: 4. Madness, Nonexistence and the Other)_
+- ...the coolest repression, the most convincing equanimity, or the warmest self-satisfaction were accomplished lies both toward the world and to oneself. _(REN: 3. Uncanny Illusion of Naturalism)_
+- up until tomorrow, it would be not in terms of mans animal heredity, his instincts and his evolution: it would be simply in the toll that his pretense of sanity takes, as he tries to deny his true condition.” (Vivekananda- finite/infinite gap, everyone is an idol worshiper and they argue over their idols) _(REN: (Unassigned))_
+- “Otto talked about the terror of the world, the feeling of overwhelming awe, wonder, and fear in the face of creation—the miracle of it, the mysterium tremendum et fascinosum of each single _(REN: 2. Abyssal Experience, 3. Uncanny Illusion of Naturalism)_
+- The great boon of repression is that it makes it possible to live decisively in an overwhelmingly miraculous and incomprehensible world, a world so full of beauty, majesty, and terror that if animals perceived it all they would be paralyzed to act. _(REN: 2. Abyssal Experience, 3. Uncanny Illusion of Naturalism)_
+- But look at man, the impossible creature!...He not only lives in this moment, but expands his inner self to yesterday, his curiosity to centuries ago, his fears to five billion years from now when the sun will cool, his hopes to an eternity from now. He lives not only on a tiny territory, nor even on an entire planet, but in a galaxy, in a universe, and in dimensions beyond visible universes. It is appalling, the burden that man bears, the experiential burden. _(REN: (Unassigned))_
+- “This is one aspect of the basic human predicament, that we are simultaneously worms _(REN: (Unassigned))_
+- “Life can suck one up, sap his energies, submerge him, take away his self-control, give so much _(REN: (Unassigned))_
+- of what energies we really draw on, of the kind of lie we have fashioned in order to live securely and serenely. Augustine was a master analyst of this, as were Kierkegaard, Scheler, and Tillich in _(REN: (Unassigned))_
+- courage to be _(REN: (Unassigned))_
+- It is fateful and ironic how the lie we need in order to live dooms us to a life that is never really ours. _(REN: (Unassigned))_
+- What does it mean “to be born again _(REN: (Unassigned))_
+- to the terrifying paradox of the human condition, since one must be born not as a god, but as a _(REN: (Unassigned))_
+- It is simply this: what sense does it make to talk about “enjoying ones full humanness _(REN: (Unassigned))_
+- full humanness _(REN: (Unassigned))_
+- enjoying _(REN: (Unassigned))_
+- useless passion _(REN: (Unassigned))_
+- This is a serious game, the defense of one’s existence^how take it away from people and leave them joyous? _(REN: (Unassigned))_
+- Rank understood that in the face of the overwhelmingness of the world the child could not out of himself muster the stamina and the authority necessary to live in full expansiveness with limitless horizons of perception an experience. _(REN: 3. Uncanny Illusion of Naturalism)_
+- crazy _(REN: (Unassigned))_
+- What exactly would it mean on this earth to be wholly unrepressed, to live in full bodily and psychic expansiveness? It can only mean to be reborn into madness. _(REN: 4. Madness, Nonexistence and the Other)_
+- For now, it is enough to invoke Marcia Lee Anderson’s complete scientific formula: “Stripped of subtle complications i.e., of all the character defenses—repression, denial, misperception of reality, who could regard the sun except with fear? _(REN: (Unassigned))_
+- ...the best existential analysis of the human condition leads directly into the problems of God and faith... _(REN: (Unassigned))_
+- For Kierkegaard “philistinism _(REN: (Unassigned))_
+- “The depressed person is so afraid of being himself, so fearful of exerting his own individuality, of insisting on what might be his own meanings, his own conditions for living, that he _(REN: (Unassigned))_
+- ...the torture of depressive psychosis: to remain steeped in one's failure and yet to justify it, to continue to draw a sense of worthwhileness out of it. _(REN: (Unassigned))_
+- ...philistinism is what we would call “normal neurosis. _(REN: (Unassigned))_
+- tranquilizing itself with the trivial. _(REN: (Unassigned))_
+- There is the type of man who has great contempt for “immediacy, _(REN: (Unassigned))_
+- introvert. _(REN: (Unassigned))_
+- But usually life sucks us up into standardized activities...And instead of working our inner secret we gradually cover it over and forget it, while we become purely external men, playing successfully the standardized hero-game into which we happen to fall by accident, by family connection, by reflex patriotism, or by the simple need to eat and the urge to procreate. _(REN: (Unassigned))_
+- I am not saying that Kierkegaard's “introvert _(REN: (Unassigned))_
+- And so he lives in a kind of “incognito, _(REN: (Unassigned))_
+- little difference, _(REN: (Unassigned))_
+- To be a “normal cultural man _(REN: (Unassigned))_
+- In order to transcend himself he must break down that which he needs in order to live. Like Lear he must throw off all his “cultural lendings _(REN: (Unassigned))_
+- In the prison of one’s character one can pretend and feel that he is somebody, that the world is manageable, that there is a reason for one’s life, a ready justification for one’s action. _(REN: 3. Uncanny Illusion of Naturalism)_
+- No mistake about it: the curriculum in the “school _(REN: (Unassigned))_
+- taste _(REN: (Unassigned))_
+- the direction is quite normal...the self must be broken in order to become a self. _(REN: (Unassigned))_
+- all finite aims, _(REN: (Unassigned))_
+- man who is educated by possibility is educated in accordance with his infinity. _(REN: (Unassigned))_
+- What, after all, is more “mysterious _(REN: (Unassigned))_
+- If you don’t have a God in heaven, an invisible dimension that justifies the visible one, then you take what is nearest at hand and work out your problems on that. _(REN: (Unassigned))_
+- He brought sexual taboos into being because he needed to triumph over the body, and he sacrificed the pleasures of the body to the highest pleasure of all: self-perpetuation as a spiritual being through all eternity. _(REN: (Unassigned))_
+- solution to the human dilemma. The partner represents a kind of fulfillment in freedom from self-consciousness and guilt; but at the same time he represents the negation of one’s distinctive personality.” _(REN: (Unassigned))_
+- It is impossible to get blood from a stone, to get spirituality from a physical being, and so one feels “Inferior _(REN: (Unassigned))_
+- ...people need a “beyond, _(REN: (Unassigned))_
+- solid _(REN: (Unassigned))_
+- “We should not be surprised that Rank was brought to exactly the same conclusion as Kierkegaard: that the only way out of human conflict is full renunciation, to give one’s life as a gift to the highest powers. Absolution has to come from the absolute beyond. As Kierkegaard, Rank showed that this rule applied to the strongest, most heroic types—not to trembling and _(REN: (Unassigned))_
+- strongest personality type, the one with the largest ego. The great scientific world-shaker Newton was the same man who always carried the Bible under his arm.” (this is a lot) _(REN: 3. Uncanny Illusion of Naturalism)_
+- Rank said: “...he himself could so easily confess his agnosticism while he had created for himself a private religion. _(REN: (Unassigned))_
+- Here Rank joins Kierkegaard in the belief that one should not stop and circumscribe his life with beyonds that are near at hand, or a bit further out, or created by oneself. One should reach for the highest beyond of religion: man-should cultivate the passivity of renunciation to the highest powers no matter how difficult it is. Anything less is less than full development, even if it seems weakness and compromise to the best thinkers. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Man is a “theological being, _(REN: (Unassigned))_
+- At this point the “tough-minded _(REN: (Unassigned))_
+- We cannot repeat too often the great lesson of Freudian 'psychology: that repression is normal self-protection and creative self-restriction—in a real sense, mans natural substitute for instinct. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Philistines. _(REN: (Unassigned))_
+- tranquilize themselves with the trivial _(REN: (Unassigned))_
+- We can say that the essence of normality is the refusal of reality. _(REN: 6. Symbolic Resonance of Nothing)_
+- This is neurosis in a nutshell: the miscarriage of clumsy lies about reality. _(REN: (Unassigned))_
+- normal _(REN: (Unassigned))_
+- You work out your need for perfection (bigness, invulnerability) in the symptom—say, hand-washing or the avoidance of sex in marriage. We might say that the symptom itself represents the locus of the performance of heroism. No wonder that one cannot jjive it uj): that would release all by itself the whole flood of terror that one is trying to deny and overcome. _(REN: 2. Abyssal Experience, 6. Symbolic Resonance of Nothing)_
+- There is a type of person who has difficulty fetishizing and narrowing-down; he has a vivid imagination, takes in too much experience, too large a chunk of the world —and this too must be called neurotic...We saw that these people feel their isolation, their individuality. They stick out, are less built-into normal society, less securely programmed for automatic cultural action. To have difficulty partializing experience is to have difficulty living. _(REN: 3. Uncanny Illusion of Naturalism)_
+- We might say that both the artist and the neurotic bite off more than they can chew, but the artist spews it back out again and chews it over in an objectified way, as an external, active, work project. The neurotic can’t marshal this creative response embodied in a specific work, and so he chokes on his introversions. _(REN: 6. Symbolic Resonance of Nothing)_
+- The neurotic exhausts himself not only in self-preoccupations like hypochondriacal fears and all sorts of fantasies, but also in others: those around him on whom he is dependent become his therapeutic work project; he takes out his subjective problems on them. But people are not clay to be molded; they have needs and counter-wills of their own. The neurotic’s frustration as a failed artist can’t be remedied by anything but an objective creative work of his own. _(REN: (Unassigned))_
+- Either you eat up yourself and others around you, trying for perfection; or you objectify that imperfection in a work, on which you then unleash your creative powers. In this sense, some kind of objective creativity is the only answer man has to the problem of life. _(REN: (Unassigned))_
+- He takes in the world, makes a total problem out of it, and then gives out a fashioned, human answer to that problem. This, as Goethe saw in Faust, is the highest that man can achieve. _(REN: 3. Uncanny Illusion of Naturalism)_
+- its objective perfection. He is caught in a vicious circle because he experiences the unreality of fantasied self-glorification. There is really no conviction possible for man unless it comes from others or from outside himself in some way—at least not for long. One simply cannot justify his own heroism in his own inner symbolic fantasy, which is what leads the neurotic to feel more unworthy and inferior.” (this is a lot) _(REN: 6. Symbolic Resonance of Nothing)_
+- right _(REN: (Unassigned))_
+- “But it is very risky to try to be hard and fast about types of personality; there are all kinds of blends and combinations that defy precise compartmentalization. After all, one of the reasons we narrow down too much is that we must sense on some level of awareness that life is too big _(REN: (Unassigned))_
+- just about right, _(REN: (Unassigned))_
+- normal, average men _(REN: (Unassigned))_
+- “Some people are more sensitive to the lie of cultural life, to the illusions of the _(REN: 3. Uncanny Illusion of Naturalism)_
+- causa-sui project that others are so thoughtlessly and trustingly caught up in. The neurotic is having trouble with the balance of cultural illusion and natural reality; the possible horrible _(REN: 3. Uncanny Illusion of Naturalism)_
+- The caricature aspect of life appears whenever the drunkenness of illusion wears off. _(REN: 3. Uncanny Illusion of Naturalism)_
+- second _(REN: (Unassigned))_
+- We must remind ourselves that when we talk about the need for illusion we are not being cynical. True, there is a great deal of falseness and self-deception in the cultural causa-sui project, but there is also the necessity of this project. Man needs a “second _(REN: 3. Uncanny Illusion of Naturalism)_
+- Illusion _(REN: 3. Uncanny Illusion of Naturalism)_
+- deculturation _(REN: (Unassigned))_
+- It begins to look as though modern man cannot find his heroism in everyday life any more, as men did in traditional societies just by doing their daily duty of raising children, working, and worshipping. _(REN: (Unassigned))_
+- That is the price modern man pays for the eclipse of the sacred dimension. When he dethroned the ideas of soul and God he was thrown back hopelessly on his own resources, on himself and those few around him. Ever! lovers and families trap and disillusion us because they are not substitutes for absolute transcendence. We might say that they are poor illusions in the sense that we have been discussing. _(REN: 3. Uncanny Illusion of Naturalism, 6. Symbolic Resonance of Nothing)_
+- soul _(REN: (Unassigned))_
+- self _(REN: (Unassigned))_
+- soul _(REN: (Unassigned))_
+- that the universal and general cause for personal badness, guilt, and inferiority is the natural world and the persons relationship to it as a symbolic animal who must find a secure place in it. All the _(REN: 3. Uncanny Illusion of Naturalism, 6. Symbolic Resonance of Nothing)_
+- when it offers itself as a full explanation of human unhappiness, that it becomes a fraud that makes the situation of modern man an impasse from which he cannot escape. Or, put another way, _(REN: (Unassigned))_
+- Modern man needs a “thou _(REN: (Unassigned))_
+- By now it should be clear that this blurring of Rank and Kierkegaard is not a weak surrender to ideology but an actual scientific working-through of the problem of human character. Both men reached the same conclusion after the most exhaustive psychological quest: that at the very furthest reaches of scientific description, psychology has to give way to “theology _(REN: (Unassigned))_
+- this entire chapter is important, due to sections like this- _(REN: (Unassigned))_
+- shared illusions. The result is that the sinner (neurotic) is hyperconscious of the very thing he tries to deny: his creatureliness, his miserableness and unworthiness.41 The neurotic is thrown back on _(REN: 3. Uncanny Illusion of Naturalism)_
+- I am everything _(REN: (Unassigned))_
+- All reflection and no plunging drives us man; all plunging and no reflection, and we are brutes. _(REN: (Unassigned))_
+- It is one thing to imagine this “cure, _(REN: (Unassigned))_
+- prescribe _(REN: (Unassigned))_
+- A second reason for the hollowness of our prescription for neurosis follows. If there are no ready-made traditional world-views into which to fit oneself with dependency and trust, religion becomes a very personal matter—so personal that faith itself seems neurotic, like a private fantasy and an action taken out of weakness. The one thing modern man cannot do is what Kierkegaard prescribed: the lonely leap into faith, the naive personal trust in some kind of transcendental support for ones life. This support is now independent of living external rituals and customs: the church and the community do not exist, or do not carry much conviction. This situation is what helps make faith fantastic. In order for something to seem true to man, it has to be visibly supported in some way— lived, external, compelling. Men need pageants, crowds, panoplies, special days marked off on calendars—an objective focus for obsession, something to give form and body to internal fantasy, something external to yield oneself to. Otherwise the neurotic is brought back to the point of his departure: how is he to believe in his lonely, inner sense of specialness? _(REN: 3. Uncanny Illusion of Naturalism, 4. Madness, Nonexistence and the Other)_
+- The characteristic of the modem mind is the banishment of mystery, of naive belief, of simple-minded hope. We put the accent on the visible, the clear, the cause-and-effect relation, the logical—always the logical.” (I can't remember, but someone said the modern man has been stripped of his metaphysical thinking, still can't remember, Ha!) _(REN: (Unassigned))_
+- We said earlier that the question of human life is: on what level of illusion does one live? This question poses an absolutely new question for the science of mental health, namely: What is the ‘‘best _(REN: 3. Uncanny Illusion of Naturalism)_
+- best. _(REN: (Unassigned))_
+- best _(REN: (Unassigned))_
+- cosmos where they belong. It also takes the problem of self-justification and removes it from the objects near at hand. We no longer have to please those around us, but the very source of creation— the powers that created us, not those into whose lives we accidentally fell. Our life ceases to be a reflexive dialogue with the standards of our wives, husbands, friends, and leaders and becomes _(REN: (Unassigned))_
+- “Adler should have stressed more the sheer terror of individuation of difference, of being alone, _(REN: 2. Abyssal Experience)_
+- life-lie _(REN: (Unassigned))_
+- When the average person can no longer convincingly perform his safe heroics or cannot hide his failure to be his own hero, then he bogs down in the failure of depression and its terrible guilt. _(REN: (Unassigned))_
+- The depressed person exaggerates his guilt because it unblocks his dilemma in the safest and easiest way. He also, as Adler pointed out, gets the people around him to respond to him, to pity him, and to value him and take care of him. He controls them and heightens his own personality by his very self-pity and self-hatred. _(REN: (Unassigned))_
+- realist _(REN: (Unassigned))_
+- But if the neurotic is the “artiste manque, _(REN: (Unassigned))_
+- “The schizophrenic is not programmed neurally into automatic response to social meanings, but he cannot marshal an ego response, a directive control of his experiences. His own erupting meanings cannot be given any creative form. We might say that because of his exaggerated helplessness he uses his symbolic inner experiences alone as an experiential anchor, as something to lean on. He exists reflexively toward them, comes to be controlled by them instead of reshaping and using them. The genius too is not programmed in automatic cultural meanings; but he has _(REN: 6. Symbolic Resonance of Nothing)_
+- the resources of a strong ego, or at least a sufficient one, to give his own personal meanings a creative form.” _(REN: (Unassigned))_
+- The religious geniuses of history have argued that to be really submissive means to be submissive to the highest power, the true infinity and absolute—and not to any human substitutes, lovers, leaders, nationstates. _(REN: (Unassigned))_
+- He could not yield emotionally to superordinate power or conceptually to the transcendental dimension. He lived still wholly in the dimension of the visible world and was limited by what was possible in that dimension only; therefore, all his meanings had to come from that dimension. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Put in these abstract terms the ideal of the knight of faith is surely one of the most beautiful and challenging ideals ever put forth by man. It is contained in most religions in one form or another although no one, I think, has described it at length with such talent at Kierkegaard. Like all ideals it is a creative illusion, meant to lead men on, and leading men on is not the easiest tiling. As Kierkegaard said, faith is the hardest thing; he placed himself between belief and faith, unable to make the jump. The jump doesn't depend on man after all—-there's the rub: faith is a matter of grace. As Tillich later put it: religion is first an open hand to receive gifts (grace) and then a closed hand to give them. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Because you wanted to _(REN: (Unassigned))_
+- Because you felt like it _(REN: (Unassigned))_
+- James, again, knew how difficult it was to live astride both worlds, the visible and the invisible. One tended to pull you away from the other. _(REN: 4. Madness, Nonexistence and the Other)_
+- As in any religion, the adept “swears by _(REN: (Unassigned))_
+- true _(REN: (Unassigned))_
+- “It is no wonder that when therapies strip man down to his naked aloneness, to the real nature of experience and the problem of life, they slip into some kind of metaphysic of power and justification _(REN: (Unassigned))_
+- least the support of a guru who will vouch for these things in his own overpowering and harmonious-appearing person. Man must reach out for support to a dream, a metaphysic of hope that sustains him and makes his life worthwhile.” _(REN: (Unassigned))_
+- no way to transcend the limits of the human condition or to change the psychological structural conditions that make humanity possible. What can it mean for something new to emerge from such an animal and to triumph over his nature? Even though men have repeated such a notion since the most ancient times and in the most subtle and weightiest ways, even though whole movements of social action as well as thought have been inspired by such ideas, still they are mere fancy...” _(REN: (Unassigned))_
+- Consider Paul Tillich: he too had his metaphysic of New Being, the belief in the emergence of a new type of person who would be more in harmony with nature, less driven, more perceptive, more in touch with his own creative energies, and who might go on to form genuine communities to replace the collectivities of our time, communities of truer persons in place of the objective creatures created by our materialistic culture. But Tillich had fewer illusions about this New Being than most of the psychotherapeutic religionists. He saw that the idea was actually a myth, an ideal that might be worked toward and so partly realized. _(REN: 3. Uncanny Illusion of Naturalism)_
+- If you are going to have a myth of New Being, then, like Tillich, you have to use this myth as a call to the highest and most difficult effort—and not to simple joy. A creative myth is not simply a relapse into comfortable illusion; it has to be as bold as possible in order to be truly generative. _(REN: 3. Uncanny Illusion of Naturalism)_
+- What singles out Tillich’s cogitations about the New Being is that there is no nonsense here. Tillich means that man has to have the “courage to be _(REN: (Unassigned))_
+- “Again, we are talking about the highest ideal things, which always seem most unreal—but how can we settle for less? We need the boldest creative myths, not only to urge men on but also and _(REN: (Unassigned))_
+- As Tillich warned us, New Being, under the conditions and limitations of existence, will only bring into play new and sharper paradoxes, new tensions, and more painful disharmonies—a “more intense demonism. _(REN: (Unassigned))_

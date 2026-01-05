@@ -1,0 +1,37 @@
+# (Unclassified) — Thomas Kempis
+## Quotes (REN-tagged)
+- Oh how quickly passeth the glory of the world away! _(REN: 3. Uncanny Illusion of Naturalism)_
+- Vain is the life of that man who putteth his trust in men or in any created Thing. _(REN: (Unassigned))_
+- “Be not lifted up because of thy strength or beauty of body, for with only a slight sickness it will fail and wither away. _(REN: (Unassigned))_
+- How came it to pass that many of the Saints were so perfect, so contemplative of Divine things? Because they steadfastly sought to mortify themselves from all worldly desires, and so were enabled to cling with their whole heart to God, and be free and at leisure for the thought of Him. We are too much occupied with our own affections, and too anxious about transitory things. Seldom, too, do we entirely conquer even a single fault, nor are we zealous for daily growth in grace. And so we remain lukewarm and unspiritual. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- So long as we live in the world, we cannot be without trouble and trial. _(REN: 3. Uncanny Illusion of Naturalism)_
+- There is no position so sacred, no place so secret, that it is without temptations and adversities. _(REN: (Unassigned))_
+- We will that others be straitly corrected, but we will not be corrected ourselves. The freedom of others displeaseth us, but we are dissatisfied that our own wishes shall be denied us. _(REN: (Unassigned))_
+- But now hath God thus ordained, that we may learn to bear one another's burdens, because none is without defect, none without a burden, none sufficient of himself, none wise enough of himself; but it behoveth us to bear with one another, to comfort one another, to help, instruct, admonish one another. How much strength each man hath is best proved by occasions of adversity: for such occasions do not make a man frail, but show of what temper he is. _(REN: (Unassigned))_
+- Be thou never without something to do; be reading, or writing, or praying, or meditating, or doing something that is useful to the community. _(REN: (Unassigned))_
+- When a man hath perfect compunction, then all the world is burdensome and bitter to him. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Trust not thy friends and kinsfolk, nor put off the work of thy salvation to the future, for men will forget thee sooner than thou thinkest. _(REN: (Unassigned))_
+- If thou art not anxious for thyself now, who, thinkest thou, will be anxious for thee afterwards? _(REN: (Unassigned))_
+- There is no great trust to be placed in a frail and mortal man, even though he be useful and dear to us, neither should much sorrow arise within us if sometimes he oppose and contradict us. _(REN: (Unassigned))_
+- In heaven ought thy habitation to be, and all earthly things should be looked upon as it were in the passing by. All things pass away and thou equally with them. _(REN: (Unassigned))_
+- Christ was willing to suffer and be despised, and darest thou complain of any?...If thou art unwilling to suffer any adversity, how shalt thou be the friend of Christ? _(REN: (Unassigned))_
+- ...all our peace in this sad life lieth in humble suffering rather than in not feeling adversities. _(REN: (Unassigned))_
+- ...we blame little faults in others and pass over great faults in ourselves. _(REN: (Unassigned))_
+- If thou considerest well what thou art inwardly, thou wilt not care what men will say to thee. _(REN: 6. Symbolic Resonance of Nothing)_
+- If thou wouldst learn to put away from thee every created thing, Jesus would freely take up His abode with thee. _(REN: (Unassigned))_
+- For His sake and in Him let both enemies and friends be dear to thee... _(REN: (Unassigned))_
+- I have never found any man so religious and godly, but that he felt sometimes a withdrawal of the divine favour, and lack of fervour. No saint was ever so filled with rapture, so enlightened, but that sooner or later he was tempted. _(REN: (Unassigned))_
+- Behold everything dependeth upon the Cross, and everything lieth in dying; and there is none other way unto life and to true inward peace, except the way of the Holy Cross and of daily mortification. _(REN: 4. Madness, Nonexistence and the Other)_
+- For our worthiness and growth in grace lieth not in many delights and consolations, but rather in bearing many troubles and adversities. _(REN: (Unassigned))_
+- For it is not given unto all to renounce this world and its affairs, and to take up a religious life. _(REN: 3. Uncanny Illusion of Naturalism, 4. Madness, Nonexistence and the Other)_
+- It is often a small thing which casteth me down and maketh me sad. I resolve that I will act bravely, but when a little temptation cometh, immediately I am in a great strait. _(REN: (Unassigned))_
+- ...I remain in this most miserable life. Oh what a life is this, where tribulations and miseries cease not, where all things are full of snares and of enemies, for when one tribulation or temptation goeth, another cometh, yea, while the former conflict is yet raging others come more in number and unexpected. _(REN: (Unassigned))_
+- ...preserve me from the cares of this life, lest I become too much entangled; from many necessities of the body, lest I be taken captive by pleasure; from all obstacles of the spirit, lest I be broken and cast down with cares. _(REN: (Unassigned))_
+- ...the universal curse of mortality... _(REN: (Unassigned))_
+- Behold, God is mine, and all things are mine! _(REN: (Unassigned))_
+- Many men have many opinions, and therefore little trust is to be placed in them. But moreover it is impossible to please all. _(REN: (Unassigned))_
+- The true progress of man lieth in self-denial... _(REN: (Unassigned))_
+- The deeper also he descendeth into himself, and the viler he appeareth in his own eyes, the higher he ascendeth towards God. _(REN: (Unassigned))_
+- And wherefore do such trivial matters go to thine heart, except that thou art yet carnal, and regardest men more than thou oughtest? For because thou fearest to be despised, thou art unwilling to be reproved for thy faults, and seekest paltry shelters of excuses. _(REN: 3. Uncanny Illusion of Naturalism)_
+- For when thou fleest away from being abased and confounded for thy faults, it is plain that thou art neither truly humble nor truly dead to the world, and that the world is not crucified to thee. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Count the whole world as nought; seek to be alone with God before all outward things. For thou canst not be alone with Me, and at the same time be delighted with transitory things. Thou oughtest to be separated from thy acquaintances and dear friends, and keep thy mind free from all worldly comfort. _(REN: 3. Uncanny Illusion of Naturalism)_

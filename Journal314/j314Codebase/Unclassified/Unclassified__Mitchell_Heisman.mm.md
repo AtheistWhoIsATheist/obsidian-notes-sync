@@ -1,0 +1,39 @@
+# (Unclassified) — Mitchell Heisman
+## Quotes (REN-tagged)
+- ...the most important question is whether there is an important question. The only serious question is whether there is anything to take seriously. _(REN: (Unassigned))_
+- far back _(REN: (Unassigned))_
+- The attempt to be consistently materialistic yielded the tentative conclusion that the attempt to be consistently materialistic is rational self-destruction. _(REN: (Unassigned))_
+- the consequence or extension of this original experiment on myself. After exploring an unadulterated materialistic view, life lost its cogency for me.” _(REN: (Unassigned))_
+- “If humans are emotion machines, then music must work, in some sense, like a machine. _(REN: (Unassigned))_
+- technology. From the standpoint of this musical materialism, as one of the most extreme implications of an unadulterated materialism, lay a possible solution to dominance of my own _(REN: (Unassigned))_
+- analytic and objective tendency to materialize everything. I began to listen to music, especially German music (and especially Wagner and Bach), as a form of technology to counter my own tendencies to view everything as material or technology.” _(REN: (Unassigned))_
+- From a Darwinistic view, every capacity for emotion evolved as a product of genetic adaptation. Emotions, then, are biochemical-based illusions that evolved to propagate genes. Pleasure, happiness, emotions, and desire: these are the evolutionary tricks that promoted the survival of our ancestors. The “happiness _(REN: 3. Uncanny Illusion of Naturalism)_
+- sadness _(REN: (Unassigned))_
+- happiness _(REN: (Unassigned))_
+- “The attempt to eliminate all subjective bias would culminate in the elimination of science, for science has failed to produce evidence that it is capable of fully justifying itself. The very existence of science is the strongest evidence that scientists are less than fully objective. An attempted self-consistent objectivity is a self-destructing objectivity, since the bias of the subjective belief in the value of objectivity must be removed to be objective. This implies that an _(REN: (Unassigned))_
+- theory of all _(REN: (Unassigned))_
+- How, then, does a scientist choose a subject to study? Is there a way to objectively determine what the subject of objectivity should be? Is there a fundamentally objective reason for choosing the study of archaeology over the study of chemistry? Is the decision to study Sanskrit over Chinese more rational than the decision to worship Allah over not worshiping Allah? Is there a fundamentally rational ground for making one choice over another? _(REN: (Unassigned))_
+- choose _(REN: (Unassigned))_
+- If I had no biases I would be dead, rather that sitting here right now, writing about them. _(REN: (Unassigned))_
+- This means, however, that for the average Westerner who plays the basic ‘Euclidean’ rules of the liberal democratic system, my ‘non-Euclidean’ logic will likely appear to be “irrational _(REN: (Unassigned))_
+- nature _(REN: (Unassigned))_
+- universally condemned, does this mean that I do not have a valid point or does it mean _(REN: (Unassigned))_
+- The literal act of killing myself is a literal act of willing the progress of equality — the equality of the biological and the physical — by overcoming biological boundaries that preserve biology “above _(REN: (Unassigned))_
+- Just as life is a process, the undoing of life is also a process or “progress _(REN: (Unassigned))_
+- “From a materialist, Darwinist standpoint, I and every other human is an animal and a _(REN: 4. Madness, Nonexistence and the Other)_
+- material object. All emotions, whether joy or misery, elation or depression, are rooted in behavior that proved to be genetically adaptive for animal ancestors.” (this is not a piece of apologetics from an evangelical christian, this is a dude who held to this, experienced this materialist worldview, and killed himself from it) _(REN: (Unassigned))_
+- material _(REN: (Unassigned))_
+- “The decisive turn that made me different, or consummated my self-destructive difference from others, was really this experiment on myself where I systematically interpreted all subjective experience: emotions, experiences, intuitions, instincts as physical material; not better or worse _(REN: 4. Madness, Nonexistence and the Other)_
+- than any other physical material. This experiment, in its conception, amounts to a definition of disillusionment. Originally, the procedure was built on a radical selfishness— not belief in selfishness, but a tentative-programmatic one based on the tentative assumption that no premise is _(REN: 4. Madness, Nonexistence and the Other)_
+- fundamentally justified.” (fuck, this Naturalism is 'disillusionment', agreed) _(REN: 3. Uncanny Illusion of Naturalism)_
+- “Emotions are the root of beliefs. To destroy all beliefs, all belief in emotion must be destroyed. _(REN: (Unassigned))_
+- After systematically interpreting my emotions are material processes for at least a year and a half, the cause of life simply lost its cogency.” _(REN: (Unassigned))_
+- -”Instead of attempting to overcoming my socially self-destructive tendencies, I gave them free reign. Instead of doing what strengthening, I do what is weakening. Instead of doing what is considered socially acceptable, I do what is considered humiliating. These little self-destructions help feed the larger ones. Yet, at the same time, it means in at least some respects, it means I _(REN: (Unassigned))_
+- pay my rent and work out to keep myself physically fit, so I am in a position to achieve the most rational and most comprehensive self-negation.” (fuck, this is me) _(REN: (Unassigned))_
+- You must in some sense believe the subjective state of fear, and not anticipate and out-compete it with an objective, physical-material reduction, in order to take it seriously. _(REN: (Unassigned))_
+- ...I ultimately concluded that unadulterated material objectivity was probably the most basic source of the problem itself...This meant that I could take myself apart in some ways, but I could not put myself back together. _(REN: (Unassigned))_
+- the question of whether there is an important question is the most important question, then testing this question is closest thing to importance. Since counterarguments almost always _(REN: (Unassigned))_
+- Who is to say that a life of a saint, an artist, or a philosopher is superior to a life sniffing glue. _(REN: 6. Symbolic Resonance of Nothing)_
+- To engage in human relationships is to dwell within a mythological world. _(REN: 3. Uncanny Illusion of Naturalism)_
+- If reason cannot determine fundamental values, then reason can be used to justify literally anything. _(REN: (Unassigned))_
+- bottom _(REN: (Unassigned))_

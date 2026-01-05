@@ -1,0 +1,6 @@
+---
+created: 2025-08-24 07:54:59
+Folder:
+  - Journal314 / 314analysis
+  - Journal314 / Thinkers & Themes
+---

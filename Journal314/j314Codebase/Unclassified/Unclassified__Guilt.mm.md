@@ -1,0 +1,26 @@
+# (Unclassified) — Guilt*
+## Quotes (REN-tagged)
+- Uncanniness brings this entity face to face with its undisguised nullity, which belongs to the possibility of its ownmost potentiality-for-Being. _(REN: (Unassigned))_
+- ...this thrownness as a null basis which it has to take up into existence. _(REN: (Unassigned))_
+- This clash, battle, unbridgable gap of the finite/infinite allows for a Heidegger to live most of his life away from people in a cabin, to write Being and Time, live in a secluded cabin most of his life, and yet also join the Nazi party. A person cannot be Authentic! Heidegger's 'Authentic' man is an ideal in itself; it is something to pursue, rather than achieve. _(REN: (Unassigned))_
+- Thus Being-a-basis means never to have power over one's ownmost Being from the ground up. _(REN: (Unassigned))_
+- Care itself, in its very essence, is permeated with nullity through and trough. Thus 'care'- Dasein's Being- means, as thrown projection, Being-the-basis of a nullity (and this being-the-basis is itself null). This means that Dasein as such is guilty, if our formally existential definition of 'guilt' as 'Being-the-basis of a nullity' is indeed correct. _(REN: (Unassigned))_
+- Conscience is the call of care from the uncanniness of Being-in-the-world- the call which summons Dasein to its ownmost potentiality-for-Being-guilty. _(REN: 3. Uncanny Illusion of Naturalism)_
+- We miss a 'positive' content in that which is called, because we expect to be told something currently useful about assured possibilities of 'taking action' which are available and calculable. _(REN: (Unassigned))_
+- As the 'they-self, the particular Dasein has been dispersed into the 'they', and must first find itself. _(REN: (Unassigned))_
+- Furthermore, a mood of elation can alleviate the manifest burden of Being; that such a mood is possible also discloses the burdensome character of Dasein, even while it alleviates the burden. _(REN: (Unassigned))_
+- In an ontico-existentiell sense, Dasein for the most part evades the Being which discloses the mood. _(REN: (Unassigned))_
+- The expression 'throwness' is meant to suggest the facticity of its being delivered over. _(REN: (Unassigned))_
+- As an entity which has been delivered over to its Being, it remains also delivered over to the fact that it must always have found itself- but found itself in a way of finding which arises not so much from a direct seeking as rather from a fleeing. The way in which the mood discloses is not one in which we at throwness, but one in which we turn towards or turn away. For the most part the mood does not turn towards the burdensome character of Dasein which is manifest in it, and least of all does it do so in the mood of elation when this burden has been alleviated. It is always by way of a state-of-mind that this turning away is what it is. _(REN: (Unassigned))_
+- Existentially, a state-of-mind implies a disclosive submission to the world, out of which we can encounter something that matters to us. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Does such being attuned in which no-thing itself is brought before us happen in human existence? _(REN: (Unassigned))_
+- no-thing. _(REN: (Unassigned))_
+- Being there means beholdenness to no-thing. _(REN: (Unassigned))_
+- Beholden to no-thing, existence is already beyond being as a whole. We call this being above and beyond being transcendence. _(REN: (Unassigned))_
+- If existence were not of essence fundamentally transcending, which now means, were it not already beholden to no-thing, then it could not relate itself to being and so not even to itself. Without \(the\) original manifestness of no-thing, no selfhood and no freedom. _(REN: (Unassigned))_
+- Pure being and pure no-thing is the same." This proposition of Hegel's (Science of Logic) is correct. Being and no-thing belong together, not because both of them agree in their indeterminacy and immediacy, but rather because being itself is in essence finite and revealed only in the transcendence of existence enduring no-thing. _(REN: (Unassigned))_
+- Being as a whole first comes to itself in accordance with its very own possibility, that is, only in the no-thing of existence. _(REN: (Unassigned))_
+- Human existence can relate to being only if it is itself beholden to no-thing. Going above and beyond be-ing is of the essence of existence. _(REN: (Unassigned))_
+- Philosophy can never be measured by the yardstick of the idea of science. _(REN: (Unassigned))_
+- Section 54., pg. 247, side-note 268 'begins' to answer this question. (133 of 253 on the pdf file) _(REN: (Unassigned))_
+- Call of Conscious _(REN: (Unassigned))_

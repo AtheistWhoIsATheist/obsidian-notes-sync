@@ -1,0 +1,3 @@
+# Ethical Collapse — Will Durant
+## Quotes (REN-tagged)
+- the nineteenth century yielded to the pessimism of today...The biologists reported that all life lives at the expense of other life, that big things eat little things and are eaten in turn; that strong organisms use and abuse weak organisms in a hundred thousand ways forever; that the ability to kill is the ultimate test of survival; that reproduction is suicide, and that love is the prelude to replacement and death.” _(REN: 2. Abyssal Experience, 4. Madness, Nonexistence and the Other)_

@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - created >= "2025-11-01"
+    groupBy:
+      property: created
+      direction: ASC
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: created
+        direction: ASC

@@ -1,0 +1,38 @@
+# John Shelby Spong — Universal Nihilism Markmap
+## (Unclassified)
+- My commitment, however, is to the reality of Jesus as a God experience; it is not a commitment to the reality of the traditional explanations of that God experience in Jesus. _(REN: (Unassigned))_
+- My spiritual life, I now came to recognize, was destined to be an endless journey into that mystery. _(REN: (Unassigned))_
+- The spiritual reality we seek in this postmodern world cannot be achieved without enlightened minds, but it will also never be discovered without warm hearts. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Our task is to separate the eternal experience from the time-bound and time-warped explanations. _(REN: (Unassigned))_
+- Can that reality be separated from creeds, doctrines, and dogmas? _(REN: (Unassigned))_
+- Modern people today function as atheists, yet they still struggle with the religious dimension of their lives to grasp tightly an artificially respirated theism. _(REN: (Unassigned))_
+- ...the theistic definition of God was never about God; it was always about human beings desperately in need of a coping system that would enable them to live with the anxieties of what it means to be human. _(REN: (Unassigned))_
+- We fear that if theism is dismissed, only a bottomless pit remains. _(REN: (Unassigned))_
+- Jesus' disciples in every generation have struggled against their own survival mentality...This was a life so whole, so free, that he had no need to cling to it. This is the picture of one who has escaped the survival mentality that marks all self-conscious, human beings. _(REN: (Unassigned))_
+- God is experienced when life is opened up to transcendental otherness. _(REN: (Unassigned))_
+- The call of Jesus is this not a call to be religious. It is not a call to escape life's traumas, to find security, to possess peace of mind. All of those things are invitations to a life-contracting idolatry. The call of God through Jesus is a call to be fully human, to embrace insecurity without building protective fences, to accept the absence of peace of mind as a requirement for humanity. _(REN: (Unassigned))_
+## Epistemological Rupture
+- I discover that God always transcends the grasp of my explanations. The fact alone drives me beyond any religious system that claims to possess the truth of God in any particular sense. _(REN: (Unassigned))_
+- ...consciousness became self-consciousness and awareness became self-awareness...What was it like in the creatures in whom this new reality was dawning over whatever number of years it took to become the norm?...It was probably both a startling wonder and a traumatic moment of fear and enormous anxiety. I suspect these first of our human ancestors shook in their skin at the new vision of what life had become and all that it now entailed. _(REN: 2. Abyssal Experience, 5. Startling Encounter with Infinite Nothingness)_
+- It is one thing to die...It is quite another to know that you are going to die, to plan for it and to accept its inevitability. That was the human situation. _(REN: (Unassigned))_
+- The fate of all living creatures is to lose, but only human life knows this self-consciously. It is not easy to be human. _(REN: (Unassigned))_
+- ...human religious systems have never been primarily a search for truth; they have always been first and foremost a search for security. _(REN: (Unassigned))_
+- The sings of the death of a theistic understanding of God are all around us. Many of us will not allow ourselves to see them, because we have no alternative and would rather live with an illusion than try to embrace reality. _(REN: 2. Abyssal Experience, 3. Uncanny Illusion of Naturalism)_
+- I know that I must either find a way to move beyond the theistic patterns of the past in search for a new way to speak of and to engage the ultimate reality that I call God, or be honest about living in a godless world. _(REN: 3. Uncanny Illusion of Naturalism)_
+## Linguistic Futility
+- I know that I must either find a way to move beyond the theistic patterns of the past in search for a new way to speak of and to engage the ultimate reality that I call God, or be honest about living in a godless world. _(REN: 3. Uncanny Illusion of Naturalism)_
+- All of these stories from the New Testament make it clear that the meaning of the Jesus experience was that he empowered others to lay down their survival barriers, to step beyond tribe, beyond language, beyond the fear-imposed levels of our security. _(REN: (Unassigned))_
+- We need to recognize that even the word 'divine' is a human word created to name a human experience. _(REN: (Unassigned))_
+## Ontological Abyss
+- ...consciousness became self-consciousness and awareness became self-awareness...What was it like in the creatures in whom this new reality was dawning over whatever number of years it took to become the norm?...It was probably both a startling wonder and a traumatic moment of fear and enormous anxiety. I suspect these first of our human ancestors shook in their skin at the new vision of what life had become and all that it now entailed. _(REN: 2. Abyssal Experience, 5. Startling Encounter with Infinite Nothingness)_
+- It is one thing to be unaware that your existence has no meaning...it is quite another to deal with that reality consciously and to battle against it. _(REN: (Unassigned))_
+- Human beings...they will die and are aware that they will disappear...No other living thing before us has ever been required to embrace this level of anxiety. _(REN: 2. Abyssal Experience, 4. Madness, Nonexistence and the Other)_
+- It means that if life has no ultimate meaning, we alone of all other creatures embrace the threat of meaninglessness. _(REN: 1. Nihilism Preface, 4. Madness, Nonexistence and the Other)_
+- The fires of anxiety, born in self-consciousness, are thus banked by religion and we are content, if not grateful, to live inside the theistic definition of God that we created. Theism, therefore, is not who God is. Theism is a human definition of who God is. _(REN: 2. Abyssal Experience)_
+- The sings of the death of a theistic understanding of God are all around us. Many of us will not allow ourselves to see them, because we have no alternative and would rather live with an illusion than try to embrace reality. _(REN: 2. Abyssal Experience, 3. Uncanny Illusion of Naturalism)_
+- Many forms of religion are little more than cultural manifestations of the fear of nothingness. That is why people become hysterical when theism is challenged. _(REN: 2. Abyssal Experience)_
+- All of these stories from the New Testament make it clear that the meaning of the Jesus experience was that he empowered others to lay down their survival barriers, to step beyond tribe, beyond language, beyond the fear-imposed levels of our security. _(REN: (Unassigned))_
+- It is an act of enormous courage to embrace what it means to be a self-conscious human being. It is not easy to live with the awareness of the unrelieved anxiety that is the mark of human life. _(REN: 2. Abyssal Experience)_
+## Teleological Paradox
+- The fate of all living creatures is to lose, but only human life knows this self-consciously. It is not easy to be human. _(REN: (Unassigned))_
+- Many forms of religion are little more than cultural manifestations of the fear of nothingness. That is why people become hysterical when theism is challenged. _(REN: 2. Abyssal Experience)_

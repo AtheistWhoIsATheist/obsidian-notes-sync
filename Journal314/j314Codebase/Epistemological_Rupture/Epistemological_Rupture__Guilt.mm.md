@@ -1,0 +1,7 @@
+# Epistemological Rupture — Guilt*
+## Quotes (REN-tagged)
+- This calling-back in which conscience calls forth, gives Dasein to understand that Dasein itself- the null basis for its null projection, standing in the possibility of its Being- is to bring itself back to itself from its lostness in the 'they'; and this means that it is guilty. _(REN: (Unassigned))_
+- It is easy to see that the conscience which used to be an 'effluence of the divine power' now becomes a slave of Pharisaism. _(REN: (Unassigned))_
+- The pallid, evenly balanced lack of mood, which is often persistent and which is not to be mistaken for a bad mood, is far from nothing at all. Rather it is in this that Dasein becomes satiated with itself. Being has become manifest as burden (my italics). Why that should be, one does not know. And Dasein cannot know anything of the sort... _(REN: (Unassigned))_
+- 'To be disclosed' does not mean 'to be known as this sort of thing'. And even in the most indifferent and inoffensive everydayness the Being of Dasein can burst forth as a naked 'that it is and has to be. The pure 'that it is' shows itself, but the 'whence' and the 'whither' remain in darkness. _(REN: (Unassigned))_
+- After reading/listening to The Death of Ivan Illych, the illusion of everyone's actions around you is so transparent that it becomes an agony, i.e. 'hell is other people'. It's impossible not to see through the actions of all, once they are seen once. _(REN: 2. Abyssal Experience, 3. Uncanny Illusion of Naturalism, 4. Madness, Nonexistence and the Other)_

@@ -1,0 +1,4 @@
+# Teleological Paradox — Paul Tillich
+## Quotes (REN-tagged)
+- Religiously speaking, God transcends his own name. This is why the use of his name easily becomes an abuse or blasphemy. Whatever we say about that which concerns us ultimately, whether or not we call it God, has a symbolic meaning. _(REN: 6. Symbolic Resonance of Nothing)_
+- The danger of this method, of course, is that the faith, meditated in education, will remain a traditional attitude and never break through to a state of living faith. However, if this causes people to become hesitant about communicating any of the given symbols and to wait until independent questions about the meaning of life have arisen, it can lead to a powerful life of faith, but it also can lead to emptiness, to cynicism and, in reaction to it, to idolatrous forms of ultimate concern. _(REN: 6. Symbolic Resonance of Nothing)_

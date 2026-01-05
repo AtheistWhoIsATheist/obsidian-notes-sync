@@ -1,0 +1,13 @@
+{
+  "accentColor": "#4d69a3",
+  "interfaceFontFamily": "Noto Serif",
+  "textFontFamily": "Palatino Linotype",
+  "baseFontSize": 15,
+  "cssTheme": "Border",
+  "showRibbon": true,
+  "baseFontSizeAction": true,
+  "theme": "system",
+  "showViewHeader": true,
+  "enabledCssSnippets": [],
+  "monospaceFontFamily": "Source Code Pro"
+}

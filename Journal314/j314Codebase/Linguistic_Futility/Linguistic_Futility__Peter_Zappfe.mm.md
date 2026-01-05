@@ -1,0 +1,4 @@
+# Linguistic Futility — Peter Zappfe
+## Quotes (REN-tagged)
+- In everyday interaction, isolation is manifested in a general code of mutual silence: primarily toward children, so these are not at once scared senseless by the life they have just begun, but retain their illusions until they can afford to lose them. _(REN: 3. Uncanny Illusion of Naturalism, 6. Symbolic Resonance of Nothing)_
+- And if we use the word in a religious sense, only the latter description fits. For here, none has yet been clear about what he is longing for, but one has always a heartfelt awareness of what one is longing away from, namely the earthly vale of tears, one’s own inendurable condition. If awareness of this predicament is the deepest stratum of the soul, as argued above, then it is also understandable why the religious yearning is felt and experienced as fundamental. _(REN: (Unassigned))_

@@ -1,0 +1,4 @@
+# Ontological Abyss — Jesus
+## Quotes (REN-tagged)
+- And do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell. _(REN: 2. Abyssal Experience, 4. Madness, Nonexistence and the Other)_
+- Godliness with contentment is great gain. For we brought nothing into this world, and it is certain we can carry nothing out. And having food and raiment, let us be there with content. But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition. For the love of money is the root of all evil; which, while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows. _(REN: 3. Uncanny Illusion of Naturalism)_

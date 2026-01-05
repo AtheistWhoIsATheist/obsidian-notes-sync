@@ -1,0 +1,6 @@
+# Ethical Collapse — Thomas Keating
+## Quotes (REN-tagged)
+- Sometimes a sense of failure is a great means to true humility, which is what God most looks for in us. I realize this is not the language of success, but we have oversubscribed to that language. We need to hear about the interior freedom that comes through participation in the sufferings of Christ, the symbol of God’s love for everyone on earth. _(REN: 6. Symbolic Resonance of Nothing)_
+- The same unconditional love that moves in God is moving in us by grace, supplanting the human ego with the divine “I. _(REN: (Unassigned))_
+- We are not sick just because of some physiological pathology. It is not just a question of sin either; it is a question of the human condition, for which none of us is initially responsible but, on becoming adults, we are now called to be responsible. _(REN: (Unassigned))_
+- To what might we liken our awareness in ordinary daily life? It is like being at a good movie where we identify with the characters on the screen. We may even forget that we are in the movie house. In similar fashion, unless our selfish programs for happiness have begun to be dismantled by a spiritual practice or discipline, we are not aware that events and people or our plans and memories are dominating our awareness from morning to night. _(REN: (Unassigned))_

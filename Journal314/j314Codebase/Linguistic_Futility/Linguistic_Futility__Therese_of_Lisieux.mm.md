@@ -1,0 +1,4 @@
+# Linguistic Futility — Therese of Lisieux
+## Quotes (REN-tagged)
+- ...there are no words really to explain these things. The words will always fall short of the reality. _(REN: (Unassigned))_
+- It is therefore not enough for me to give to whoever asks--I ought to anticipate the wish, and show myself glad to be of service; but if anything of mine be taken away, I should show myself glad to be rid of it. I cannot always carry out to the letter the words of the Gospel, for there are occasions when I am compelled to refuse some request…The Divine precepts run contrary to our natural inclinations, and without the help of grace it would be impossible to understand them, far less to put them in practice. _(REN: 3. Uncanny Illusion of Naturalism)_

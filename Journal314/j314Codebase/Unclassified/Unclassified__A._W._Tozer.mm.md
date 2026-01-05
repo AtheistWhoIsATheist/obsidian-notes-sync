@@ -1,0 +1,33 @@
+# (Unclassified) — A. W. Tozer
+## Quotes (REN-tagged)
+- How tragic that we in this dark day have had our seeking done for us by our teachers. Everything is made to center upon the initial act of "accepting" Christ (a term, incidentally, which is not found in the Bible) and we are not expected thereafter to crave any further revelation of God to our souls. We have been snared in the coils of a spurious logic which insists that if we have found Him we need no more seek Him. _(REN: 4. Madness, Nonexistence and the Other)_
+- Complacency is a deadly foe of all spiritual growth. _(REN: (Unassigned))_
+- Again, he recommends that in prayer we practice a further stripping down of everything, even of our theology. _(REN: (Unassigned))_
+- poor in spirit. _(REN: (Unassigned))_
+- If the longing after God is strong enough within him he will want to do something about the matter. _(REN: 3. Uncanny Illusion of Naturalism)_
+- ...the life of man upon the earth is a life away from the Presence... _(REN: (Unassigned))_
+- spiritual experience, to become suddenly aware that we are in God and that God is in us. (Terence Mckenna, Psychedelics, Nietzsche's 'lack of experience', etc.) _(REN: (Unassigned))_
+- experience, never by mere instruction. As well try to instruct leprosy out of our system. There must be a work of God in destruction before we are free. We must invite the cross to do its deadly work within us. We must bring our self-sins to the cross for judgment. We must prepare ourselves for an ordeal of suffering in some measure like that through which our Saviour passed when He suffered under Pontius Pilate.” _(REN: (Unassigned))_
+- A spiritual kingdom lies all about us, enclosing us, embracing us, altogether within reach of our inner selves, waiting for us to recognize it. God Himself is here waiting our response to His Presence. This eternal world will come alive to us the moment we begin to reckon upon its reality. _(REN: 3. Uncanny Illusion of Naturalism)_
+- We must shift our interest from the seen to the unseen. _(REN: (Unassigned))_
+- If we truly want to follow God we must seek to be other-worldly. _(REN: 4. Madness, Nonexistence and the Other)_
+- He is transcendent above all His works even while He is immanent within them. _(REN: (Unassigned))_
+- mystic _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- “How different for example was Moses from Isaiah; how different was Elijah from _(REN: (Unassigned))_
+- David; how unlike each other were John and Paul, St. Francis and Luther, Finney and Thomas a _(REN: 4. Madness, Nonexistence and the Other)_
+- For this great sickness that is upon us no one person is responsible, and no Christian is wholly _(REN: (Unassigned))_
+- “This universal Voice has ever sounded, and it has often troubled men even when they did not _(REN: (Unassigned))_
+- loneliness, or a feeling of wonder or awe in the face of the universal vastness. Or we have had a _(REN: (Unassigned))_
+- fleeting visitation of light like an illumination from some other sun, giving us in a quick flash an _(REN: 4. Madness, Nonexistence and the Other)_
+- some token respect to Him, but a simple test will show how little He is really honored among them. _(REN: (Unassigned))_
+- Let the average man be put to the proof on the question of who is above, and his true position will _(REN: (Unassigned))_
+- be exposed. Let him be forced into making a choice between God and money, between God and _(REN: 3. Uncanny Illusion of Naturalism)_
+- second place every time. Those other things will be exalted above. However the man may protest, _(REN: 4. Madness, Nonexistence and the Other)_
+- Be thou exalted _(REN: (Unassigned))_
+- “Another saying of Jesus, and a most disturbing one, was put in the form of a question, “How _(REN: (Unassigned))_
+- intellectual difficulties _(REN: (Unassigned))_
+- of pride; instead of mourners we find pleasure seekers; instead of meekness, arrogance; instead of _(REN: (Unassigned))_
+- of peacemakers we find men quarrelsome and resentful; instead of rejoicing in mistreatment we find _(REN: (Unassigned))_
+- The burden is not a local one, peculiar to those first hearers, but one which is borne by the whole human race. It consists not of political oppression or poverty or hard work. It is far deeper than that. It is felt by the rich as well as the poor for it is something from which wealth and idleness can never deliver us. The burden borne by mankind is a heavy and crushing thing. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Our trouble springs from the fact that we who follow Christ inhabit at once two worlds, the spiritual and the natural...Merely to live among men requires of us years of hard toil and much care and attention to the things of this world. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Over against these sacred acts are the secular ones. They include all of the ordinary activities of life...The upshot of this is that we are uneasy most of the time. We go about our common tasks with a feeling of deep frustration, telling ourselves pensively that there’s a better day coming when we shall slough off this earthly shell and be bothered no more with the affairs of this world. _(REN: 3. Uncanny Illusion of Naturalism)_

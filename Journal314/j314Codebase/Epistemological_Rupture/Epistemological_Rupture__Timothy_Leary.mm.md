@@ -1,0 +1,5 @@
+# Epistemological Rupture — Timothy Leary
+## Quotes (REN-tagged)
+- “For thousands of years the greatest artists, poets, philosophers, and lovers have used consciousness-expanding substances to turn-on tune-in drop-out. As part of the search for the meaning of life. As tools to reach new levels of awareness. To see beyond _(REN: (Unassigned))_
+- Do you wish to use marijuana and LSD to get beyond the TV scenario? To enhance creativity? As catalysts to deepen wisdom? If so, you will be helped by making explicit the religious nature of your psychedelic activities. _(REN: (Unassigned))_
+- Throughout human history, as our species has faced the frightening, terrorizing fact that we do not know who we are, or where we are going in this ocean of chaos, it has been the authorities, the political, the religious, the educational authorities who attempted to comfort us by giving us order, rules, regulations, informing, forming in our minds their view of reality. To think for yourself you must question authority and learn how to put yourself in a state of vulnerable, open-mindedness; chaotic, confused, vulnerability to inform yourself. _(REN: 2. Abyssal Experience)_

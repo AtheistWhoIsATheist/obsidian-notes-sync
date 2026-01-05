@@ -1,0 +1,3 @@
+# Epistemological Rupture — John Bunyan
+## Quotes (REN-tagged)
+- I did ever so know now what it was to be weary of my life and yet afraid to die. I Oh, how gladly I would have been anybody but myself, anything but a man, and in any condition but my own. There was nothing that did cross my mind more frequently than that it was impossible for me to be forgiven my transgression and be saved from the wrath to come. (Tolstoy, Kierkegaard, Cioran) _(REN: (Unassigned))_

@@ -1,0 +1,35 @@
+# (Unclassified) — Lev Shestov
+## Quotes (REN-tagged)
+- Let us hear how the pope answers Zarathustra: "‘O Zarathustra, with such unbelief, you are more pious than you believe. Some God in you has converted you to your ungodliness. Is it not your piety itself that no longer lets you believe in God?' _(REN: (Unassigned))_
+- immoralism. _(REN: (Unassigned))_
+- above. _(REN: (Unassigned))_
+- many _(REN: (Unassigned))_
+- The Wanderer, _(REN: (Unassigned))_
+- immoralism _(REN: (Unassigned))_
+- The shore has disappeared from my sight, the waves of the infinite have engulfed me. _(REN: (Unassigned))_
+- says Kierkegaard, _(REN: (Unassigned))_
+- The fight he has taken up is too daring; even the boldest of men cannot avoid being frightened by it. Everything has been taken from Kierkegaard. He has "withdrawn from the general," he is "deprived of the protection of the laws. _(REN: (Unassigned))_
+- Earthly misfortunes, however terrible or grand they may be, do not give man a deciding voice at the council of the great and eternal forces of nature. _(REN: (Unassigned))_
+- No, I cannot make this movement. As soon as I try to do so, everything begins to whirl about me. _(REN: (Unassigned))_
+- To make the final movement, the paradoxical movement of faith is simply impossible for me. And I run to take shelter in the bitterness of resignation. _(REN: (Unassigned))_
+- Whence came all these "I cannots" and "impossible's"? Who or what paralyzes Kierkegaard's will, prevents him from making what he calls the movement of faith, and imperiously drives him into the sorrowful vale of resignation and inaction? Philosophy (that is, rational thinking) does not, as he tells us, have the right to take man's faith away with its glib talk. _(REN: (Unassigned))_
+- We must not strive for finite happiness—must not aim for the flocks and lands of Job, or the return of a son, or the winning of the king's daughter—for everything finite passes; such is the fundamental law of existence. _(REN: (Unassigned))_
+- Eternity devours everything and never returns what she has seized. She does not recognize "repetition" and takes from man with equal indifference all that is most precious to him—his honor, his pride, his Isaac, his Regina Olsen. _(REN: (Unassigned))_
+- he writes, _(REN: (Unassigned))_
+- And again, a page later: _(REN: (Unassigned))_
+- He approached the mystery of the Fall without having rid himself of the "uncertainty of fear" (is it indeed possible to get rid of fear; has anyone ever succeeded in driving it away?), and then he found it necessary to misinterpret, i.e., to amend and alter the Biblical story and even to invest the state of innocence with what he had found in his own experience, the experience of a sinful, fallen man. He achieved a "logical explanation" which he had so stubbornly resisted. _(REN: (Unassigned))_
+- But when someone asks you a stupid question, beware of answering it—you will become just as stupid as the questioner. _(REN: (Unassigned))_
+- The life of Christ, _(REN: (Unassigned))_
+- He lingers with particular attention, not to say fondness, over the famous passage from the Gospel of St. Luke: if you do not hate your father, mother, and so on, Christ, Christ himself demands that you hate your father, mother, wife, children. This alone can reconcile Kierkegaard; only reaching this paradoxical limit of cruelty can "set his mind at rest," if the phrase "set one's mind at rest" can in any sense be applied to Kierkegaard. _(REN: 6. Symbolic Resonance of Nothing)_
+- Kierkegaard was aware of all this; in Stages on Life's Way he wrote: "The bustling parsons and their advisors from the laity, who wish to deliver man from fear of the terrible, are opposed to me. It is true that anyone who wants to attain anything in this life would be better off forgetting about the terrible. But anyone who sets himself problems of a religious nature must open his soul to the terrible. _(REN: (Unassigned))_
+- ...there is no escape, either for God or for men, from the horrors of existence. But, if this is so, if these horrors are so inextricably bound up with existence—then not only must they not be hidden away, they must not even be covered over; they must be brought to view, and must not be avoided, but sought out, not only accepted, but given our blessing. _(REN: (Unassigned))_
+- Picture two believers, _(REN: (Unassigned))_
+- he continues, _(REN: (Unassigned))_
+- Further on Kierkegaard tells us more specifically what the _(REN: (Unassigned))_
+- had to bear, how he was driven and persecuted, and after that he concludes: _(REN: (Unassigned))_
+- crying injustice _(REN: (Unassigned))_
+- We will recall that Kierkegaard not only remained aloof from Hegel and theoretical philosophy, but also drew a line between himself and the mystics; we would hardly be wrong in saying that what repelled him most of all in the mystics was the very thing that makes them so attractive to most people, even educated persons of our own time: their earthly bliss, humanly attainable right here on earth. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- Kierkegaard himself could not endure his own "severity" and his "ferocious" Christianity, and I think it would not even be a distortion of the formal text for us to say that there is not a soul alive who could endure the severity of Kierkegaard's Christianity. _(REN: 6. Symbolic Resonance of Nothing)_
+- We human beings suppose that the main thing is to pass our lives happily in this world. Christianity, however, holds that all horrors are of the next world; the horrors of our world are but child's play in comparison with the horrors of eternity; and therefore the problem is not to live happily in this world, but to achieve through suffering a genuine relationship to eternity. _(REN: 3. Uncanny Illusion of Naturalism)_
+- ...life tortures men and continues to torture them from all sides, and for a long time has been wringing from them the admission that what is, not only is as it is, but cannot be otherwise. _(REN: (Unassigned))_
+- Historical Christianity, which adapts itself to the average conditions of human existence, has forgotten God, has renounced God. It is satisfied with "possibilities," convinced a priori that God, too, must be satisfied with the possible; Christians, as Kierkegaard put it, have abolished Christ. _(REN: 4. Madness, Nonexistence and the Other)_

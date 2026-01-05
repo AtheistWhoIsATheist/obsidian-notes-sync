@@ -1,0 +1,3 @@
+# Teleological Paradox — GK Chesterton
+## Quotes (REN-tagged)
+- It is idle to talk always of the alternative of reason and faith. Reason is itself a matter of faith. It is an act of faith to assert that our thoughts have any relation to reality at all. If you are merely a sceptic, you must sooner or later ask yourself the question, "Why should anything go right; even observation and deduction? Why should not good logic be as misleading as bad logic? _(REN: 3. Uncanny Illusion of Naturalism)_

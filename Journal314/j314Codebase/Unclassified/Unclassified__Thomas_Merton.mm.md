@@ -1,0 +1,8 @@
+# (Unclassified) — Thomas Merton
+## Quotes (REN-tagged)
+- a person would be wasting his time if he thought reasoning alone could satisfy the need of his soul for spiritual meditation. Meditation is not merely a matter of “thinking things out, _(REN: 3. Uncanny Illusion of Naturalism)_
+- cloud of unknowing, _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- Here is the principle. All the members of the Mystical Body of Christ have, in actual fact, the divine life of Christ within them and are “mystically _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- ...God is infinitely above us, although He is within us and is the principle of our being. _(REN: (Unassigned))_
+- Habitual self-complacency is almost always a sign of spiritual stagnation. The complacent no longer feel in themselves any real indigence, any urgent need for God. Their meditations are comfortable, reassuring and inconclusive. Their mental prayer quickly degenerates into day-dreaming, distractions or plain undisguised sleep. For this reason trials and temptations can prove to be a real blessing in the life of prayer, simply because they force us to pray. It is when we begin to find out our need for God that we first learn how to make a real meditation. _(REN: (Unassigned))_
+- Meditation makes use of definite theological and philosophical ideas of God. It deals with ideas and principles which, when the soul is enlightened by faith and moved to action by charity, bear fruit in deep supernatural convictions. _(REN: (Unassigned))_

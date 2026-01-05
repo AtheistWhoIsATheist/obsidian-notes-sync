@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("314Prompt", "314quotes", "314analysis", "314Universal", "314RENSum", "314extract", "314deep", "314quote", "314sum", "314ren", "314dataset", "journal314")
+    sort:
+      - property: file.name
+        direction: ASC

@@ -1,0 +1,4 @@
+# Teleological Paradox — A. W. Tozer
+## Quotes (REN-tagged)
+- ...it would seem that there is within each of us an enemy which we tolerate at our peril. Jesus called it "life" and "self," or as we would say, the self-life. Its chief characteristic is its possessiveness: the words "gain" and "profit" suggest this. To allow this enemy to live is in the end to lose everything. _(REN: 6. Symbolic Resonance of Nothing)_
+- why do they know so little of that habitual conscious communion with God which the Scriptures seem to offer? The answer is our chronic unbelief. Faith enables our spiritual sense to function. Where faith is defective the result will be inward insensibility and numbness toward spiritual things. This is the condition of vast numbers of Christians today. No proof is necessary to support that statement. We have but to converse with the first Christian we meet or enter the first church we find open to acquire all the proof we need. _(REN: (Unassigned))_

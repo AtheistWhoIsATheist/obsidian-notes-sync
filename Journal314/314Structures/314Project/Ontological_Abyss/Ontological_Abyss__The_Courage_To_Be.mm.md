@@ -1,0 +1,3 @@
+# Ontological Abyss — The Courage To Be
+## Quotes (REN-tagged)
+- The answer must accept, as its precondition, the state of meaninglessness. It is not an answer if it demands the removal of this state; for that is just what cannot be done. He who is in the grip of doubt and meaninglessness cannot liberate himself from this grip...if one does not try to escape the question...In this situation the meaning of life is reduced to despair about the meaning of life. _(REN: 1. Nihilism Preface, 2. Abyssal Experience)_

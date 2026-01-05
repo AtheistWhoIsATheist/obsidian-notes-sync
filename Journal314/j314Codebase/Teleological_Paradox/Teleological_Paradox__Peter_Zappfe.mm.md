@@ -1,0 +1,5 @@
+# Teleological Paradox — Peter Zappfe
+## Quotes (REN-tagged)
+- Why, then, has mankind not long ago gone extinct during great epidemics of madness? Why do only a fairly minor number of individuals perish because they fail to endure the strain of living – because cognition gives them more than they can carry? _(REN: 4. Madness, Nonexistence and the Other)_
+- And if we use the word in a religious sense, only the latter description fits. For here, none has yet been clear about what he is longing for, but one has always a heartfelt awareness of what one is longing away from, namely the earthly vale of tears, one’s own inendurable condition. If awareness of this predicament is the deepest stratum of the soul, as argued above, then it is also understandable why the religious yearning is felt and experienced as fundamental. _(REN: (Unassigned))_
+- If we continue these considerations to the bitter end, then the conclusion is not in doubt. As long as humankind recklessly proceeds in the fateful delusion of being biologically fated for triumph, nothing essential will change. _(REN: (Unassigned))_

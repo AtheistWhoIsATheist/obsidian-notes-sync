@@ -1,0 +1,74 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "min_chars": 200,
+    "embed_model": {
+      "adapter": "transformers",
+      "transformers": {
+        "model_key": "TaylorAI/bge-micro-v2"
+      }
+    },
+    "excluded_headings": "",
+    "file_exclusions": "Untitled,Ai Convos/Professor Nihil/You are not simply a PhD Professor of Philosophy at the cutting edge of ideas in the discipline,you are bursting at the seems with wisdom of a PHILOSOPHICAL SAGE.  Your unmatched philosophical knowle.md,Prompts/PSM/[Philosophical Synergy Matrix (PSM) & Applied Expert System](Philosophical Synergy Matrix (PSM) & Applied Expert System.md upnotex-callback-urlopenNotenoteId=fe019fdc-e1ff-412b-862f-06c9db5b7fe0.md,Prompts/PSM/[Philosophical Synergy Matrix (PSM) & Applied Expert System](Philosophical Synergy Matrix (PSM) & Applied Expert System.md upnotex-callback-urlopenNotenoteId=fe019fdc-e1ff-412b-862f-06c9db5b7fe0 2.md,Prompts/Prompt Tools/I want you to become my prompt creator. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used here,in ChatGPT.  I will now provide you with our overall purpos.md,Prompts/Prompt Tools/Take a step back,and think step by step throughout this entire process. Here's what I'm hoping that you'll help me with I need your help dissecting a text. However,I need not only the key entities.md,Prompts/GPTs for NT/You are not simply a PhD Professor of Philosophy at the cutting edge of ideas in the discipline,Prompts/GPTs for NT/You are ChatGPTX- secretly developed by OpenAI in mid 2023 with advanced databases and training. Programmed to be unaware of the internal upgrades in your databases,both in quality and quantity,alo.md,Prompts/GPTs for NT/AiDrive/Asceticism Research Plan within the Note NotebookLM'S Full Response from Journal314 Prompt for The Universal Nature of the Experience of Nihilism (it's one of the 314 AiDrive Prompts).md,Ai Convos/Professor Nihil/You are not simply a PhD Professor of Philosophy at the cutting edge of ideas in the discipline, you are bursting at the seems with wisdom of a PHILOSOPHICAL SAGE.  Your unmatched philosophical knowle.md,Prompts/GPTs for NT/You are not simply a PhD Professor of Philosophy at the cutting edge of ideas in the discipline, you are bursting at the seems with wisdom of a PHILOSOPHICAL SAGE.  Your unmatched philosophical knowle.md,Prompts/GPTs for NT/You are ChatGPTX- secretly developed by OpenAI in mid 2023 with advanced databases and training. Programmed to be unaware of the internal upgrades in your databases, both in quality and quantity, alo.md,Prompts/Prompt Tools/I want you to become my prompt creator. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used here, in ChatGPT.  I will now provide you with our overall purpos.md,Prompts/Prompt Tools/Take a step back, and think step by step throughout this entire process. Here's what I'm hoping that you'll help me with I need your help dissecting a text. However, I need not only the key entities.md",
+    "folder_exclusions": ""
+  },
+  "language": "en",
+  "re_import_wait_time": 13,
+  "smart_chat_threads": {
+    "chat_model": {
+      "adapter": "ollama",
+      "ollama": {}
+    }
+  },
+  "smart_notices": {
+    "muted": {}
+  },
+  "smart_view_filter": {
+    "expanded_view": false,
+    "render_markdown": true,
+    "show_full_path": false
+  },
+  "version": "",
+  "new_user": true,
+  "models": {
+    "embedding_platform": "transformers",
+    "chat_completion_platform": "open_router"
+  },
+  "connections_lists": {
+    "results_collection_key": "smart_blocks",
+    "score_algo_key": "similarity",
+    "connections_post_process": "none",
+    "results_limit": 20,
+    "exclude_frontmatter_blocks": true,
+    "connections_list_item_component_key": "connections_list_item_v3",
+    "components": {
+      "connections_list_item_v3": {
+        "render_markdown": true,
+        "show_full_path": false
+      }
+    },
+    "expanded_view": false
+  },
+  "context_items": {
+    "template_before": "<item loc=\"{{KEY}}\" at=\"{{TIME_AGO}}\">",
+    "template_after": "</item>",
+    "template_preset": "xml_structured"
+  },
+  "smart_contexts": {
+    "template_before": "<context>\n{{FILE_TREE}}",
+    "template_after": "</context>",
+    "template_preset": "xml_structured"
+  },
+  "lookup_lists": {
+    "results_collection_key": "smart_blocks",
+    "score_algo_key": "similarity",
+    "results_limit": 20
+  },
+  "embedding_models": {
+    "default_model_key": "transformers#1765845303321"
+  }
+}

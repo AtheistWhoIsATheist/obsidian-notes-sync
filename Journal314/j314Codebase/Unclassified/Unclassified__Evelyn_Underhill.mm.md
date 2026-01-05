@@ -1,0 +1,103 @@
+# (Unclassified) — Evelyn Underhill
+## Quotes (REN-tagged)
+- conception of being, _(REN: (Unassigned))_
+- extraordinarily imaginative fellow. _(REN: (Unassigned))_
+- The mind which seeks the Real, then, in this shifting and subjective “natural _(REN: 3. Uncanny Illusion of Naturalism)_
+- seer _(REN: (Unassigned))_
+- seen. _(REN: (Unassigned))_
+- in itself _(REN: (Unassigned))_
+- instinct for the Absolute, _(REN: (Unassigned))_
+- But, when we ask the idealist how we are to attain communion with the reality which he describes to us as “certainly there, _(REN: (Unassigned))_
+- laws of nature _(REN: (Unassigned))_
+- Amongst the more intractable of these groups of perceptions and experiences are those which we connect with religion, with pain and with beauty. All three, for those selves which are capable of receiving their messages, possess a mysterious authority far in excess of those feelings, arguments, or appearances which they may happen to contradict. All three, were the universe of the naturalists true, would be absurd...” _(REN: 1. Nihilism Preface, 3. Uncanny Illusion of Naturalism)_
+- If it is to be vanquished, either the disharmony must be resolved by a deliberate and careful adjustment of the self to the world of sense, or, that self must turn from the sense-world to some other with which it is in tune. Pessimist and optimist here join hands. But whilst the pessimist, resting in appearance, only sees “nature red in tooth and claw _(REN: 3. Uncanny Illusion of Naturalism, 4. Madness, Nonexistence and the Other)_
+- useless _(REN: (Unassigned))_
+- natural _(REN: 3. Uncanny Illusion of Naturalism)_
+- supernatural _(REN: (Unassigned))_
+- Gloriari in tribulatione non est grave amanti, _(REN: (Unassigned))_
+- He calls suffering the “gymnastic of eternity, _(REN: (Unassigned))_
+- terrible p. 20 initiative caress of God _(REN: (Unassigned))_
+- Pain, then, which plunges like a sword through creation, leaving on the one side cringing and degraded animals and on the other side heroes and saints, is one of those facts of universal experience which are peculiarly intractable from the point of view of a merely materialistic philosophy. _(REN: 4. Madness, Nonexistence and the Other)_
+- The seeing self is indeed an initiate thrust suddenly into the sanctuary of the mysteries: and feels the “old awe and amazement _(REN: (Unassigned))_
+- act of union, _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- reasoned about, _(REN: (Unassigned))_
+- This act of perfect concentration, the passionate focusing of the self upon one point, when it is applied “with a naked intent _(REN: (Unassigned))_
+- It appears generally from these that the act of contemplation is for the mystic a psychic gateway; a method of going from one level of consciousness to another...It was recognized by Plato as that consciousness which could apprehend the real world of the Ideas. _(REN: 3. Uncanny Illusion of Naturalism, 5. Startling Encounter with Infinite Nothingness)_
+- These adventures, looked upon by those who stay at home as a form of the Higher Laziness, are in reality the last and most arduous labours which the human spirit is called to perform. _(REN: (Unassigned))_
+- The value of contemplation is that it tends to produce this state, release this transcendental sense; and so turns the “lower servitude _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- higher servitude _(REN: (Unassigned))_
+- in Whom we live and move and have our being. _(REN: (Unassigned))_
+- The mystic way must therefore be a life, a discipline... _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- It is clear that under ordinary conditions, and save for sudden gusts of “Transcendental Feeling _(REN: (Unassigned))_
+- Dweller in the Innermost _(REN: (Unassigned))_
+- Transcendental Feeling, _(REN: (Unassigned))_
+- “The two eyes of the soul of man, _(REN: (Unassigned))_
+- Theologia p. 56 Germanica, _(REN: (Unassigned))_
+- Transcendental matters are, for most of us, always beyond the margin; because most of us have given up our whole consciousness to the occupation of the senses, and permitted them to construct there a universe in which we are contented to remain. Only in certain states—recollection, contemplation, ecstasy and their allied conditions—does the self contrive to turn out the usual tenants, shut the “gateways of the flesh, _(REN: 3. Uncanny Illusion of Naturalism, 5. Startling Encounter with Infinite Nothingness)_
+- personality _(REN: (Unassigned))_
+- character _(REN: (Unassigned))_
+- They have not hesitated to call St. Paul an epileptic. St. Teresa the “patron saint of hysterics _(REN: (Unassigned))_
+- “In such cases as Kant and Beethoven, _(REN: (Unassigned))_
+- a classifier of humanity according to its psycho-physical phenomena alone would put these great discoverers and creators, without hesitation, amongst hopeless and useless hypochondriacs. _(REN: (Unassigned))_
+- Our bodies are animal things, made for animal activities. When a spirit of unusual ardour insists on using its nerve-cells for other activities, they kick against the pricks; and inflict, as the mystics themselves acknowledge, the penalty of “mystical ill-health. _(REN: 4. Madness, Nonexistence and the Other, 5. Startling Encounter with Infinite Nothingness)_
+- Believe me, children, _(REN: (Unassigned))_
+- To let oneself go, be quiet, receptive, appears to be the condition under which such contact with the Cosmic Life may be obtained. _(REN: (Unassigned))_
+- (4) Neither conation nor cognition—action nor thought—as performed by this surface mind, concerned as it is with natural existence and dominated by spatial conceptions, is able to set up any relations with the Absolute or transcendental world. Such action and thought deal wholly with material supplied directly or indirectly by the world of sense. The testimony of the mystics, however, and of all persons possessing an “instinct for the Absolute, _(REN: 3. Uncanny Illusion of Naturalism, 5. Startling Encounter with Infinite Nothingness)_
+- below the threshold _(REN: (Unassigned))_
+- subliminal life. _(REN: (Unassigned))_
+- substantial _(REN: (Unassigned))_
+- ...transcendental philosophy, hardly comes within the scope of the present inquiry; since it is purely academic, whilst both magic and mysticism are practical and empirical. Such philosophy is often wrongly called mysticism, because it tries to make maps of the countries which the mystic explores. Its performances are useful, as diagrams are useful, so long as they do not ape finality; remembering that the only final thing is personal experience… _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- The paradoxical "quiet" of the contemplative is but the outward stillness essential to inward work. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- Mysticism is an entirely spiritual activity. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- The mystics are emphatic in their statement that spiritual desires are useless unless they initiate this costly movement of the whole self towards the Real. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- Further, since He is One, and in all things, "to conceive one's self as separate from God is an error: yet only when one sees oneself as separate from God, can one reach out to God. _(REN: (Unassigned))_
+- Further, the Christian atmosphere is the one in which the individual mystic has most often been able to develop his genius in a sane and fruitful way; and an overwhelming majority of the great European contemplatives have been Christians of a strong impassioned and personal type. This alone would justify us in regarding it as embodying, at any rate in the West, the substance of the true tradition: providing the "path of least resistance" through which that tradition flows. The very heretics of Christianity have often owed their attraction almost wholly to the mystical element in their teachings. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- This hard and wholly unnutritious shell, this one-sided secretion of the surface-consciousness, makes as it were a little cave of illusion for each separate soul. A literal and deliberate getting out of the cave must be for every mystic, as it was for Plato's prisoners, the first step in the individual hunt for reality. _(REN: 3. Uncanny Illusion of Naturalism, 5. Startling Encounter with Infinite Nothingness)_
+- That which we call the "natural" self as it exists in the "natural" world--the "old Adam" of St. Paul--is wholly incapable of supersensual adventure. _(REN: 3. Uncanny Illusion of Naturalism)_
+- The lives of the mystics abound in instances of the "vehemence of this showing": of the deep-seated sense of necessity which urges the newly awakened self to a life of discomfort and conflict, often to intense poverty and pain, as the only way of replacing false experience by true. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- To the true lover of the Absolute, Purgation no less than Illumination is a privilege, a dreadful joy. It is an earnest of increasing life. "Let me suffer or die!" said St. Teresa: a strange alternative in the ears of common sense, but a forced option in the spiritual sphere. _(REN: 2. Abyssal Experience)_
+- It is in this torment of contrition, this acute consciousness of unworthiness, that we have the first swing back of the oscillating self from the initial state of mystic pleasure to the complementary state of pain. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- We must be filled with a burning fervour full of anguish. _(REN: (Unassigned))_
+- (1) The Negative aspect, the stripping or purging away of those superfluous, unreal, and harmful things which dissipate the precious energies of the self. This is the business of Poverty, or Detachment . (2) The Positive aspect: p. 205 a raising to their highest term, their purest state, of all that remains--the permanent elements of character. This is brought about by Mortification, the gymnastic of the soul: a deliberate recourse to painful experiences and difficult tasks. _(REN: (Unassigned))_
+- holy indifference _(REN: (Unassigned))_
+- To it all creatures are pure to enjoy! _(REN: (Unassigned))_
+- all creatures in God and God in all creatures. _(REN: (Unassigned))_
+- Poverty, then, prepares man's spirit for that union with God to which it aspires. She strips off the clothing which he so often mistakes for himself, transvaluates all his values, and shows him things as they are. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- The true rule of poverty consists in giving up those things which enchain the spirit, divide its interests, and deflect it on its road to God--whether these things be riches, habits, religious observances, friends, interests, distastes, or desires--not in mere outward destitution for its own sake. _(REN: 3. Uncanny Illusion of Naturalism)_
+- It is impossible to predict what those things will be which a self must give up, in order that the transcendental consciousness may grow. _(REN: (Unassigned))_
+- Thus each adventurer must discover and extirpate all those interests which nourish selfhood, however innocent or even useful these interests may seem in the eyes of the world. The only rule is the ruthless abandonment of everything which is in the way. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Their science, _(REN: (Unassigned))_
+- Having entirely surrendered my own free-will, _(REN: (Unassigned))_
+- my heart no longer felt any distress in renouncing fame, wealth, or the society of my children. _(REN: 3. Uncanny Illusion of Naturalism, 4. Madness, Nonexistence and the Other)_
+- From this time, the more she entered into herself the more she was inclined to abandon all. But she had not the courage necessary for the complete renunciation towards which her transcendental consciousness was pressing her. She struggled to adjust herself to the inner and the outer life, but without success. _(REN: (Unassigned))_
+- lower life. _(REN: (Unassigned))_
+- The true order of going is to use the beauties of Earth as steps along which one mounts upwards for the sake of that other Beauty. _(REN: 4. Madness, Nonexistence and the Other)_
+- the Blessed Angela of Foligno, who, though a true mystic, viewed with almost murderous satisfaction the deaths of relatives who were "impediments. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- Since the greater and stronger the mystic, the stronger and more stubborn his character tends to be, this change of life and turning of energy from the old and easy channels to the new is often a stormy matter. It is a period of actual battle between the inharmonious elements of the self, its lower and higher springs of action: of toil, fatigue, bitter suffering, and many disappointments. _(REN: 3. Uncanny Illusion of Naturalism, 5. Startling Encounter with Infinite Nothingness)_
+- Severe, and to the outsider apparently unmeaning--like their physical parallels the exercises of the gymnasium--its disciplines, faithfully accepted, do release the self from the pull of the lower nature, establish it on new levels of freedom and power. _(REN: (Unassigned))_
+- The senses have grown stronger than their masters, monopolized the field of perception, dominated an organism which was made for greater activities, and built up those barriers of individuality which must be done away if true personality is to be achieved, and with it some share in the boundless life of the One. _(REN: 4. Madness, Nonexistence and the Other)_
+- because the distance between them and that which takes place in the state of pure transformation in God is infinite. _(REN: (Unassigned))_
+- Pain, therefore, the mystics always welcome and often court: sometimes in the crudely physical form which Suso describes so vividly and horribly in the sixteenth chapter of his Life, more frequently in those refinements of torture which a sensitive spirit can extract from loneliness, injustice, misunderstanding--above all, from deliberate contact with the repulsive accidents of life. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- They thought him a madman for his pains. _(REN: 4. Madness, Nonexistence and the Other)_
+- This consciousness, in its various forms and degrees, is perhaps the most constant characteristic of Illumination; and makes it, for the mystic soul, a pleasure-state of the intensest kind. I do not mean by this that the subject passes months or years in a continuous ecstasy of communion with the Divine. Intermittent periods of spiritual fatigue or "aridity"--renewals of the temperamental conflicts experienced in purgation--the oncoming gloom of the Dark Night--all these may be, and often are, experienced p. 242 at intervals during the Illuminated Life; as flashes of insight, indistinguishable from illumination, constantly break the monotony of the Purgative Way. But a deep certitude of the Personal Life omnipresent in the universe has been achieved; and this can never be forgotten, even though it be withdrawn. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- The real distinction between the Illuminative and the Unitive Life is that in Illumination the individuality of the subject--however profound his spiritual consciousness, however close his apparent communion with the Infinite--remains separate and intact. His heightened apprehension of reality lights up rather than obliterates the rest of his life: and may even increase his power of dealing adequately with the accidents of normal existence. _(REN: (Unassigned))_
+- The mind, concentrated upon a higher object of interest, is undistracted by its own anxieties, likes, or dislikes; and hence performs the more efficiently the work that is given it to do. Where it does not do so, then the normal make-up or imperfect discipline of the subject, rather than its mystical proclivities, must be blamed. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- The soul, _(REN: (Unassigned))_
+- happiness _(REN: (Unassigned))_
+- pleasure _(REN: (Unassigned))_
+- The first is the craving which makes him a pilgrim and wanderer. It is the longing to go out from his normal world in search of a lost home, a "better country"; an Eldorado, a Sarras, a Heavenly p. 127 Syon. The next is that craving of heart for heart, of the soul for its perfect mate, which makes him a lover. The third is the craving for inward purity and perfection, which makes him an ascetic, and in the last resort a saint. _(REN: 3. Uncanny Illusion of Naturalism)_
+- faith pg. 12-13, 53, 120 _(REN: (Unassigned))_
+- Most of our conflicts and difficulties come from trying to deal with the spiritual and practical aspects of our life separately instead of realising them as parts of one whole. If our practical life is centred on our own interests, cluttered up by possessions, distracted by ambitions, passions, want— and worries, beset by a sense of our own rights and importance, or anxieties for our own future, or longings for our own success, we need not expect that our spiritual life will be a contrast to all this. _(REN: (Unassigned))_
+- is All. All takes place within Him. He alone matters, He alone is. Our spiritual life is His affair; because, whatever we may think to the contrary, it is really produced by His steady attraction, and our humble and self forgetful response to it. It consists in being drawn, at His pace and in His way, to the place where He wants us to be; not the place we fancied for ourselves. _(REN: 3. Uncanny Illusion of Naturalism)_
+- For the most part, of course, the presence and action of the great spiritual universe surrounding us is no more noticed by us than the pressure of air on our bodies, or the action of light. Our field of attention is not wide enough for that; our spiritual senses are not sufficiently alert. Most people work so hard developing their correspondence with the visible world, that their power of corresponding with the invisible is left in a rudimentary state. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Prayer means turning to Reality, taking our part, however humble, tentative and half-understood, in the continual conversation, the communion, of our spirits with the Eternal Spirit; the acknowledgment of our entire dependence, which is yet the partly free dependence of the child. For Prayer is really our whole life toward God: our longing for Him, our “incurable God-sickness, _(REN: (Unassigned))_
+- What really seems to you to matter most? The perfection of His mighty symphony, or your own remarkably clever performance of that difficult passage for the tenth violin? _(REN: 3. Uncanny Illusion of Naturalism)_
+- ...the awakening of a human being to his true situation over against Reality, and the true object of his fugitive life. There are three stages in it. First, the sudden disclosure of the Divine Splendour; the mysterious and daunting beauty of Holiness, on which even the seraphs dare not look. The veil is lifted, and the Reality which is always there is revealed. And at once the young man sees, by contrast, his own dreadful imperfection. “Woe is me! for I am a man of unclean lips! _(REN: 2. Abyssal Experience)_
+- Who will go for us? _(REN: (Unassigned))_
+- Here am I! send me! _(REN: (Unassigned))_
+- The action may be almost anything; from the ceaseless self-offering of the enclosed nun to the creation of beauty, or the clearance of slums. “Here am I! send me! _(REN: (Unassigned))_
+- St. Bernard and St. Francis discard all outward possessions, all the grace and beauty of life, and accept poverty and hardship; and through their renunciation a greater wealth and a more exquisite beauty is given the world. _(REN: 3. Uncanny Illusion of Naturalism)_
+- The action of those whose lives are given to the Spirit has in it something of the leisure of Eternity; and because of this, they achieve far more than those whose lives are enslaved by the rush and hurry, the unceasing tick-tick of the world. In the spiritual life it is very important to get our timing right. Otherwise we tend to forget that God, Who is greater than our heart, is greater than our job too. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Don’t forget me, I am your future, _(REN: (Unassigned))_
+- Don’t forget me, _(REN: (Unassigned))_
+- I am your undying past. _(REN: (Unassigned))_

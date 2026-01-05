@@ -1,0 +1,4 @@
+# Linguistic Futility — Augustine
+## Quotes (REN-tagged)
+- "For it was not salvation that he taught in rhetoric (why, then, should he shrink from naming your name before the sheep of the flock), and yet that he had publicly professed: how much less then ought he, when pronouncing Thy word, to dread Thy meek flock, who, when delivering his own words, had not feared a mad multitude! _(REN: 2. Abyssal Experience, 4. Madness, Nonexistence and the Other)_
+- Simplicianus congratulated me that I had not fallen upon the writings of other philosophers, which were full of fallacies and deceit, 'after the beggarly elements of this world', whereas in the Platonists, at every turn, the pathway led to belief in God and his Word. _(REN: 3. Uncanny Illusion of Naturalism, 4. Madness, Nonexistence and the Other)_

@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - created >= "2026-01-01"
+        - created <= "2026-01-31"
+    order:
+      - file.name
+      - created
+      - updated
+      - file.size
+      - tags
+    sort:
+      - property: created
+        direction: DESC
+    summaries:
+      file.name: Empty
+    columnSize:
+      note.updated: 185
+      note.tags: 149
+      file.size: 91

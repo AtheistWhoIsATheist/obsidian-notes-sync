@@ -1,0 +1,7 @@
+# Epistemological Rupture — Albert Camus
+## Quotes (REN-tagged)
+- gestures, their meaningless pantomime makes silly everything that surrounds them. A man is talking on the telephone behind a glass partition; you cannot hear him, but you see his _(REN: 1. Nihilism Preface)_
+- We must despair of ever reconstructing the familiar, calm surface which would give us peace of heart. After so many centuries of inquiries, so many abdications among thinkers, we are well aware that this is true for all our knowledge. _(REN: 2. Abyssal Experience)_
+- scenes, with that lucidity imposed on me by the pursuit of a science, I must sacrifice everything to these certainties and I must see them squarely to be able to maintain them. Above all, I must adapt my behavior to them and pursue them in all their consequences. I am speaking here of decency. But I want to know beforehand if thought can live in those deserts.” _(REN: (Unassigned))_
+- For him (Kierkegaard), too, antinomy and paradox become criteria of the religious. Thus, the very thing that led to despair of the meaning and depth of this life now gives it its truth and its clarity. _(REN: 2. Abyssal Experience)_
+- Within the limits of the human conditon, what greater hope than the hope that allows an escape from that condition? As I see once more, existential thought in this regard (and contrary to current opinion) is steeped in a vast hope. _(REN: (Unassigned))_

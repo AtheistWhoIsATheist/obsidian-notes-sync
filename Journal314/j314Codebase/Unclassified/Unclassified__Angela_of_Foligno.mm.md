@@ -1,0 +1,3 @@
+# (Unclassified) — Angela of Foligno
+## Quotes (REN-tagged)
+- In that time and by God’s will there died my mother, who was a great hindrance unto me in following the way of God; my husband died likewise, and in a short time there also died all my children. And because I had commenced to follow the aforesaid way and had prayed God that He would rid me of them, I had great consolation of their deaths, albeit I did also feel some grief. _(REN: (Unassigned))_

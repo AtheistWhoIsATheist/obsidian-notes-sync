@@ -1,0 +1,31 @@
+# (Unclassified) — Theresa of Avila
+## Quotes (REN-tagged)
+- Oh, what a distress it is for my soul to have to return to hold commerce with this world after having had its conversation in heaven! To have to play a part in the sad farce of this earthly life! _(REN: 3. Uncanny Illusion of Naturalism)_
+- The best of created things disappoint and torment the soul...God alone satisfies the soul. _(REN: (Unassigned))_
+- All that such souls ever attain to and perform, all these things only make them more humble, and therefore more strong; more able to despise the things of this world... _(REN: 3. Uncanny Illusion of Naturalism)_
+- Augustine testifies that neither in the house, nor in the church, nor anywhere else, did he find God, till once he had found Him in himself. Nor had he need to go up to heaven, but only down into himself to find God. _(REN: (Unassigned))_
+- humility _(REN: (Unassigned))_
+- Prayer.—In prayer there would sometimes come upon me such a sense of the Presence of God that I seemed to be all engulfed in God. I think the learned call this mystical experience; at any rate, it so suspends the ordinary operations of the soul that she seems to be wholly taken out of herself. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- Let him account himself utterly and hopelessly unworthy of everything he possesses, both in nature and in grace. Let him shun advancement. Let him apply himself to daily mortification, not of the body so much as of the mind and the heart, and let him be more than content with the least thing that God allows him, for this is true humility. _(REN: (Unassigned))_
+- For it must never be thought that because a man has much suffering, therefore he cannot have prayed acceptably. His suffering is as incense set forth before God. _(REN: (Unassigned))_
+- This will seem to some a silly fiction. _(REN: (Unassigned))_
+- “Oh, if we religious understood what harm we get from having so much to do with our _(REN: (Unassigned))_
+- Believe me, then, attachment to our relatives is, as I have said, the thing which sticks to _(REN: (Unassigned))_
+- things and the rapidity with which they pass away, so that we may withdraw our _(REN: (Unassigned))_
+- What sufferings they bore, what solitude, cold, thirst and hunger, what burning sun and heat! And yet they had no one to complain to except God. Do you suppose they were made of iron? No: they were as frail as we are. _(REN: 4. Madness, Nonexistence and the Other)_
+- “Try not to fear these and commit yourselves wholly to God, come what may. What does _(REN: (Unassigned))_
+- our own pleasures, for the least that anyone who is beginning to serve the Lord truly _(REN: (Unassigned))_
+- I do not mean, by "leaving" everything, entering the religious life, for there may be obstacles to this, and the soul that is perfect can be detached and humble anywhere. It will find detachment harder in the world, however, for worldly trappings will be a great impediment to it. _(REN: 3. Uncanny Illusion of Naturalism)_
+- ...the very act of desiring honour robs us of it, especially in matters of precedence: there is no poison in the world which is so fatal to perfection. _(REN: 3. Uncanny Illusion of Naturalism)_
+- For the whole manner of life we are trying to live is making us, not only nuns, but hermits like the holy Fathers our predecessors and leading us to detachment from all things created. _(REN: (Unassigned))_
+- very sensitive and not capable of great mortification. It is indeed difficult at first, but I _(REN: (Unassigned))_
+- We are not angels _(REN: (Unassigned))_
+- We are not saints _(REN: (Unassigned))_
+- “Although it is a great grace from God to practise self-examination, yet ‘too much is as bad as too little,’ as they say; believe me, by God’s help, we shall advance more by contemplating the _(REN: 5. Startling Encounter with Infinite Nothingness, 6. Symbolic Resonance of Nothing)_
+- Divinity than by keeping our eyes fixed on ourselves, poor creatures of earth that we are.” _(REN: (Unassigned))_
+- a nun has such a longing for penance as to feel no peace unless she is tormenting herself in some way. _(REN: (Unassigned))_
+- “But, O my God, how the force of worldly habits and the example of others who practise them _(REN: (Unassigned))_
+- others who have travelled farther into the castle, who will aid her greatly and draw her to join _(REN: (Unassigned))_
+- ‘Most happy she who suffers most if it be for Christ! _(REN: (Unassigned))_
+- how to go on living, when I reflect upon it as I very often do.” _(REN: (Unassigned))_
+- Yet do not suppose that our Lord has need of any works of ours; He only expels us to manifest our goodwill. It seems to us we have done everything by taking the religious habit of our own will, and renouncing worldly things and all our possessions for God. _(REN: 4. Madness, Nonexistence and the Other)_

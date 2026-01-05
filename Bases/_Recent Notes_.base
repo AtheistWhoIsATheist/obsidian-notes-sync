@@ -1,0 +1,38 @@
+filters:
+  and:
+    - updated >= "2025-12-01T20:02:00"
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - created >= "2025-12-01"
+        - created <= "2025-12-31"
+    groupBy:
+      property: created
+      direction: DESC
+    order:
+      - created
+      - file.name
+      - title
+      - file.tags
+      - file.folder
+      - updated
+      - Description
+      - source
+      - tags
+      - backlink
+    sort:
+      - property: created
+        direction: DESC
+    summaries:
+      updated: Empty
+    columnSize:
+      note.created: 111
+      file.name: 213
+      note.title: 198
+      file.tags: 226
+      file.folder: 169
+      note.updated: 191
+      note.source: 118
+      note.tags: 301

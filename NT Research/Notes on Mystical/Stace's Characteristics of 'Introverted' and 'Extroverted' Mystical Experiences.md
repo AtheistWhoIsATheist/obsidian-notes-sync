@@ -1,0 +1,11 @@
+---
+created: 2024-04-05 03:16:07
+Folder:
+  - NT Research / NT Notes / Notes on Mysticism
+---
+
+\# \*\*Stace's Characteristics of 'Introverted' and 'Extroverted' Mystical Experiences\*\*:
+
+The characteristics specific to either introvertive or extrovertive mystical experience, as well as characteristics that were common to both types of experiences. The nine characteristics Stace (1960) identified were (1) internal unity (i.e. undifferentiated awareness, unitary consciousness); (2) external unity (i.e. a sense of unity with the surrounding environment); (3) nontemporal and nonspatial quality (i.e. feelings of infinite time and limitless space, transcending usual time and space boundaries); (4) inner subjectivity (i.e. a sense of life or living presence in all things); (5) objectivity and reality (i.e. noetic quality, a sense that the experience was a source of objective truth); (6) sacredness (i.e. worthy of reverence, divine or holy); (7) deeply felt peace and joy; (8) paradoxicality (i.e. needing to use illogical or contradictory statements to describe the experience); and (9) ineffability (i.e. difficulty of communicating or describing the experience to others).
+
+characteristics specific to either introvertive or extrovertive mystical experience, as well as characteristics that were common to both types of experiences. The nine characteristics Stace (1960) identified were (1) internal unity (i.e. undifferentiated awareness, unitary consciousness); (2) external unity (i.e. a sense of unity with the surrounding environment); (3) nontemporal and nonspatial quality (i.e. feelings of infinite time and limitless space, transcending usual time and space boundaries); (4) inner subjectivity (i.e. a sense of life or living presence in all things); (5) objectivity and reality (i.e. noetic quality, a sense that the experience was a source of objective truth); (6) sacredness (i.e. worthy of reverence, divine or holy); (7) deeply felt peace and joy; (8) paradoxicality (i.e. needing to use illogical or contradictory statements to describe the experience); and (9) ineffability (i.e. difficulty of communicating or describing the experience to others).

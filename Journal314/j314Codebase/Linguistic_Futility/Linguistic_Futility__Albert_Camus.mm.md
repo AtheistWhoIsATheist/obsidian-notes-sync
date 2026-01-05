@@ -1,0 +1,3 @@
+# Linguistic Futility — Albert Camus
+## Quotes (REN-tagged)
+- scenes, with that lucidity imposed on me by the pursuit of a science, I must sacrifice everything to these certainties and I must see them squarely to be able to maintain them. Above all, I must adapt my behavior to them and pursue them in all their consequences. I am speaking here of decency. But I want to know beforehand if thought can live in those deserts.” _(REN: (Unassigned))_

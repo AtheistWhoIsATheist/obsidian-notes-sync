@@ -1,0 +1,31 @@
+# (Unclassified) — Thomas Ligotti
+## Quotes (REN-tagged)
+- Like many who have tried their hand at metaphysics, Bahnsen declared that, appearances to the contrary, all reality is the expression of a unified, unchanging force— a cosmic movement that various philosophers have characterized in various ways. _(REN: (Unassigned))_
+- As scientists, philosophers, and spiritual figures have testified, our heads are full of illusions; things, including human things, are not dependably what they seem. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Immune to the blandishments of religions, countries, families, and everything else that puts both average and above-average citizens in the limelight, pessimists are sideliners in both history and the media. Without belief in gods or ghosts, unmotivated by a comprehensive delusion, they could never plant a bomb, plan a revolution, or shed blood for a cause. _(REN: (Unassigned))_
+- ...the ultimate threat to ordinary folk who only want to live in a world and in a way that is natural and familiar to them and their families, even though they are darkly aware that this familiarity is a fabrication that may be invalidated. _(REN: 3. Uncanny Illusion of Naturalism)_
+- way of life. _(REN: (Unassigned))_
+- Only after fealty to countries, gods, and families has been shucked off can we even think about coming to grips with the least endangered of fabrications— the self. _(REN: (Unassigned))_
+- Born a prince, so the story goes, the nascent Enlightened One, Siddhartha Gautama, embarked on a quest to neutralize his ego by first leaving behind his family, gods, and sociopolitical station— all in one stroke. But Buddha’s way requires a near inhuman dedication, and few of us have that kind of stamina. _(REN: (Unassigned))_
+- There are aspects of the scientific world-view which may be damaging to our mental well-being, and that is what everybody intuitively feels _(REN: 3. Uncanny Illusion of Naturalism)_
+- But could the vulgar materialist actually say that he or she is aware of being no one as a fact and still go on to pretend that he or she is someone? Would this not be another version of Metzinger’s asking “Can one really believe in determinism without going insane? _(REN: 6. Symbolic Resonance of Nothing)_
+- cultural critic Jens Bjørneboe wrote that “he who hasn’t experienced a full depression alone and over a long period of time— he is a child. _(REN: (Unassigned))_
+- artificially limiting the content of consciousness. _(REN: (Unassigned))_
+- Man literally drives himself into a blind obliviousness with social games, psychological tricks, personal preoccupations so far removed from the reality of his situation that they are forms of madness, but madness all the same. _(REN: 4. Madness, Nonexistence and the Other)_
+- In lieu of personal immortality, we are willing to accept the survival of persons and institutions that we regard as extensions of us— our families, our heroes, our religions, our countries. _(REN: (Unassigned))_
+- All civilizations become defunct. All species die out. There is even an expiration date on the universe itself. _(REN: (Unassigned))_
+- For the pessimist, everything considered in isolation from human suffering or any cognition that does not have as its motive the origins, nature, and elimination of human suffering is at base recreational, whether it takes the form of conceptual probing or physical action in the world— for example, delving into game theory or traveling in outer space, respectively. And by “human suffering, _(REN: 3. Uncanny Illusion of Naturalism)_
+- But to express with any adequacy a sense of the uselessness of everything, a nonlinguistic modality would be needed, some effusion out of a dream that amalgamated every gradation of the useless and wordlessly transmitted to us the inanity of existence under any possible conditions. _(REN: (Unassigned))_
+- Christians, Jews, and Muslims have a real problem with a potato-masher system of being. Buddhists have no problem with a potato-masher system because for them there are no absolutes. _(REN: (Unassigned))_
+- The delusional will forever be with us, thereby making pain, fear, and denial of what is right in front of our face the preferred style of living and the one that will be passed on to countless generations. _(REN: (Unassigned))_
+- way of life. _(REN: (Unassigned))_
+- Only after fealty to countries, gods, and families has been shucked off can we even think about coming to grips with the least endangered of fabrications— the self. _(REN: (Unassigned))_
+- Whatever makes us think that we are what we think we are lies in the fact that we have consciousness, which gives us a sense of being somebody, specifically a human somebody, whatever that may be, since we do not have a definition of “human _(REN: (Unassigned))_
+- “There are aspects of the scientific world-view which may be damaging to our mental well-being, and that is what everybody intuitively feels _(REN: 3. Uncanny Illusion of Naturalism)_
+- ...cultural critic Jens Bjørneboe wrote that “he who hasn’t experienced a full depression alone and over a long period of time— he is a child. _(REN: (Unassigned))_
+- experience _(REN: (Unassigned))_
+- If human pleasure did not have both a lid and a time limit, we would not bestir ourselves to do things that were not pleasurable, such as toiling for our subsistence. And then we would not survive. _(REN: (Unassigned))_
+- Tønnessen believes that “intellectual honesty _(REN: (Unassigned))_
+- That we all deserve punishment by horror is as mystifying as it is undeniable. _(REN: (Unassigned))_
+- one of those people. _(REN: (Unassigned))_
+- Up the Conspiracy and down with Consciousness. _(REN: (Unassigned))_

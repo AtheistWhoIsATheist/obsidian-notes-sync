@@ -1,0 +1,19 @@
+{
+  "pinned": [
+    "app:reload",
+    "editor:save-file",
+    "editor:open-search-replace",
+    "smart-context:smart-contexts-dashboard",
+    "smart-connections:smart-connections-view",
+    "smart-context:copy-folder-to-clipboard",
+    "workspace:toggle-pin",
+    "daily-notes:goto-prev",
+    "daily-notes",
+    "daily-notes:goto-next",
+    "workspace:edit-file-title",
+    "sync:open-sync-log",
+    "app:delete-file",
+    "file-explorer:new-file",
+    "bookmarks:bookmark-current-heading"
+  ]
+}

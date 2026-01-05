@@ -1,0 +1,3 @@
+# Teleological Paradox — Albert Camus
+## Quotes (REN-tagged)
+- But simultaneously he situates himself in relation to time. He takes his place in it. He admits that he stands at a certain point on a curve that he acknowledges having to travel to its end. He belongs to time, and by the horror that seizes him, he recognizes his worst enemy. Tomorrow, he was longing for tomorrow, whereas everything in him ought to reject it. That revolt of the flesh is the absurd.” _(REN: 1. Nihilism Preface)_

@@ -1,0 +1,4 @@
+# Epistemological Rupture — Will Durant
+## Quotes (REN-tagged)
+- -”Given science, and there would soon be wealth, which would make men happy; given science, and there would soon be truth, which would make men free. Universal education would spread the findings of science, liberate men from superstition, and make them fit for democracy...a picture was unfolded of universal struggle and death; and decade-by-decade the optimism of _(REN: 2. Abyssal Experience, 3. Uncanny Illusion of Naturalism)_
+- If a man is a materialist, or a mechanist, or whatever he likes to call himself, I can see for him no escape from belief in a futility so prolonged and complicated and diabolical and preposterous as to be worse than absurd; and as I do not know that such a tragic absurdity is not a fact, I can only know my native inability to believe that it is one. _(REN: 1. Nihilism Preface)_

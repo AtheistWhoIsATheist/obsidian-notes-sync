@@ -1,0 +1,3 @@
+# Teleological Paradox — C. S. Lewis
+## Quotes (REN-tagged)
+- Reality, looked at steadily, is unbearable. And how or why did such a reality blossom (or fester) here and there into the terrible phenomenon called consciousness? Why did it produce things like us who can see it and, seeing it, recoil in loathing? Who (stranger still) want to see it and take pains to find it out, even when no need compels them and even though the sight of it makes an incurable ulcer in their hearts? _(REN: (Unassigned))_

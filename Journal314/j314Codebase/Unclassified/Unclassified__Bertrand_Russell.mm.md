@@ -1,0 +1,5 @@
+# (Unclassified) — Bertrand Russell
+## Quotes (REN-tagged)
+- Freedom comes only to those who no longer ask of life that it shall yield them any of those personal goods that are subject to the mutations of Time. _(REN: (Unassigned))_
+- ...the greatest men who have been philosophers have felt the need both of science and of mysticism: the attempt to harmonise the two was what made their life, and what always must, for all its arduous uncertainty, make philosophy, to some minds, a greater thing than either science or religion. _(REN: 4. Madness, Nonexistence and the Other, 5. Startling Encounter with Infinite Nothingness)_
+- A truly scientific philosophy will be more humble, more piecemeal, more arduous, offering less glitter of outward mirage to flatter fallacious hopes, but more indifferent to fate, and more capable of accepting the world without the tyrannous imposition of our human and temporary demands. _(REN: 3. Uncanny Illusion of Naturalism)_

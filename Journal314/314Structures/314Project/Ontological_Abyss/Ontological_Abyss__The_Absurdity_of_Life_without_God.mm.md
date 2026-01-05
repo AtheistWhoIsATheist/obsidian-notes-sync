@@ -1,0 +1,31 @@
+# Ontological Abyss — The Absurdity of Life without God
+## Quotes (REN-tagged)
+- Why on atheism life has no ultimate meaning, value, or purpose, and why this view is unlivable. _(REN: (Unassigned))_
+- You are the accidental by-product of nature, a result of matter plus time plus chance. There is no reason for your existence. All you face is death. _(REN: 2. Abyssal Experience, 3. Uncanny Illusion of Naturalism)_
+- my death: I am going to die _(REN: 2. Abyssal Experience)_
+- And the universe, too, faces death. Scientists tell us that the universe is expanding, and everything _(REN: 2. Abyssal Experience)_
+- If there is no God, then man and the universe are doomed. Like prisoners condemned to death, we await our unavoidable execution. There is no God, and there is no immortality. And what is the consequence of this? It means that life itself is absurd. It means that the life we have is without ultimate significance, value, or purpose. Let's look at each of these. _(REN: 1. Nihilism Preface, 2. Abyssal Experience)_
+- If each individual person passes out of existence when he dies, then what ultimate meaning can be given to his life? Does it really matter whether he ever existed at all? His life may be important _(REN: 3. Uncanny Illusion of Naturalism)_
+- the events are meaningless, then what can be the ultimate meaning of influencing any of them? _(REN: 1. Nihilism Preface)_
+- eventually swallow them all again. And the same is true of each individual person. The contributions of the scientist to the advance of human knowledge, the researches of the doctor to alleviate pain and suffering, the efforts of the diplomat to secure peace in the world, the sacrifices of good men everywhere to better the lot of the human race--all these come to nothing. This is the horror of modern man: because he ends in nothing, he is nothing. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Thus, if there is no God, then life itself becomes meaningless. Man and the universe are without _(REN: 1. Nihilism Preface)_
+- The concept of moral obligation (is) unintelligible apart from the idea of God. The words remain but their meaning is gone. _(REN: (Unassigned))_
+- If death stands with open arms at the end of life's trail, then what is the goal of life? Is it all for _(REN: 2. Abyssal Experience)_
+- nothing? Is there no reason for life? And what of the universe? Is it utterly pointless? If its destiny is a cold grave in the recesses of outer space the answer must be, yes—it is pointless. There is no _(REN: (Unassigned))_
+- The fate of the sons of men and the fate of beasts is the same. As one dies so dies the other; indeed, they all have the same breath and there is no advantage for man over beast, for all is vanity. All go to the same place. All come from the dust and all return to the dust _(REN: 1. Nihilism Preface, 4. Madness, Nonexistence and the Other)_
+- Vanity of vanities! All is vanity _(REN: 1. Nihilism Preface)_
+- ends at the grave, then we have no ultimate purpose for living. But more than that: even if it did not end in death, without God life would still be without purpose. _(REN: 2. Abyssal Experience)_
+- purposeless life. So if God does not exist, that means that man and the universe exist to no purpose—since the end of everything is death—and that they came to be for no purpose, since they are only blind products of chance. In short, life is utterly without reason. _(REN: 2. Abyssal Experience)_
+- Unfortunately, the mass of mankind do not realize this fact. They continue on as though nothing _(REN: (Unassigned))_
+- The fundamental problem with this solution, however, is that it is impossible to live consistently and happily within such a world view. If one lives consistently, he will not be happy; if one lives happily, it is only because he is not consistent. Francis Schaeffer has explained this point well. Modern man, says Schaeffer, resides in a two-story universe. In the lower story is the finite world without God; here life is absurd, as we have seen. In the upper story are meaning, value, and purpose. _(REN: 1. Nihilism Preface, 3. Uncanny Illusion of Naturalism)_
+- happily in such an absurd world; therefore, he continually makes leaps of faith into the upper story to affirm meaning, value, and purpose, even though he has no right to, since he does not believe in God. Let's look again, then, at each of the three areas in which we saw life was absurd without God, to show how man cannot live consistently and happily with his atheism. _(REN: 1. Nihilism Preface, 3. Uncanny Illusion of Naturalism)_
+- First, the area of meaning. We saw that without God, life has no meaning. Yet philosophers _(REN: (Unassigned))_
+- continue to live as though life does have meaning. For example, Sartre argued that one may _(REN: (Unassigned))_
+- Let's pretend the universe has meaning. _(REN: (Unassigned))_
+- *The point is this*: if God does not exist, then life is objectively meaningless; but man cannot live _(REN: 1. Nihilism Preface)_
+- consistently and happily knowing that life is meaningless; so in order to be happy he pretends life has meaning. But this is, of course, entirely inconsistent—for without God, man and the universe are without any real significance. _(REN: 1. Nihilism Preface)_
+- Finally, let's look at the problem of purpose in life. The only way most people who deny purpose in life live happily is either by making up some purpose, which amounts to self-delusion as we saw with Sartre, or by not carrying their view to its logical conclusions. Take the problem of death, for example. According to Ernst Bloch, the only way modern man lives in the face of death is by _(REN: 2. Abyssal Experience)_
+- despair that constitutes the anguish of post-modernism. In some respects, post-modernism just is _(REN: 2. Abyssal Experience)_
+- without meaning, value, or purpose. If we try to live consistently within the atheistic world view, we shall find ourselves profoundly unhappy. If instead we manage to live happily, it is only by giving the lie to our world view. _(REN: 3. Uncanny Illusion of Naturalism)_
+- me positively irrational to prefer death, futility, and destruction to life, meaningfulness, and _(REN: 2. Abyssal Experience)_
+- happiness. As Pascal said, we have nothing to lose and infinity to gain. _(REN: (Unassigned))_

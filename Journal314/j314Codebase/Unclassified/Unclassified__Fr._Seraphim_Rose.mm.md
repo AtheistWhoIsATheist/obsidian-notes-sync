@@ -1,0 +1,60 @@
+# (Unclassified) — Fr. Seraphim Rose
+## Quotes (REN-tagged)
+- Everything in this life passes away — only God remains, only He is worth struggling towards. We have a choice: to follow the way of this world, of the society that surrounds us, and thereby find ourselves outside of God; or to choose the way of life, to choose God Who calls us and for Whom our heart is searching. _(REN: 3. Uncanny Illusion of Naturalism)_
+- ...the Realists of the free world, who have been quite successful in transforming and 'simplifying' the Christian tradition into a system for the promotion of worldly 'progress. _(REN: 3. Uncanny Illusion of Naturalism)_
+- sick, _(REN: (Unassigned))_
+- sympathy. _(REN: (Unassigned))_
+- anarchy _(REN: (Unassigned))_
+- The Revolution, like the disbelief which has always accompanied it, cannot be stopped halfway; it is a force that, once awakened, will not rest until it ends in a totalitarian Kingdom of this world. _(REN: 3. Uncanny Illusion of Naturalism)_
+- the things of the mind and spirit, to the lower or _(REN: (Unassigned))_
+- As opposed to Liberal vagueness, the Realist world-view seems perfectly clear and straightforward. In place of agnosticism or an evasive deism, there is open atheism; in place of vague "higher values," naked materialism and self-interest. _(REN: 3. Uncanny Illusion of Naturalism)_
+- scientism" as opposed to legitimate science; for it must be understood that our remarks here are not directed against science itself, but against the improper exploitation of its standards and methods that is so common today. _(REN: (Unassigned))_
+- All the pretended "humility" of Realist scholars and scientists, these men of little faith, cannot conceal the pride of their collective usurpation of the throne of God; they, in their smallness, think their painstaking "research" of more weight than Divine Revelation. _(REN: (Unassigned))_
+- follow _(REN: (Unassigned))_
+- being deprived by Huxley and Tyndall, whom I detested, of the simpleminded religion of my childhood.… _(REN: (Unassigned))_
+- There are, of course, other less violent forms of the popular unrest. There is the passion for movement and speed, expressed especially in the veritable cult of the automobile (we have already noted this passion in Hitter); the universal appeal of television and cinema, whose most frequent function is to provide a few hours of escape from reality, both by their eclectic and "exciting" subject-matter and by the hypnotic effect of the media themselves; the increasingly primitive and savage character of popular music and of the perhaps more authentic expression of the contemporary soul, "jazz", the cult of physical prowess in sport, and the morbid worship of "youth. _(REN: 3. Uncanny Illusion of Naturalism, 4. Madness, Nonexistence and the Other)_
+- said Nietzsche, _(REN: (Unassigned))_
+- God is dead _(REN: (Unassigned))_
+- we have lost our faith in God _(REN: (Unassigned))_
+- we have become uncertain of everything divine and absolute. _(REN: (Unassigned))_
+- corpse _(REN: (Unassigned))_
+- dead God _(REN: (Unassigned))_
+- ideals _(REN: (Unassigned))_
+- I personally think that “total peace _(REN: (Unassigned))_
+- not only in prayer and penance, but also in his political commitments and in all his social responsibilities. _(REN: (Unassigned))_
+- social message, _(REN: (Unassigned))_
+- social Christianity, _(REN: (Unassigned))_
+- project, _(REN: (Unassigned))_
+- idealism. _(REN: (Unassigned))_
+- idealism _(REN: (Unassigned))_
+- perfect _(REN: (Unassigned))_
+- inward _(REN: (Unassigned))_
+- First and foremost I radically question the emphasis upon “action _(REN: (Unassigned))_
+- projects _(REN: (Unassigned))_
+- planning, _(REN: (Unassigned))_
+- social _(REN: (Unassigned))_
+- I think the central need of our time is not in the least different from what it has always been since Christ came; it lies, not in the area of “political commitments _(REN: (Unassigned))_
+- social responsibilities, _(REN: (Unassigned))_
+- prayer and penance _(REN: (Unassigned))_
+- social responsibility _(REN: (Unassigned))_
+- ...a “new Christianity, _(REN: (Unassigned))_
+- inward, _(REN: (Unassigned))_
+- peace _(REN: (Unassigned))_
+- brotherhood _(REN: (Unassigned))_
+- other world, _(REN: 3. Uncanny Illusion of Naturalism, 4. Madness, Nonexistence and the Other)_
+- successful _(REN: (Unassigned))_
+- successful _(REN: (Unassigned))_
+- Earthly Kingdom _(REN: (Unassigned))_
+- Everywhere “prophets “—semi- or pseudo-Christians like Berdyaev and Tolstoy... _(REN: (Unassigned))_
+- Above all, the Christian in the contemporary world must show his brothers that all the “problems of the age _(REN: 3. Uncanny Illusion of Naturalism)_
+- problem of man _(REN: (Unassigned))_
+- staleness _(REN: (Unassigned))_
+- superstition _(REN: (Unassigned))_
+- other world _(REN: 3. Uncanny Illusion of Naturalism, 4. Madness, Nonexistence and the Other)_
+- tired _(REN: (Unassigned))_
+- idealism _(REN: (Unassigned))_
+- ideals _(REN: (Unassigned))_
+- Christians. _(REN: (Unassigned))_
+- new Christianity, _(REN: (Unassigned))_
+- Grand Inquisitor _(REN: (Unassigned))_
+- What is needed is not more busyness but a deeper penetration within. Not less fasting, but more; not more action, but prayer and penance. If Christians really lived the Christian hope and the full path of unification that looks to its fulfillment, instead of the easy compromise that most laymen today think sufficient—and doesn’t the “new Christianity _(REN: (Unassigned))_

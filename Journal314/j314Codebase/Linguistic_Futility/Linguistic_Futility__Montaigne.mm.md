@@ -1,0 +1,3 @@
+# Linguistic Futility — Montaigne
+## Quotes (REN-tagged)
+- They go, they come, they gallop and dance, and not a word of death. All this is very fine; but withal, when it comes either to themselves, their wives, their children, or friends, surprising them at unawares and unprepared, then, what torment, what outcries, what madness and despair! Did you ever see anything so subdued, so changed, and so confounded? _(REN: 2. Abyssal Experience, 4. Madness, Nonexistence and the Other)_

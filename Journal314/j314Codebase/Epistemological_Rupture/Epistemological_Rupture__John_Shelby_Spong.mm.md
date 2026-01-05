@@ -1,0 +1,9 @@
+# Epistemological Rupture — John Shelby Spong
+## Quotes (REN-tagged)
+- I discover that God always transcends the grasp of my explanations. The fact alone drives me beyond any religious system that claims to possess the truth of God in any particular sense. _(REN: (Unassigned))_
+- ...consciousness became self-consciousness and awareness became self-awareness...What was it like in the creatures in whom this new reality was dawning over whatever number of years it took to become the norm?...It was probably both a startling wonder and a traumatic moment of fear and enormous anxiety. I suspect these first of our human ancestors shook in their skin at the new vision of what life had become and all that it now entailed. _(REN: 2. Abyssal Experience, 5. Startling Encounter with Infinite Nothingness)_
+- It is one thing to die...It is quite another to know that you are going to die, to plan for it and to accept its inevitability. That was the human situation. _(REN: (Unassigned))_
+- The fate of all living creatures is to lose, but only human life knows this self-consciously. It is not easy to be human. _(REN: (Unassigned))_
+- ...human religious systems have never been primarily a search for truth; they have always been first and foremost a search for security. _(REN: (Unassigned))_
+- The sings of the death of a theistic understanding of God are all around us. Many of us will not allow ourselves to see them, because we have no alternative and would rather live with an illusion than try to embrace reality. _(REN: 2. Abyssal Experience, 3. Uncanny Illusion of Naturalism)_
+- I know that I must either find a way to move beyond the theistic patterns of the past in search for a new way to speak of and to engage the ultimate reality that I call God, or be honest about living in a godless world. _(REN: 3. Uncanny Illusion of Naturalism)_

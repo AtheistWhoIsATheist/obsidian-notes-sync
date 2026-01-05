@@ -1,0 +1,5 @@
+# Teleological Paradox — Augustine
+## Quotes (REN-tagged)
+- "For it was not salvation that he taught in rhetoric (why, then, should he shrink from naming your name before the sheep of the flock), and yet that he had publicly professed: how much less then ought he, when pronouncing Thy word, to dread Thy meek flock, who, when delivering his own words, had not feared a mad multitude! _(REN: 2. Abyssal Experience, 4. Madness, Nonexistence and the Other)_
+- And why should it be? The mind commands the body, and the body obeys. The mind commands itself and is resisted. _(REN: (Unassigned))_
+- Plato...perhaps entertain an idea of God as to admit that in Him are to be found the cause of existence, the ultimate reason for the understanding, and the end in reference to which the whole life is to be regulated. _(REN: (Unassigned))_

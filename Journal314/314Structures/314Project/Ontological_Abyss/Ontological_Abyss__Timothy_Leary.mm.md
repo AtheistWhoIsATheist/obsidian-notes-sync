@@ -1,0 +1,4 @@
+# Ontological Abyss — Timothy Leary
+## Quotes (REN-tagged)
+- “For thousands of years the greatest artists, poets, philosophers, and lovers have used consciousness-expanding substances to turn-on tune-in drop-out. As part of the search for the meaning of life. As tools to reach new levels of awareness. To see beyond _(REN: (Unassigned))_
+- Your mythic guide must be one who has solved the death-rebirth riddle. A TV drama hero cannot help you. Caesar, Napoleon, Kennedy are no help to your cellular orientation. Christ, Lao Tse, Hermes Trismegistus, Socrates are recurrent turn-on figures.” _(REN: 2. Abyssal Experience)_

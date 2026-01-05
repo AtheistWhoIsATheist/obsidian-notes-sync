@@ -1,0 +1,3 @@
+# Linguistic Futility — C. S. Lewis
+## Quotes (REN-tagged)
+- All I am doing is to ask people to face the facts—to understand the questions which Christianity claims to answer. And they are very terrifying facts. I wish it was possible to say something more agreeable. But I must say what I think true. Of course, I quite agree that the Christian religion is, in the long run, a thing of unspeakable comfort. But it does not begin in comfort; it begins in the dismay I have been describing, and it is no use at all trying to go on to that comfort without first going through that dismay. _(REN: 6. Symbolic Resonance of Nothing)_

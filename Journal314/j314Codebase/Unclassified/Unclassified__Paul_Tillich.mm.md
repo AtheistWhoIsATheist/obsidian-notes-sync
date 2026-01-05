@@ -1,0 +1,67 @@
+# (Unclassified) — Paul Tillich
+## Quotes (REN-tagged)
+- Faith is the state of being ultimately concerned. _(REN: (Unassigned))_
+- They state unambiguously the character of genuine faith, the demand of total surrender to the subject of ultimate concern. _(REN: (Unassigned))_
+- “Faith is not an act of any of his rational functions, as it is not an act of the unconscious, but it is an act in which both the rational and the nonrational elements of his being are transcended...It transcends them, but it does not destroy them. (Otto) _(REN: (Unassigned))_
+- The reality of man's ultimate concern reveals something about his being, namely, that he is able to transcend the flux of relative and transitory experiences of his ordinary life. _(REN: (Unassigned))_
+- Man's experiences feelings, thoughts are conditioned and finite. They not only come and go, but their content is of finite and conditional concern... _(REN: (Unassigned))_
+- Man is driven towards faith by his awareness of the infinite. _(REN: (Unassigned))_
+- ...is the passion for the infinite. _(REN: (Unassigned))_
+- ...the ultimate is concern about what is experienced as ultimate. _(REN: (Unassigned))_
+- ...a critical principle was and is at work in man's religious consciousness, namely, that which is really ultimate over against what claims to be ultimate but is only preliminary, transitory, finite. _(REN: (Unassigned))_
+- There is no faith without a content toward which it is directed. _(REN: (Unassigned))_
+- In true faith the ultimate concern is a concern about the truly ultimate; while in idolatrous faith preliminary, finite realities are elevated to the rank of ultimacy. The inescapable consequence of idolatrous faith is 'existential disappointment,' a disappointment which penetrates into the very existence of man! _(REN: (Unassigned))_
+- ...even an idolatrous faith can hide this consequence only for a certain time. But finally it breaks into the open. _(REN: (Unassigned))_
+- The awareness of the holy is awareness of the presence of the divine, namely of the content of our ultimate concern. _(REN: (Unassigned))_
+- It is a presence that remains mysterious in spite of its appearance, and it exercises both an attractive and a repulsive function of those who encounter it. _(REN: (Unassigned))_
+- The human heart seeks the infinite because that is where the finite wants to rest. In the infinite it sees its own fulfillment. _(REN: (Unassigned))_
+- ...the infinite distance of the finite from the infinite and, consequently, the negative judgment over any finite attempts to reach the infinite. The feeling of being consumed in the presence of the divine is a profound expression of man's relation to the holy. _(REN: (Unassigned))_
+- ...the holy has been called the 'entirely other'... _(REN: 4. Madness, Nonexistence and the Other)_
+- The holy transcends this realm; this is its mystery and its unapproachable character. _(REN: (Unassigned))_
+- ...there is no way of reaching the infinite. _(REN: (Unassigned))_
+- The holy can appear as creative and as destructive. _(REN: (Unassigned))_
+- ...the terrifying and consuming element can be destructive and creative. _(REN: (Unassigned))_
+- The holy which is demonic, or ultimately destructive, is indentical wit hthe content of idolatrous faith. Idolatrous faith is still faith. The holy which is demonic is still holy. _(REN: (Unassigned))_
+- ...the danger of faith is idolatry... _(REN: (Unassigned))_
+- Our ultimate concern can destroy us as it can heal us. _(REN: (Unassigned))_
+- An act of faith is an act of a finite being who is grasped by and turned to the infinite. _(REN: (Unassigned))_
+- Faith is certain in so far as it is an experience of the holy. But faith is uncertain in so far as the infinite to which it is related is received by the finite being. This element of uncertainty in faith cannot be removed, it must be accepted. And the element in faith which accepts this is courage. Faith includes an element of immediate awareness which gives certainty and an element of uncertainty. To accept this is courage. _(REN: (Unassigned))_
+- Courage as an element of faith is the daring self-affirmation of one's own being in spite of the power of 'nonbeing' which are the heritage of everything finite. _(REN: (Unassigned))_
+- A god disappears; divinity remains. _(REN: (Unassigned))_
+- In any case, he who denies God as a matter of ultimate concern affirms God, because he affirms ultimacy in his concern. God is the fundamental symbol for what concern us ultimately. _(REN: 3. Uncanny Illusion of Naturalism, 6. Symbolic Resonance of Nothing)_
+- Holy things are not holy in themselves, but they point, beyond themselves to the source of all holiness, that which is of ultimate concern. _(REN: (Unassigned))_
+- Those who live in an unbroken mythological world feel safe and certain. They resist, often fanatically, any attempt to introduce an element of uncertainty by 'breaking the myth,' namely, by making conscious its symbolic character. _(REN: 3. Uncanny Illusion of Naturalism, 6. Symbolic Resonance of Nothing)_
+- The resistance against demythologization expresses itself in literalism...The character of the symbol to point beyond itself to something else is disregarded...The fall of Adam is localized on a special geographical point and attributed to a human individual. The virgin birth of the Messiah is understood in biological terms, ressurection and ascension as physical events...The presupposition of such literalism is that God is a being, acting in time and space, dwelling in a special place... _(REN: 6. Symbolic Resonance of Nothing)_
+- Faith, if it takes its symbolism literally, becomes idolatrous! It calls something ultimate that is less than ultimate. Faith, conscious of the symbolic character of its symbols, gives God the honor which is due to him. _(REN: 6. Symbolic Resonance of Nothing)_
+- It grasps the mind with terrifying and fascinating power. It breaks into the ordinary reality, shakes it and drives it beyond itself in an ecstatic way. _(REN: (Unassigned))_
+- Man's faith is inadequate if his whole existence is determined by something that is less than ultimate. _(REN: (Unassigned))_
+- ...to face ones's own relativity one the greatness and danger... _(REN: (Unassigned))_
+- ...the infinite tension between the absoluteness of its claim and the relativity of its life. _(REN: (Unassigned))_
+- They produce awe, fascination, adoration, idolatrous distortion, criticism, replacement by other bearers of the holy. _(REN: 4. Madness, Nonexistence and the Other)_
+- It is the state of being grasped by the holy through a special medium. _(REN: (Unassigned))_
+- There is no criterion by which faith can be judged from outside the correlation of faith. _(REN: (Unassigned))_
+- The faithful can ask himself or be asked by someone else whether the medium through which he experiences ultimate concern expresses real ultimacy. _(REN: (Unassigned))_
+- ...the inadequacy of the finite...The human mind, however, forgets this inadequacy and identifies the sacred object with the ultimate itself. The sacramental object is taken as holy in itself. Its character as the bearer of the holy, pointing beyond itself, disappears in the act of faith. The act of faith is no longer directed toward the ultimate self, but toward that which represents the ultimate- the tree, the book, the building, the person. _(REN: (Unassigned))_
+- Mysticism is not irrational. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- How is such an experience possible if the ultimate is that which transcends all possible experience? _(REN: (Unassigned))_
+- The mystic is aware of the infinite distance between the infinite and the finite, and accepts a life of preliminary stages of union with the infinite, interrupted only rarely, and perhaps never, in this life by the final ecstasy. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- The question of faith is not Moses or Jesus or Mohammed; the question is: Who expresses most adequately one's ultimate concern? The conflict between religions is not a conflict between forms of belief, but it is a conflict between expressions of our ultimate concern. _(REN: (Unassigned))_
+- The ultimate shall always be present and remembered even in the smallest activities of the ordinary life. _(REN: (Unassigned))_
+- Faith, in the New Testament, is the state of being grasped by the divine Spirit. _(REN: (Unassigned))_
+- Man's reason is finite; it moves within finite relations when dealing with the universe and with man himself. All cultural activities in which he shapes his world have this character of finitude. Therefore, they are not matters of ultimate concern. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Man experiences a belonging to the infinite, which, however, is neither a part of himself nor something in his power. It must grasp him, and if it does, it is a matter of infinite concern. Man is finite, man's reason lives in preliminary concerns; but man is also aware of his potential infinity, and this awareness appears as his ultimate concern. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Reason can be fulfilled only if it is driven beyond the limits of its finitude, and experiences the presence of the ultimate, the holy. Without such an experience, reason exhausts itself and its finite content. Finally, it becomes filled with irrational or demonic contents and is destroyed by them. _(REN: (Unassigned))_
+- First, it must be acknowledged that man is in a state of estrangement from his true nature. _(REN: (Unassigned))_
+- on being 'grasped'- “Without some participation in the object of one's ultimate concern, it is not possible to be concerned about it. In this sense ebvery act of faith presupposes participation in that toward which it is directed. Without a preceding experience of the ultimate no faith in the ultimate can exist. The mystical type of faith has emphasized this the most strongly." _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- Without hte manifestation of God in man the question of God and faith in God are not possible. There is no faith without participation! _(REN: (Unassigned))_
+- We are never able to bridge the infinite distance between the infinite and the finite from the side of the finite. This alone makes the courage of faith possible. The risk of failure, of error and of idolatrous distortion can be taken, because the failure cannot separate us from what is our ultimate concern. _(REN: (Unassigned))_
+- The ultimate concern gives depth, direction and unity to all other concerns and, with them, to the whole personality. _(REN: 4. Madness, Nonexistence and the Other)_
+- Ultimate concern is passionate concern; it is a matter of infinite passion. _(REN: 3. Uncanny Illusion of Naturalism)_
+- The body can participate both in vital ecstasy and in asceticism leading to spiritual ecstasy. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- The objects of modern secular idolatry, such as nation and success, have shown healing power, not only by the magic fascination of a leader, a slogan or a promise but also by the fulfillment of otherwise unfulfilled strivings for a meaningful life. But the basis for integration is too narrow. _(REN: (Unassigned))_
+- One is ultimately concerned only about something to which one essentially belongs and from which one is existentially separated. _(REN: (Unassigned))_
+- That which is based on an ultimate concern is not exposed to destruction by preliminary concerns and the lack of their fulfillment. _(REN: (Unassigned))_
+- Without symbols in which the holy is experienced as present, the experience of the holy vanishes. _(REN: 6. Symbolic Resonance of Nothing)_
+- If the myth is understood literally, philosophy must reject it as absurd. It must demythologize the sacred stories, transform the myth into a philosophy of religion and finally into a philosophy without religion. _(REN: 1. Nihilism Preface)_
+- ...no one is completely without an ultimate concern. _(REN: (Unassigned))_
+- Faith is a concept- and a reality- which is difficult to grasp and to describe. _(REN: (Unassigned))_

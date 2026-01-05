@@ -1,0 +1,10 @@
+# Epistemological Rupture — The Absurdity of Life without God
+## Quotes (REN-tagged)
+- eventually swallow them all again. And the same is true of each individual person. The contributions of the scientist to the advance of human knowledge, the researches of the doctor to alleviate pain and suffering, the efforts of the diplomat to secure peace in the world, the sacrifices of good men everywhere to better the lot of the human race--all these come to nothing. This is the horror of modern man: because he ends in nothing, he is nothing. _(REN: 3. Uncanny Illusion of Naturalism)_
+- During this entire play two men carry on trivial conversation while waiting for a third man to arrive, who never does. Our lives are like that, Beckett is saying; we just kill time waiting—for what, we don't know. In a tragic portrayal of man, Beckett wrote another play in which the curtain opens revealing a stage littered with junk. For thirty long seconds, the audience sits and stares in silence _(REN: 4. Madness, Nonexistence and the Other, 6. Symbolic Resonance of Nothing)_
+- Reflection on it depresses me . . . . Pure practical reason, even with a good knowledge of the facts, _(REN: (Unassigned))_
+- to say that something is wrong because . . . it is forbidden by God, is . . . perfectly understandable to anyone who believes in a law-giving God. But to say that something is wrong . . . even though no God exists to forbid it, is not understandable. . . . _(REN: 6. Symbolic Resonance of Nothing)_
+- consistently and happily knowing that life is meaningless; so in order to be happy he pretends life has meaning. But this is, of course, entirely inconsistent—for without God, man and the universe are without any real significance. _(REN: 1. Nihilism Preface)_
+- I do not know the solution, _(REN: (Unassigned))_
+- universal truth (when there is none), and because it tells me not to live for self-interest (which is _(REN: (Unassigned))_
+- relativism, then why (if we could) pretend that we do not know this truth and live a lie instead? If _(REN: (Unassigned))_

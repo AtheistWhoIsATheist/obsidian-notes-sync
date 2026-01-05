@@ -1,0 +1,23 @@
+# (Unclassified) — Pascal
+## Quotes (REN-tagged)
+- Returning to himself, let man consider what he is in comparison with all existence; let him regard himself as lost in this remote corner of nature; and from the little cell in which he finds himself lodged, I mean the universe, let him estimate at their true value the earth, kingdoms, cities, and himself. What is a man in the Infinite? _(REN: (Unassigned))_
+- Through failure to contemplate these Infinites, men have rashly rushed into the examination of nature, as though they bore some proportion to her. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- ...is not the duration of our life equally removed from eternity, even if it lasts ten years longer? _(REN: (Unassigned))_
+- ...I have discovered that all the unhappiness of men arises from one single fact, that they cannot stay quietly in their own chamber. A man who has enough to live on, if he knew how to stay with pleasure at home, would not leave it to go to sea or to besiege ax town. _(REN: (Unassigned))_
+- They have a secret instinct which impels them to seek amusement and occupation abroad, and which arises from the sense of their constant unhappiness. They have another secret instinct, a remnant of the greatness of our original nature, which teaches them that happiness in reality consists only in rest, and not in stir. And of these two contrary instincts they form within themselves a confused idea, which hides itself from their view in the depths of their soul, inciting them to aim at rest through excitement, and always to fancy that the satisfaction which they have not will come to them, if, by surmounting whatever difficulties confront them, they can thereby open the door to rest. _(REN: (Unassigned))_
+- I spent a long time in the study of the abstract sciences, and was disheartened by the small number of fellow-students in them. _(REN: (Unassigned))_
+- One thought alone occupies us; we cannot think of two things at the same time. This is lucky for us according to the world, not according to God. _(REN: 3. Uncanny Illusion of Naturalism)_
+- We do not trouble ourselves about being esteemed in the towns through which we pass. But if we are to remain a little while there, we are so concerned. How long is necessary? A time commensurate with our vain and paltry life. _(REN: (Unassigned))_
+- If our condition were truly happy, we would not need diversion from thinking of it in order to make ourselves happy. _(REN: (Unassigned))_
+- For the Christian faith goes mainly to establish these two facts, the corruption of nature, and redemption by Jesus Christ. _(REN: (Unassigned))_
+- It is a horrible thing to feel all that we possess slipping away. _(REN: (Unassigned))_
+- Scepticism helps religion. _(REN: (Unassigned))_
+- All the principles of sceptics, stoics, atheists, etc., are true. But their conclusions are false, because the opposite principles are also true. _(REN: (Unassigned))_
+- We are not miserable without feeling it. A ruined house is not miserable. Man only is miserable. _(REN: (Unassigned))_
+- And those who most despise men, and put them on a level with the brutes, yet wish to be admired and believed by men, and contradict themselves by their own feelings; their nature, which is stronger than all, convincing them of the greatness of man more forcibly than reason convinces them of their baseness. _(REN: (Unassigned))_
+- Notwithstanding the sight of all our miseries, which press upon us and take us by the throat, we have an instinct which we cannot repress, and which lifts us up. _(REN: (Unassigned))_
+- Men are so necessarily mad, that not to be mad would amount to another form of madness. _(REN: 4. Madness, Nonexistence and the Other)_
+- I blame equally those who choose to praise man, those who choose to blame him, and those who choose to amuse themselves; and I can only approve of those who seek with lamentation. _(REN: (Unassigned))_
+- It is better not to fast, and thereby humbled, than to fast and be self-satisfied therewith. _(REN: (Unassigned))_
+- Christianity is strange. It bids man recognize that he is vile, even abominable, and bids himolitude desire to be like God. Without such a counterpoise, this dignity would make him horribly vain, or this humiliation would make him terribly abject. _(REN: (Unassigned))_
+- Atheism shows strength of mind, but only to a certain degree. _(REN: (Unassigned))_

@@ -1,0 +1,6 @@
+# Linguistic Futility — The Absurdity of Life without God
+## Quotes (REN-tagged)
+- During this entire play two men carry on trivial conversation while waiting for a third man to arrive, who never does. Our lives are like that, Beckett is saying; we just kill time waiting—for what, we don't know. In a tragic portrayal of man, Beckett wrote another play in which the curtain opens revealing a stage littered with junk. For thirty long seconds, the audience sits and stares in silence _(REN: 4. Madness, Nonexistence and the Other, 6. Symbolic Resonance of Nothing)_
+- Sartre's words, the bare, valueless fact of existence. Moral values are either just expressions of _(REN: (Unassigned))_
+- The concept of moral obligation (is) unintelligible apart from the idea of God. The words remain but their meaning is gone. _(REN: (Unassigned))_
+- for their own sakes; in other words, they are objective values, which according to his philosophy do not exist. He has already leapt to the upper story. The Noble Lie option thus affirms what it denies and so refutes itself. _(REN: 4. Madness, Nonexistence and the Other)_

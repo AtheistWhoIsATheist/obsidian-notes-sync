@@ -1,0 +1,4 @@
+# Ontological Abyss — C. S. Lewis
+## Quotes (REN-tagged)
+- If H. ‘is not,’ then she never was. I mistook a cloud of atoms for a person. There aren’t, and never were, any people. Death only reveals the vacuity that was always there. What we call the living are simply those who have not yet been unmasked. All equally bankrupt, but some not yet declared. _(REN: 2. Abyssal Experience)_
+- Finally, if reality at its very root is so meaningless to us—or, putting it the other way round, if we are such total imbeciles—what is the point of trying to think either about God or about anything else? _(REN: 1. Nihilism Preface, 4. Madness, Nonexistence and the Other)_

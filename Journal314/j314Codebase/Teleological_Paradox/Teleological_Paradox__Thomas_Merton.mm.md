@@ -1,0 +1,4 @@
+# Teleological Paradox — Thomas Merton
+## Quotes (REN-tagged)
+- Meditation is for those who are not satisfied with a merely objective and conceptual knowledge about life, about God— about ultimate realities. They want to enter into an intimate contact with truth itself, with God. They want to experience the deepest realities of life by living them. Meditation is the means to that end. _(REN: (Unassigned))_
+- It is usually better to remain quiet, to be still. But there is no reason why one should not also meditate walking up and down in a garden. In short, there is an almost infinite variety of places and positions that can be adopted in mental prayer. They are all accidental. The most important thing is to seek silence, tranquillity, recollection and peace. _(REN: 6. Symbolic Resonance of Nothing)_

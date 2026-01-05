@@ -1,0 +1,164 @@
+# (Unclassified) — Emile Cioran
+## Quotes (REN-tagged)
+- meanings, _(REN: (Unassigned))_
+- surrender to our inner fluidity without any intention of objectifying it, intimately and voluptuously soaking in our own inner turmoil and struggle? then we would feel with much richer intensity the whole inner growth of spiritual experience all kinds of insights would blend _(REN: (Unassigned))_
+- and flourish in a fertile effervescence. a sensation of actuality and spiritual content would be born, like the rise of a wave or a musical phrase. to be full of one's self, not in the sense of pride, but of enrichment, to be tormented by a sense of inner infinity...” (me- Molinos says this almost exactly) _(REN: (Unassigned))_
+- “the deepest subjective experiences are also the most universal, because through them one _(REN: (Unassigned))_
+- entire past suddenly appears before them and hits them with the force of a waterfall. many become lyrical after some decisively critical experience, when the turmoil of their _(REN: (Unassigned))_
+- express their inner infinity; inner lyricism finds adequate objectification only through fluid, irrational material.” (a great description of Tillich's ideas of Religious Symbolism) _(REN: 6. Symbolic Resonance of Nothing)_
+- into a region of infinite complexity, where your subjectivity tosses about in a maelstrom. to be lyrical from suffering means to achieve that inner purification in which wounds cease to be mere _(REN: (Unassigned))_
+- there is no authentic lyricism without a grain of interior madness. it is significant that the beginnings of all mental psychoses are marked by a lyrical phase during which all the usual barriers and limits disappear, giving way to an inner drunkenness of the most fertile, creative kind. _(REN: 4. Madness, Nonexistence and the Other)_
+- the lyrical state is a state beyond forms and systems. _(REN: (Unassigned))_
+- must have friends and aspirations, hopes and dreams. wouldn't it be better to retreat to a faraway corner of the world, where all its noise and complications would be heard no _(REN: 3. Uncanny Illusion of Naturalism)_
+- lived to extremity all that is offered at those dangerous borders, the everyday gesture and the usual aspiration lose their seductive charm.” (Bach is needed, right Heisman?) _(REN: (Unassigned))_
+- only the sick man is delighted by life and praises it so that he won't collapse. _(REN: (Unassigned))_
+- in the world. Solitary walks are propitious to an intense process of interiorization especially in the evening, when none of the usual seductions can steal one's interest. then revelations about the _(REN: 3. Uncanny Illusion of Naturalism)_
+- “life is the privilege of mediocre people. only mediocrities live at life's normal temperature; the _(REN: (Unassigned))_
+- others are consumed at temperatures at which life can not endure, at which they can barely breathe, already one foot beyond life.” _(REN: (Unassigned))_
+- let him run in a fright until he falls exhausted. i warrant you that the effect is incomparably greater than any obtained through normal means. if i could, i would drive the entire world to agony to achieve a radical purification of life; i would set a fire burning insidiously at the roots of life, not to _(REN: 3. Uncanny Illusion of Naturalism)_
+- too would cease to be immanent in life.” (take psychedelics correctly, Mckenna) _(REN: (Unassigned))_
+- “it is a weariness which consumes and destroys. no effort, no hope, no illusion can satisfy you any longer. shocked witless by your own catastrophe, unable to think or to act, caught in cold and _(REN: 3. Uncanny Illusion of Naturalism)_
+- heavy darkness, solitary as in moments of profound regret, you have reached the negative limit of life, its absolute temperature, where the last illusions about life freeze.” _(REN: 3. Uncanny Illusion of Naturalism)_
+- one loses one's sense of security and the normal sensation of the immediate and the concrete. _(REN: (Unassigned))_
+- the truly awful thing in madness is that we sense a total and irrevocable loss of life while we are still living. _(REN: 4. Madness, Nonexistence and the Other)_
+- “i would like instead a shower of warm light to fall from me, transfiguring the entire world, an _(REN: 3. Uncanny Illusion of Naturalism)_
+- unecstatic burst of light preserving the calm of luminous eternity. far from the concentrations of ecstasy, it would be all graceful lightness and smiling warmth. The entire world should float in this dream of light, in this transparent and unreal state of delight. obstacles and matter, form and limits would cease to exist. then let me die of light in such a landscape.” _(REN: 3. Uncanny Illusion of Naturalism, 5. Startling Encounter with Infinite Nothingness)_
+- serious _(REN: (Unassigned))_
+- quest for more varied forms of life, your limitless longing for inaccessible things, your elevated _(REN: (Unassigned))_
+- frustration with the limits of empiricism- all become simple manifestations of an excessively exuberant sensibility, lacking the profound seriousness which characterizes the man who has penetrated the realm of dangerous mysteries.” _(REN: (Unassigned))_
+- there are, of course, other ways, but they are accidental and individual, and do not have the same potential for revelation as illness or depression.” _(REN: 4. Madness, Nonexistence and the Other)_
+- even though belief in eternity is necessary as historical man's unique consolation, the catastrophic ending of this tragedy of life and of man in particular will demonstrate the illusion of such naive faith. _(REN: 3. Uncanny Illusion of Naturalism)_
+- a hypocritical serenity; in fact, they tremble with fear more than anyone else. one should not forget that philosophy is the art of masking inner torments.” _(REN: (Unassigned))_
+- “the art of dying cannot be learned, because there is no technique, there are no rules. the irrevocability of agony is experienced by each individual alone, through infinite and intense suffering. most people are unaware of the slow agony within themselves. for them there is only _(REN: (Unassigned))_
+- shows him to be lonely and forsaken. the sharper our consciousness of the world's infinity, the more acute our awareness of our own finitude. in some states this awareness is painfully depressing, but in melancholy it is less tormenting and sometimes even rather voluptuous. _(REN: 3. Uncanny Illusion of Naturalism)_
+- when one looks at this disparity in states of melancholy, it ceases to be painful and the world appears endowed with a strange, sickly beauty.” _(REN: 3. Uncanny Illusion of Naturalism)_
+- “metaphysical existentialism is born out of ecstasy in front of the world's primordial origins; it _(REN: 3. Uncanny Illusion of Naturalism, 5. Startling Encounter with Infinite Nothingness)_
+- is the ultimate intoxication, ecstatic bliss in the contemplation of essence.” _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- “only great and dangerous contradictions betoken a rich spiritual life, because only they _(REN: (Unassigned))_
+- seems to me utter and ridiculous folly. could there be a solution, approximate of course, in a sort of superconsciousness? couldn't one live beyond (not just on this side, toward animality) all _(REN: (Unassigned))_
+- beyond present-day common ideals and forms, one might breathe in a superconsciousness where the intoxication of eternity would do away with the qualms of this world, and where being would be just as pure and immaterial as nonbeing. _(REN: 3. Uncanny Illusion of Naturalism)_
+- splendors of this world were to vanish at once, leaving behind the dull monotony of a cemetery.” _(REN: 3. Uncanny Illusion of Naturalism)_
+- fall from a world of abstractions into a whirlwind of feelings, into all the fantastic shapes _(REN: 3. Uncanny Illusion of Naturalism)_
+- of abstract forms and ended in absolute confusion. therefore they can only philosophize poetically. in the state of absolute confusion, only the delights and torments of madness still _(REN: 4. Madness, Nonexistence and the Other)_
+- grace is an illusory state in which life negates its antinomies and transcends its demonic dialectic, in which contradictions, fatality, and the consciousness of the irrevocable temporarily vanish...transcending negativity is the essential characteristic of grace. _(REN: (Unassigned))_
+- only sickness gives birth to serious and deep feelings. _(REN: (Unassigned))_
+- “pity is not only inefficient; it is also insulting. and besides, how can you pity another when you _(REN: (Unassigned))_
+- the experience of eternity therefore depends on intensity of subjective feeling, and the way to eternity is to transcend the temporal...every experience of eternity presupposes a leap and a transfiguration, and few and far between are those capable of the tension necessary to arrive at the blissful contemplation of the eternal. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- ...there is no true or false, only our spontaneous reactions. _(REN: (Unassigned))_
+- isn't intense subjectivity the way to attain universality, exactly as one enters eternity through the instant? men value solitude so little! they condemn the sterility of all that it has produced and give praise exclusively to social values, for they cherish the illusion that they have all contributed to their creation. they all aspire to great achievements through which they hope to attain immortality. as if they will not crumble into dust! _(REN: 3. Uncanny Illusion of Naturalism)_
+- “the height of ecstasy is the final sensation, in which you feel you are dying because of all this light and darkness. especially weird is the fact that ecstasy wipes out surrounding objects, familiar forms of the world, until ail that is left is a monumental projection of shadow and light. _(REN: 3. Uncanny Illusion of Naturalism, 5. Startling Encounter with Infinite Nothingness)_
+- of interiority, reveals only inner shadows and glimmers of light. next to them, the charm of light _(REN: (Unassigned))_
+- of metaphysical hallucination. pure essences, grasped through ecstasy, are immaterial, but their immateriality causes vertigo and obsession from which you cannot free yourself except by converting them into metaphysical principles.” _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- i will not return, _(REN: (Unassigned))_
+- of retreating discreetly, without a big show of revolt and hatred, you denounce, emphatically _(REN: (Unassigned))_
+- “not living under the fierce desert sun, with just that one thought about eternity, are we to _(REN: (Unassigned))_
+- “a world full of philosophers, what a terrifying prospect! they should be all wiped out so that _(REN: 3. Uncanny Illusion of Naturalism)_
+- the essence of social life is injustice. _(REN: (Unassigned))_
+- poverty _(REN: (Unassigned))_
+- “to live infinity, as well as to meditate a long time upon it, is the most terrifying lesson _(REN: (Unassigned))_
+- in anarchy and revolt one can ever learn. infinity shakes you to the roots of your being, disorganizes you, but it also makes you forget the petty, the contingent, and the insignificant.” _(REN: (Unassigned))_
+- how fortunate that, having lost all our hopes, we can still leap into infinity, dive into boundlessness, participate in the universal anarchy of its whirlwind! _(REN: (Unassigned))_
+- “absolute becoming, infinity destroys anything that is formed, crystallized, or finished. isn't _(REN: (Unassigned))_
+- “hence the limited perspective of active and energetic people, the banality of their thought and actions. i am not contrasting work to either passive contemplation or vague dreaminess, but to an unrealizable transfiguration; nevertheless, i prefer an intelligent and observant laziness to _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- “when men can no longer bear the monotony and the banality of ordinary existence, they will find in each experience of the absolute an opportunity to commit suicide. the impossibility _(REN: 4. Madness, Nonexistence and the Other)_
+- disjunction from the world through suffering leads to excessive interiorization and, paradoxically, to such a high level of consciousness that the world, with all its splendors and glooms, becomes exterior and transcendent. _(REN: 3. Uncanny Illusion of Naturalism)_
+- “man should stop being- or becoming - a rational animal. he should become a lunatic, risking everything for the sake of his dangerous fantasies, capable of exaltations, ready to die for all _(REN: (Unassigned))_
+- achieve something or not, have faith or not, just as it is all the same whether you cry or remain _(REN: (Unassigned))_
+- silent. there is an explanation for everything, and yet there is none. everything is both real and _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- in the air, a flower floating downstream! have courage when you don't need to, and be a coward _(REN: (Unassigned))_
+- all efforts to attain happiness, on the other hand, are entirely futile. you can not retrace your steps once you've taken the path to unhappiness; it is the path of no return. from being happy, one can become unhappy, so there are more unpleasant surprises in happiness than in unhappiness. the world seems right to us when we are happy; when unhappy, we wish the world were anything but what it is. though fully aware that the source of unhappiness is in us, we nevertheless turn a personal defect into a metaphysical deficiency. _(REN: 3. Uncanny Illusion of Naturalism, 4. Madness, Nonexistence and the Other)_
+- sees itself in other lives as if in so many mirrors; for a psychologist, all men are fragments of himself...quickly exhausting men and their limited resources, the psychologist is easily bored, for he is not naive enough to have friends and is too self-conscious to have lovers.” _(REN: 4. Madness, Nonexistence and the Other)_
+- madness _(REN: 4. Madness, Nonexistence and the Other)_
+- madness _(REN: 4. Madness, Nonexistence and the Other)_
+- I would not want to live in a world drained of all religious feeling. I am not thinking of faith but of that inner vibration which, independent of any belief in particular, projects you into, and sometimes above God. _(REN: 3. Uncanny Illusion of Naturalism)_
+- If the narrative of the Fall is so striking, it is because its author describes neither entities nor symbols: he sees a God strolling in a garden, a rural God, as one exegete has so accurately characterized Him. _(REN: 6. Symbolic Resonance of Nothing)_
+- To detest someone is to want him to be anything but what he is. T. writes me that I am the man he loves most in the world . . . but he urges me at the same time to forgo my obsessions, to change my ways, to become different, to break with the man I am. Which is to say that he rejects my being. _(REN: 3. Uncanny Illusion of Naturalism, 6. Symbolic Resonance of Nothing)_
+- To be is to be cornered. _(REN: (Unassigned))_
+- One is and remains a slave as long as one is not cured of hoping. _(REN: (Unassigned))_
+- I do not struggle against the world, I struggle against a greater force, against my weariness of the world. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Get hold of yourself, be confident once more, don’t forget that it is not given to just anyone to have idolized discouragement without succumbing to it. _(REN: (Unassigned))_
+- The apparition of life? A temporary madness, a prank, a whim of the elements, a vagary of matter. The only ones entitled to grumble are the individual beings, pitiable victims of a passing fancy. _(REN: 3. Uncanny Illusion of Naturalism, 4. Madness, Nonexistence and the Other)_
+- The only profound thinkers are the ones who do not suffer from a sense of the ridiculous. _(REN: (Unassigned))_
+- In my childhood, a profound shock when I heard my father, back from the cemetery, tell how a young mother who had lost her baby daughter burst out laughing at the moment the coffin was lowered into the grave. Fit of madness? Yes and no. For when we attend a funeral and the absolute deception is suddenly unmasked, do we not have a craving to react precisely like that mother? It is too much— it is almost a provocation: nature exaggerates. We conceive that we might collapse in hilarity. _(REN: 4. Madness, Nonexistence and the Other)_
+- We are all of us in error, the humorists excepted. They alone have discerned, as though in jest, the inanity of all that is serious and even of all that is frivolous. _(REN: (Unassigned))_
+- When I happen to be satisfied with everything, even with God and myself, I immediately react like the man who, on a brilliant day, torments himself because the sun is bound to explode in a few billion years. _(REN: (Unassigned))_
+- Everything that happens is at once natural and inconceivable. This conclusion is unavoidable, whether we consider great or trivial events. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Undeniable sign of spiritual nonfulfillment: every passionate reaction to blame, that twinge at the heart whenever we are reproached in one way or another. This is the cry of the old Adam in each of us, it proves we have not yet conquered our origins. So long as we do not aspire to be scorned, we are like the others, like those precisely whom we scorn. _(REN: (Unassigned))_
+- We regret not having had the courage to make such and such a decision; we regret much more having made one— any one. Better no action than the consequences of an action! _(REN: 4. Madness, Nonexistence and the Other)_
+- Everyone is mistaken, everyone lives in illusion. At best, we can admit a scale of fictions, a hierarchy of unrealities, giving preference to one rather than to another; but to choose, no, definitely not that... _(REN: 3. Uncanny Illusion of Naturalism)_
+- To that friend who tells me he is bored because he cannot work, I answer that boredom is a higher state, and that we debase it by relating it to the notion of work. _(REN: (Unassigned))_
+- Get hold of yourself, be confident once more, don’t forget that it is not given to just anyone to have idolized discouragement without succumbing to it. _(REN: (Unassigned))_
+- A terrible yet endurable mortification: to be born among a people that will never be mentioned. _(REN: (Unassigned))_
+- Existence = Torment. The equation seems obvious to me, but not to one of my friends. How to convince them? I cannot lend him my sensations; yet only they would have the power to persuade him, to give him that additional dose of ill-being he has so insistently asked for all this time. _(REN: (Unassigned))_
+- The West: a sweet-smelling rottenness, a perfumed corpse. _(REN: (Unassigned))_
+- ...Do we think of Buddha withdrawing from the world on account of his contemporaries? _(REN: 3. Uncanny Illusion of Naturalism)_
+- Life would become endurable only among a humanity which no longer have any illusions in reserve, a humanity completely disabused and delighted to be so. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Explosive force of any mortification. Every vanquished desire affords us power. We have the more hold over this world the further we withdraw from it, the less we adhere to it. Renunciation confers an infinite power. _(REN: 3. Uncanny Illusion of Naturalism)_
+- 'All is suffering' – modernized, the Buddhist expression runs: 'All is nightmare.' _(REN: (Unassigned))_
+- Beatitude is not compatible with this world. It is for beatitude that the hermit cuts all his moorings, for beatitude that he destroys himself. _(REN: 3. Uncanny Illusion of Naturalism)_
+- All our beliefs being intrinsically superficial and governing only appearances, it follows that all are on the same level, at the same degree of unreality. _(REN: (Unassigned))_
+- Every day we should honor someone, creature or object, by renouncing them. _(REN: 4. Madness, Nonexistence and the Other)_
+- Thought, too, is a prejudice, a shackle. It liberates only at the beginning, when it permits us to break certain moorings; afterwards, all it is capable of is to adsorb our energy and to paralyze our impulses toward liberation. _(REN: (Unassigned))_
+- We cling to anything, if only we don't have to tear ourselves away from that fascination accountable for our actions and even our nature, from that primal dazzle which keeps us from discerning the nonreality in everything. _(REN: (Unassigned))_
+- It is a mistake to supposed that mysticism derives from a softening of the instincts, from a compromised vitality...To get a sense of them, imagine a Hernando Cortez in the middle of an invisible geography. The German mystics were conquerors too. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- If you believe in God, you are mad without having gone mad. _(REN: 4. Madness, Nonexistence and the Other)_
+- Only by thinking about him constantly and mercilessly, only by setting siege to his solitude can we win rich spoils in our battle with him. If we lose heart and go halfway only, he will just be one more failure. _(REN: (Unassigned))_
+- Theology is the negation of divinity. Looking for proofs of God is crazy idea...theology is the atheist's mode of believing. The most obscure mystical mumbo-jumbo is closer to God than the Summa Theologiae. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- Bach's music is the medium of heavenly transfiguration. _(REN: (Unassigned))_
+- Wine has brought men closer to God than theology. _(REN: (Unassigned))_
+- For an ancient philosopher or a medieval monk, 'there is no way out' would make a constant theme for meditation. _(REN: (Unassigned))_
+- Saintly meditation is an imprisonment in original memory. _(REN: (Unassigned))_
+- The organ is an instrument which makes palpable God's distance from us. _(REN: (Unassigned))_
+- There comes a moment in life when one places everything in relation to God. Anything less seems too little. Yet the fear that God may no longer be topical sometimes grabs you, and relating everything to him seems useless. The transience of the ultimate principle – a logically absurd idea, yet present in consciousness – fills you with strange terror. Could God be just a fashion of the soul, a fleeting passion of history? _(REN: 1. Nihilism Preface, 2. Abyssal Experience)_
+- The more time has disappeared from one's memory, the closer one is to mysticism. Paradise is not possible without a defective memory. The healthier the memory is, the more it adheres to the world. _(REN: 3. Uncanny Illusion of Naturalism, 5. Startling Encounter with Infinite Nothingness)_
+- Saints are completely out-of-date. _(REN: (Unassigned))_
+- God nestles in spiritual voids. _(REN: 2. Abyssal Experience)_
+- Saintliness cannot exist without the voluptuousness of pain and a perverse refinement of suffering. _(REN: (Unassigned))_
+- Each time weariness with the world takes on a religious form, God appears like a sea of forgetfulness. Drowning in God is a refuge from our own individuality. _(REN: 3. Uncanny Illusion of Naturalism)_
+- As long as you are busy with him you have an excuse for sadness and solitude. God? An official madness. _(REN: 4. Madness, Nonexistence and the Other)_
+- Healthy bodies and healthy minds have never been shaken by religious fears. _(REN: (Unassigned))_
+- The failed mystic is the one who cannot cast off all temporal ties. _(REN: 5. Startling Encounter with Infinite Nothingness)_
+- Life is a series of obsessions that one must do away with. _(REN: (Unassigned))_
+- To have faith one must remain passive vis-a-vis the world. The believer must not do anything. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Disagreement is a sign of spiritual vitality. It culminates in disagreement with God. _(REN: (Unassigned))_
+- I have always wondered about people who are 'crazy for God,' who have sacrificed everything for him, first of all their minds. _(REN: (Unassigned))_
+- Thinking is not exhaustive; there are infinite variations on the theme of God. _(REN: (Unassigned))_
+- Intimations of God's supreme indifference render man's revolt utterly pointless. To be a hero only in the eyes of men is a paltry thing. There is no consolation in dying like a hero, i.e. misunderstood by the gods. _(REN: (Unassigned))_
+- There are many thinkers and dreamers who never feel the need for God. Sadness without the need for consolation does not guarantee a religious experience. Those limited to sadness per se are strangers to God. The absolute is a specific tonality of sadness. _(REN: (Unassigned))_
+- The task of a solitary man is to be even more solitary. _(REN: (Unassigned))_
+- God...is he anything but the fateful moment when our life totters on the brink of destruction? _(REN: (Unassigned))_
+- Churches are undercover hospices. _(REN: (Unassigned))_
+- Only ecstasy cures us of pessimism. Life would be unbearable if it were real. As a dream, it is a mixture of charm and terror to which we gladly abandon ourselves. Consciousness is nature's nightmare. _(REN: 2. Abyssal Experience, 5. Startling Encounter with Infinite Nothingness)_
+- The company of mortals is, for a lucid man, pure torture. _(REN: (Unassigned))_
+- I live on what makes other people die _(REN: 4. Madness, Nonexistence and the Other)_
+- To be alone, horribly alone, is the only imperative, and it must be obeyed at any price. _(REN: (Unassigned))_
+- All that if Life in me urges me to give up God. _(REN: (Unassigned))_
+- The fall – emblem of our human condition – is a nervous exacerbation of consciousness. _(REN: (Unassigned))_
+- All that adheres to this world is trivial. _(REN: 3. Uncanny Illusion of Naturalism)_
+- Voluntary hunger is a road to heaven; hunger from poverty, a crime of the earth. _(REN: (Unassigned))_
+- When I realized there was no absolute except in renunciation, I dedicated myself to appearances. _(REN: (Unassigned))_
+- Sometimes God is so easy to make out that just listening a bit more carefully to one's inner voice is enough. _(REN: (Unassigned))_
+- Spirit means renunciation...when people, not having experienced spiritual torture, satisfy their thirst for renunciation through a derivative: heroism. _(REN: (Unassigned))_
+- Intimations of God's supreme indifference render man's revolt utterly pointless. To be a hero only in the eyes of men is a paltry thing. There is no consolation in dying like a hero, i.e., misunderstood by the gods. _(REN: (Unassigned))_
+- The more bored one is, the more self-conscious. _(REN: (Unassigned))_
+- Boredom is the only argument against immortality. From it derive all our negations. _(REN: (Unassigned))_
+- Life is a reality only for wholesome people, high priests of stupidity! _(REN: (Unassigned))_
+- We are not when we are one with the world. Our desire to escape the world and thus be ourselves sends us on a quest for suffering. Asceticism is the paroxysm of such desire, a systematic insomnia and starvation. Self-torture intensifies subjectivity...Once you have tasted the joys of suffering, you are hooked on them for ever. _(REN: 3. Uncanny Illusion of Naturalism)_
+- When you become prey to an incurable boredom, illness seems a welcome distraction. _(REN: (Unassigned))_
+- ..detachment from worldly things, a precondition for attachment to God. _(REN: (Unassigned))_
+- Only ecstasy cures us of pessimism. Life would be unbearable if it were real. As a dream, it is a mixture of charm and terror to which we gladly abandon ourselves. Consciousness is nature's nightmare. _(REN: 2. Abyssal Experience, 5. Startling Encounter with Infinite Nothingness)_
+- As long as I live I shall not allow myself to forget that I shall die... _(REN: (Unassigned))_
+- While reading subtle and useless philosophical polemics at the library, an irresistible longing for the desolation of deserts would sometimes grab hold of me. _(REN: (Unassigned))_
+- Man either loses himself in God or taunts him, but no one has ever remained level-headed in his presence. _(REN: (Unassigned))_
+- All that is Life in me urges me to give up God. _(REN: (Unassigned))_
+- The dead center of existence: when it is all the same to you whether you read a newspaper article or think of God. _(REN: (Unassigned))_
+- Truly, everything can be used as argument for or against him, because everything in the world both confirms and denies his divinity. Blasphemy and prayer are both justified. _(REN: 3. Uncanny Illusion of Naturalism)_
+- The fall – emblem of our human condition – is a nervous exacerbation of consciousness. _(REN: (Unassigned))_
+- Paleontology _(REN: (Unassigned))_
+- flesh _(REN: (Unassigned))_
+- those who made a great case for its insignificance: Buddha... _(REN: 4. Madness, Nonexistence and the Other)_
+- The horrible being the path of liberation...In the Middle Ages, a man made a regimen of salvation, he believed energenically: the corpse was in fashion. _(REN: 4. Madness, Nonexistence and the Other)_
+- Today, an edulcorated religion adheres only to “nice _(REN: (Unassigned))_
+- ...the monk...No one would gainsay the fact that he is in the process of disappearing. _(REN: (Unassigned))_
+- Every concerted pursuit, even that of nirvana, if we are not free to abandon it, is a shackle as much as any other. _(REN: 4. Madness, Nonexistence and the Other)_
+- The world which causes it is reduced to a transitory assemblage of unreal elements. In short, our fear is intense in proportion as we give credence to the self and to the world...Only our triumph over things is real, only our realization of unreality, which our acumen constructs every day, every hour. To be delivered is to rejoice in this unreality, to seek it out each moment. _(REN: 3. Uncanny Illusion of Naturalism)_

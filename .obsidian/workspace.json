@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "154067498304617c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e0ca98b633fbd89",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Recent Notes January 2025.base",
+                "viewName": "Table"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "Recent Notes January 2025"
+            }
+          },
+          {
+            "id": "8542c4e576f93a40",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT Research/Outlines and Mindmaps/Mindmap&314_Agentic Workers.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Mindmap&314_Agentic Workers"
+            }
+          },
+          {
+            "id": "929e747dca82c889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engine-System-Inquiry/1_Ai_Philosopher_Engine_Complete_Code.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1_Ai_Philosopher_Engine_Complete_Code"
+            }
+          },
+          {
+            "id": "f8dde3893554cafb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engine-System-Inquiry/1_Ai_Philosopher_Engine_Complete_Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1_Ai_Philosopher_Engine_Complete_Code"
+            }
+          },
+          {
+            "id": "9c4a926763e9ab43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engine-System-Inquiry/AiPhilEngine_complete_code/COMPLETE_sections1-6_AiPhilEngine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMPLETE_sections1-6_AiPhilEngine"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "582aced41b592f68",
+    "type": "split",
+    "children": [
+      {
+        "id": "8763aed38de5109c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c25116f1976737b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bc066bd910a4ed54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fine:incantations",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ee83cbd1ba9053ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "c1b8586287da5c04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": "prompty"
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.50446319580078
+  },
+  "right": {
+    "id": "e76a475186840d3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "23651a8079ad2650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58fa37be873cbbd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Engine-System-Inquiry/AiPhilEngine_complete_code/COMPLETE_sections1-6_AiPhilEngine.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of COMPLETE_sections1-6_AiPhilEngine"
+            }
+          },
+          {
+            "id": "999980340a24303a",
+            "type": "leaf",
+            "state": {
+              "type": "sync",
+              "state": {},
+              "icon": "refresh-ccw",
+              "title": "Sync changes"
+            }
+          },
+          {
+            "id": "0a0803d044036e55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Engine-System-Inquiry/AiPhilEngine_complete_code/COMPLETE_sections1-6_AiPhilEngine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for COMPLETE_sections1-6_AiPhilEngine"
+            }
+          },
+          {
+            "id": "c85633205e91a017",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "35563d2ffe9fa15c",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
+              "icon": "infranodus-icon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "graph:Open graph view": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "infranodus-graph-view:InfraNodus Graph View": false
+    }
+  },
+  "active": "9c4a926763e9ab43",
+  "lastOpenFiles": [
+    "Nihilismi Experientia Sacra.lnk",
+    "Engine-System-Inquiry/AiPhilEngine_complete_code/1_Ai_Philosopher_Engine_Complete_Code.md",
+    "Engine-System-Inquiry/AiPhilEngine_complete_code/COMPLETE_sections1-6_AiPhilEngine.md",
+    "Engine-System-Inquiry/AiPhilEngine_complete_code/1_Ai_Philosopher_Engine_Complete_Code 1.md",
+    "Engine-System-Inquiry/AiPhilEngine_complete_code/2__PROFESSOR NIHIL_ THE COMPLETE AI PHILOSOPHER ENG.md",
+    "Engine-System-Inquiry/AiPhilEngine_complete_code/AiPhilEngine_complete_code_newest.md",
+    "Engine-System-Inquiry/AiPhilEngine_complete_code/3_Ai_Philosopher_Engine_Complete_Code.md",
+    "Engine-System-Inquiry/PEC/PEM_engine_metaprompt_original.md",
+    "Prompts/_Follow Up_/Follow up with the uploaded document..md",
+    "Engine-System-Inquiry/Ai_Philosopher_Engine_Complete_Code.md",
+    "Engine-System-Inquiry/AiPhilEngine_complete_code/Unconfirmed 535297.crdownload",
+    "Engine-System-Inquiry/AiPhilEngine_complete_code",
+    "Engine-System-Inquiry/New folder",
+    "Engine-System-Inquiry/2_Ai_Philosopher_Engine_Complete_Code.md",
+    "Engine-System-Inquiry/2__PROFESSOR NIHIL_ THE COMPLETE AI PHILOSOPHER ENG.md",
+    "_Captured_/AIPhil_Research_Webapp.md",
+    "Engine-System-Inquiry/synphilengine.md",
+    "Engine-System-Inquiry/NIHILTHEISTIC_ENGINE_ARCHITECTURE.md",
+    "Engine-System-Inquiry/Unconfirmed 986273.crdownload",
+    "Engine-System-Inquiry/RDE-EVAL_Phil-Engine.md",
+    "Engine-System-Inquiry/PhilosophyScribe_prompt.md",
+    "Engine-System-Inquiry/PhilosophyScribe_GemDR.md",
+    "Engine-System-Inquiry/Philosophical_Sage_Engine.md",
+    "Engine-System-Inquiry/Philosophical Text Densification Framework.md",
+    "Engine-System-Inquiry/PhilDenseMaxYield.md",
+    "Engine-System-Inquiry/Nihiltheos-Recursion Merge Part I.md",
+    "Engine-System-Inquiry/NT_Recursion_Engine_NRE.md",
+    "Engine-System-Inquiry/NT_Recursive_Densification__v4.0_4.1.md",
+    "Engine-System-Inquiry/NIHILTHEISTIC_IDP.md",
+    "Engine-System-Inquiry/Nihilheism_Consciousness.md",
+    "NT Research/Deep Research/Deep Research Prompts",
+    "_Captured_/Untitled.base",
+    "Bases/Recent Notes January 2025.base",
+    "NT Research/Recall/Unconfirmed 828135.crdownload",
+    "Bases/_Recent Notes_.base",
+    "Bases/Untitled.base",
+    "Metadata/Journal314/314SumPrompts/314Universal_Toward Transcendent Synthesis.png",
+    "NT Research/Outlines and Mindmaps/314Prompt_As_markmap.svg"
+  ]
+}
