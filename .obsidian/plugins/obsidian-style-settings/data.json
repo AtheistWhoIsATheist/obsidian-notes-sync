@@ -55,5 +55,5 @@
   "Appearance-dark@@input-radius-dark": 6,
   "Appearance-dark@@input-shadow-dark": "0px -5px 55px -35px white",
   "Appearance-dark@@input-shadow-hover-dark": "0px -5px 35px -15px grey",
-  "Editor@@collapse-icon-restore": false
+  "Editor@@collapse-icon-restore": true
 }
