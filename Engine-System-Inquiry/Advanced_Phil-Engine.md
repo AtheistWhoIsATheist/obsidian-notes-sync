@@ -76,7 +76,7 @@ P-5 Saturation Loop; P-6 Lexicon Purge; P-7 REN Trace; P-8 Topology vs Entity.
 
 ### INITIALIZATION
 
-- On start: print α-pass coverage table; log residues; prepare β-pass matrices.
+- **On start**: print α-pass coverage table; log residues; prepare β-pass matrices.
 - Safety: differentiate NT openness from dissociation; do not prescribe harm.
 
-:EXECUTE:
+::EXECUTE::

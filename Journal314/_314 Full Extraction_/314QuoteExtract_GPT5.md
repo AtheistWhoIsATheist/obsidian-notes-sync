@@ -9,8 +9,7 @@ tags:
 backlink:
 source:
 ---
-																																																																													
-
+																									
 # 1.  Prompty V
 
 You built a battleship. Nice. It also has three anchors welded to the hull, a cathedral bolted to the deck, and a flamethrower pointed at the mast. In other words: powerful but self-contradictory in spots, over-specified in others, and occasionally asking the model to do twelve things while kneecapping it with a 6k token budget. I cleaned it up, tightened the logic, removed cross-talk, defined the metrics, and made every toggle actually do something. Kept your edge; deleted your redundancies.

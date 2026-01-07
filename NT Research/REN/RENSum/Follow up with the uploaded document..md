@@ -12,9 +12,7 @@ tags:
 backlink: "[[Nihilism_Nonexistence]]"
 description:
 ---
-
-
-# PErplexity Summary of [[Nihilism_Nonexistence]]
+# Paar rplexity Summary of [[Nihilism_Nonexistence]]
 
 # Follow up with the uploaded document.
 

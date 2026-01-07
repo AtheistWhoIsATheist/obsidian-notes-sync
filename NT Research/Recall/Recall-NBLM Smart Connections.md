@@ -5,6 +5,8 @@ updated: 2025-11-10T07:07:00
 tags:
   - recall
   - notebook
+  - sacredterror
+  - smartconnect
 backlink: "[[smart_connects-nihil_noth_meaning]]"
 description: Smart Connections emphasize driven NotebookLM Content
 ---

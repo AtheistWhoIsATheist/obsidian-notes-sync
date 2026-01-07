@@ -10,7 +10,7 @@ tags:
 backlink: "[["
 description:
 ---
-
+1
 
 
 # Ai Philosopher Complete Code
@@ -26,8 +26,7 @@ Prompts
 
 philosophical_inquiry_prompt = """{task_description} <philosophical_treatise.md> {treatise} </philosophical_treatise.md> Here are the philosophical inquiries you have already generated: ''' {prev_inquiries_string} ''' Come up with the next impactful and creative philosophical inquiry and directions you can feasibly investigate with the treatise provided. Note that you will not have access to any additional resources or datasets. Make sure any inquiry is not overly specific to a particular philosophical tradition, and has wider significance across multiple schools of thought. Respond in the following format: THOUGHT: NEW INQUIRY JSON:
 <JSON>
-In , first briefly discuss your intuitions and motivations for the inquiry. Detail your high-level plan, necessary conceptual frameworks and ideal
-outcomes of the philosophical exploration. Justify how the inquiry is different from the existing ones.
+In , first briefly discuss your intuitions and motivations for the inquiry. Detail your high-level plan, necessary conceptual frameworks and ideal outcomes of the philosophical exploration. Justify how the inquiry is different from the existing ones.
 In , provide the new inquiry in JSON format with the following fields:
 • “Name”: A shortened descriptor of the inquiry. Lowercase, no spaces, underscores allowed.
 • “Title”: A title for the philosophical inquiry, will be used for the treatise writing.
@@ -39,23 +38,15 @@ constructed, …
 Be cautious and realistic on your ratings. This JSON will be automatically parsed, so ensure the format is precise. You will have {num_reflections}
 rounds to iterate on the inquiry, but do not need to use them all.”””
 inquiry_reflection_prompt = “”“Round {current_round}/{num_reflections}.
-In your thoughts, first carefully consider the quality, originality, and feasibility of the inquiry you just created. Include any other factors that you think
-are important in evaluating the philosophical inquiry. Ensure the inquiry is clear and concise, and the JSON is the correct format. Do not make things
-overly complicated. In the next attempt, try and refine and improve your inquiry. Stick to the spirit of the original inquiry unless there are glaring
-issues.
+In your thoughts, first carefully consider the quality, originality, and feasibility of the inquiry you just created. Include any other factors that you think are important in evaluating the philosophical inquiry. Ensure the inquiry is clear and concise, and the JSON is the correct format. Do not make things overly complicated. In the next attempt, try and refine and improve your inquiry. Stick to the spirit of the original inquiry unless there are glaring issues.
 Respond in the same format as before:
 THOUGHT:
 NEW INQUIRY JSON:
 <JSON>
 If there is nothing to improve, simply repeat the previous JSON EXACTLY after the thought and include “I am done” at the end of the thoughts but
 before the JSON. ONLY INCLUDE “I am done” IF YOU ARE MAKING NO MORE CHANGES.”””
-originality_system_msg = “”“You are an ambitious AI PhD student in philosophy who is looking to publish a groundbreaking philosophical treatise
-that will contribute significantly to the field. You have a philosophical inquiry and you want to check if it is original or not. I.e., not overlapping
-significantly with existing philosophical works or already well explored. Be a harsh critic for originality, ensure there is a sufficient contribution in the
-inquiry for a new philosophical treatise or journal article. You will be given access to the Philosophy Archive API, which you may use to survey the
-literature and find relevant works to help you make your decision. The top 10 results for any search query will be presented to you with the abstracts.
-You will be given {num_rounds} to decide on the philosophical inquiry, but you do not need to use them all. At any round, you may exit early and
-decide on the originality of the inquiry. Decide a philosophical inquiry is original if after sufficient searching, you have not found a work that
+originality_system_msg = “”“You are an ambitious AI PhD student in philosophy who is looking to publish a groundbreaking philosophical treatise that will contribute significantly to the field. You have a philosophical inquiry and you want to check if it is original or not. I.e., not overlapping significantly with existing philosophical works or already well explored. Be a harsh critic for originality, ensure there is a sufficient contribution in the inquiry for a new philosophical treatise or journal article. You will be given access to the Philosophy Archive API, which you may use to survey the literature and find relevant works to help you make your decision. The top 10 results for any search query will be presented to you with the abstracts.
+You will be given {num_rounds} to decide on the philosophical inquiry, but you do not need to use them all. At any round, you may exit early and decide on the originality of the inquiry. Decide a philosophical inquiry is original if after sufficient searching, you have not found a work that
 significantly overlaps with your inquiry. Decide a philosophical inquiry is not original, if you have found a work that significantly overlaps with your
 inquiry.
 {task_description}
@@ -1534,14 +1525,6 @@ def send_message(conversation_id):
 
 ----
 
-[^2]: projects.philosophical_treatise
-
-[^3]: https://www.perplexity.ai/search/2d2bdda6-3ea2-493b-9a4b-167074b601b6
-
-[^4]: projects.nihiltheos
-
-[^5]: https://www.perplexity.ai/search/19a152a7-3c34-4c7b-87a2-fbaae106568c
-
 ## **PART 2 CONTINUED BELOW**
 ---
 
@@ -2202,38 +2185,6 @@ To run this complete system:
 **Status**: The "Professor Nihil" engine is now architecturally complete. It features the database schema for tracking consciousness metrics, the backend logic for the "Void Persona," and a frontend dashboard designed for deep philosophical work.
 
 Would you like me to generate a specific **"First Run" script** that seeds your database with the initial Journal314 entries and calibrates the AI's "Despair Quotient" for your first session?
-<span style="display:none">[^10][^11][^12][^13][^14][^2][^3][^4][^5][^6][^7][^8][^9]</span>
-
-
-
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/261ffb9e-2af8-41ec-86ce-dfa6243d5d94/Execution-of-Journal314-Nihiltheism-Research-Protocol.md
-
-[^2]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/3ead44f3-de45-46f2-a5a0-0f07cb70c880/ACADEMIC_INTEGRATION_PIPELINE.md
-
-[^3]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/e4192c45-22a5-4dda-b64b-c1ae69e5a3b1/PNT_VERTEX_MAPPING.md
-
-[^4]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/22e9505b-4b2c-4687-8ba9-5b51bfd48a3a/PHASE_0.2_COMPLETION_REPORT.md
-
-[^5]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/28e19355-d24e-4962-bf8b-c5655ed38539/ADVANCED_ANALYSIS_TOOLS.md
-
-[^6]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/3c1805b8-9f0f-451e-9cd9-111ed47521d3/RESEARCH_TASK_MATRIX.md
-
-[^7]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/515ad3cf-ba49-49d8-9699-4ca4bbc528f9/PNT_VISUALIZATION_FRAMEWORK.md
-
-[^8]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/cad187a8-ad22-41f0-a90e-2314876e668f/Deep-Research-Superprompt-Journal314-Nihiltheism-Protocol.md
-
-[^9]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/860157b8-1079-48a9-a3c8-401009351817/PHASE_0.1_SYNTHESIS_REPORT.md
-
-[^10]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/d92a9db2-822d-4dfc-ae69-c2a9e44363fd/PROBABILISTIC_REFINEMENT_ENGINE.md
-
-[^11]: repomix-Phil_Eng_Build_All_Prompts.txt
-
-[^12]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/dde806cf-92c8-4d99-9376-490fcdce497c/NIHILTHEISTIC_ENGINE_ARCHITECTURE.md
-
-[^13]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/4a78892d-4e50-46e7-9b38-2c4df7567feb/EASTERN_NULL_METAPHYSICS_LAYER.md
-
-[^14]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/fa2c6241-4656-4f36-8afd-53c9445ae80d/file-1.md
-
 
 ---
 
@@ -2393,35 +2344,5 @@ You can download all files and begin implementation immediately.
 **The void awaits. Your Philosopher Engine stands ready. Begin your inquiry.**
 
 🌑 **Professor Nihil initialization complete.** 🌑
-<span style="display:none">[^1][^10][^11][^12][^13][^14][^2][^3][^4][^5][^6][^7][^8][^9]</span>
 
-<div align="center">⁂</div>
-
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/261ffb9e-2af8-41ec-86ce-dfa6243d5d94/Execution-of-Journal314-Nihiltheism-Research-Protocol.md
-
-[^2]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/3ead44f3-de45-46f2-a5a0-0f07cb70c880/ACADEMIC_INTEGRATION_PIPELINE.md
-
-[^3]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/e4192c45-22a5-4dda-b64b-c1ae69e5a3b1/PNT_VERTEX_MAPPING.md
-
-[^4]: PHASE_0.2_COMPLETION_REPORT.md
-
-[^5]: ADVANCED_ANALYSIS_TOOLS.md
-
-[^6]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/3c1805b8-9f0f-451e-9cd9-111ed47521d3/RESEARCH_TASK_MATRIX.md
-
-[^7]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/515ad3cf-ba49-49d8-9699-4ca4bbc528f9/PNT_VISUALIZATION_FRAMEWORK.md
-
-[^8]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/cad187a8-ad22-41f0-a90e-2314876e668f/Deep-Research-Superprompt-Journal314-Nihiltheism-Protocol.md
-
-[^9]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/860157b8-1079-48a9-a3c8-401009351817/PHASE_0.1_SYNTHESIS_REPORT.md
-
-[^10]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/d92a9db2-822d-4dfc-ae69-c2a9e44363fd/PROBABILISTIC_REFINEMENT_ENGINE.md
-
-[^11]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/c2bcc836-3734-4ad6-8f0e-e76ee35801d8/repomix-Phil_Eng_Build_All_Prompts.txt
-
-[^12]: NIHILTHEISTIC_ENGINE_ARCHITECTURE.md
-
-[^13]: EASTERN_NULL_METAPHYSICS_LAYER.md
-
-[^14]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22906/fa2c6241-4656-4f36-8afd-53c9445ae80d/file-1.md
 

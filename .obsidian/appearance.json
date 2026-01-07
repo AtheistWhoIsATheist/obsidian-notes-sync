@@ -1,12 +1,12 @@
 {
-  "accentColor": "#4d69a3",
-  "interfaceFontFamily": "Noto Serif",
+  "accentColor": "#5d68ac",
+  "interfaceFontFamily": "Noto Serif Hebrew",
   "textFontFamily": "Palatino Linotype",
-  "baseFontSize": 15,
+  "baseFontSize": 18,
   "cssTheme": "Border",
-  "showRibbon": true,
+  "showRibbon": false,
   "baseFontSizeAction": true,
-  "theme": "system",
+  "theme": "obsidian",
   "showViewHeader": true,
   "enabledCssSnippets": [],
   "monospaceFontFamily": "Source Code Pro"
