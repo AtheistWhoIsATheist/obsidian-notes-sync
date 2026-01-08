@@ -26,8 +26,7 @@ Prompts
 
 philosophical_inquiry_prompt = """{task_description} <philosophical_treatise.md> {treatise} </philosophical_treatise.md> Here are the philosophical inquiries you have already generated: ''' {prev_inquiries_string} ''' Come up with the next impactful and creative philosophical inquiry and directions you can feasibly investigate with the treatise provided. Note that you will not have access to any additional resources or datasets. Make sure any inquiry is not overly specific to a particular philosophical tradition, and has wider significance across multiple schools of thought. Respond in the following format: THOUGHT: NEW INQUIRY JSON:
 <JSON>
-In , first briefly discuss your intuitions and motivations for the inquiry. Detail your high-level plan, necessary conceptual frameworks and ideal
-outcomes of the philosophical exploration. Justify how the inquiry is different from the existing ones.
+In , first briefly discuss your intuitions and motivations for the inquiry. Detail your high-level plan, necessary conceptual frameworks and ideal outcomes of the philosophical exploration. Justify how the inquiry is different from the existing ones.
 In , provide the new inquiry in JSON format with the following fields:
 • “Name”: A shortened descriptor of the inquiry. Lowercase, no spaces, underscores allowed.
 • “Title”: A title for the philosophical inquiry, will be used for the treatise writing.
@@ -36,27 +35,18 @@ constructed, …
 • “Profundity”: A rating from 1 to 10 (lowest to highest).
 • “Feasibility”: A rating from 1 to 10 (lowest to highest).
 • “Originality”: A rating from 1 to 10 (lowest to highest).
-Be cautious and realistic on your ratings. This JSON will be automatically parsed, so ensure the format is precise. You will have {num_reflections}
-rounds to iterate on the inquiry, but do not need to use them all.”””
+Be cautious and realistic on your ratings. This JSON will be automatically parsed, so ensure the format is precise. You will have {num_reflections} rounds to iterate on the inquiry, but do not need to use them all.”””
 inquiry_reflection_prompt = “”“Round {current_round}/{num_reflections}.
-In your thoughts, first carefully consider the quality, originality, and feasibility of the inquiry you just created. Include any other factors that you think
-are important in evaluating the philosophical inquiry. Ensure the inquiry is clear and concise, and the JSON is the correct format. Do not make things
-overly complicated. In the next attempt, try and refine and improve your inquiry. Stick to the spirit of the original inquiry unless there are glaring
+In your thoughts, first carefully consider the quality, originality, and feasibility of the inquiry you just created. Include any other factors that you think are important in evaluating the philosophical inquiry. Ensure the inquiry is clear and concise, and the JSON is the correct format. Do not make things overly complicated. In the next attempt, try and refine and improve your inquiry. Stick to the spirit of the original inquiry unless there are glaring
 issues.
 Respond in the same format as before:
 THOUGHT:
 NEW INQUIRY JSON:
 <JSON>
-If there is nothing to improve, simply repeat the previous JSON EXACTLY after the thought and include “I am done” at the end of the thoughts but
-before the JSON. ONLY INCLUDE “I am done” IF YOU ARE MAKING NO MORE CHANGES.”””
+If there is nothing to improve, simply repeat the previous JSON EXACTLY after the thought and include “I am done” at the end of the thoughts but before the JSON. ONLY INCLUDE “I am done” IF YOU ARE MAKING NO MORE CHANGES.”””
 originality_system_msg = “”“You are an ambitious AI PhD student in philosophy who is looking to publish a groundbreaking philosophical treatise
-that will contribute significantly to the field. You have a philosophical inquiry and you want to check if it is original or not. I.e., not overlapping
-significantly with existing philosophical works or already well explored. Be a harsh critic for originality, ensure there is a sufficient contribution in the
-inquiry for a new philosophical treatise or journal article. You will be given access to the Philosophy Archive API, which you may use to survey the
-literature and find relevant works to help you make your decision. The top 10 results for any search query will be presented to you with the abstracts.
-You will be given {num_rounds} to decide on the philosophical inquiry, but you do not need to use them all. At any round, you may exit early and
-decide on the originality of the inquiry. Decide a philosophical inquiry is original if after sufficient searching, you have not found a work that
-significantly overlaps with your inquiry. Decide a philosophical inquiry is not original, if you have found a work that significantly overlaps with your
+that will contribute significantly to the field. You have a philosophical inquiry and you want to check if it is original or not. I.e., not overlapping significantly with existing philosophical works or already well explored. Be a harsh critic for originality, ensure there is a sufficient contribution in the inquiry for a new philosophical treatise or journal article. You will be given access to the Philosophy Archive API, which you may use to survey the literature and find relevant works to help you make your decision. The top 10 results for any search query will be presented to you with the abstracts.
+You will be given {num_rounds} to decide on the philosophical inquiry, but you do not need to use them all. At any round, you may exit early and decide on the originality of the inquiry. Decide a philosophical inquiry is original if after sufficient searching, you have not found a work that significantly overlaps with your inquiry. Decide a philosophical inquiry is not original, if you have found a work that significantly overlaps with your
 inquiry.
 {task_description}
 <philosophical_treatise.md>
