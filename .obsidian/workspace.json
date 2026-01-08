@@ -39,17 +39,19 @@
             }
           },
           {
-            "id": "662d3f0d1c7fea62",
+            "id": "c28f5aa18c1b4d08",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Captured_/Untitled 1.md",
+                "file": "Engine-System-Inquiry/PEC/_HDSS_High-Density Semantic Syntax_.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "_HDSS_High-Density Semantic Syntax_"
             }
           }
         ],
@@ -126,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Captured_/Untitled 1.md",
+                "file": "Engine-System-Inquiry/PEC/_HDSS_High-Density Semantic Syntax_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of _HDSS_High-Density Semantic Syntax_"
             }
           },
           {
@@ -197,7 +199,8 @@
               "icon": "infranodus-icon"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,18 +219,25 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "662d3f0d1c7fea62",
+  "active": "c28f5aa18c1b4d08",
   "lastOpenFiles": [
-    "_Captured_/Untitled 2.md",
+    "Prompts/Prompt Tools/prompt_Improver.md",
+    "Bases/Recent Notes January 2025.base",
+    "NT Research/Outlines and Mindmaps/Mindmap&314_Agentic Workers.md",
+    "Engine-System-Inquiry/PEC/_HDSS_High-Density Semantic Syntax_.md",
+    "_Captured_/Untitled 5.md",
+    "_Captured_/zo_dashboard_code.md",
+    "Journal314/314Analysis/314Codebase_nblm_anal.md",
+    "_Captured_/FlashAiStudio.md",
+    "_Captured_/Floot_PKM.md",
+    "_Captured_/FlowGPT_2025-10-21.md",
+    "_Captured_/Copilot_Query_Nihiltheism_Writings.md",
+    "_Captured_/Contemplative.md",
+    "Journal314/314Analysis/314analysis_zo_computer.md",
     "Engine-System-Inquiry/aiphil_architect_prompt.md",
-    "_Captured_/Untitled.md",
-    "_Captured_/Untitled 8.md",
-    "_Captured_/ChatGPT 2.md",
     "Prompts/1 Liners/Dangerously_Autonomous.md",
     "_Captured_/unlinked.md",
-    "_Captured_/Untitled 5.md",
     "NT Research/Notes on Suicide/314Analysis_NTvsEXISTENIALISM.md",
-    "_Captured_/Untitled 1.md",
     "Engine-System-Inquiry/Architect_Of_Nihiltheism.md",
     "NT Research/Deep Research/Perplexity DR/&gt;&gt;SYS_INIT__[ROLE=PEM_ARCHITECT_PRIME];_&gt;.md",
     "NT Research/Deep Research/Perplexity DR/Unconfirmed 527370.crdownload",
@@ -236,16 +246,8 @@
     "_Captured_/ArchitectureOfNihiltheism.md",
     "Journal314/314Analysis/314aNALYSIS-VS_EXISTENIALISM.md",
     "Engine-System-Inquiry/THE_AUTHORITATIVE_Synth_Philo-Engine.md",
-    "Bases/Recent Notes January 2025.base",
     "Engine-System-Inquiry/Philo-Engine_Build_Instr/Execution of Journal314 Nihiltheism Research Protocol.md",
     "Engine-System-Inquiry/Philo-Engine_Build_Instr/Deep Research Superprompt — Journal314 → Nihiltheism Protocol.md",
-    "Engine-System-Inquiry/Philo-Engine_Build_Instr/EASTERN_NULL_METAPHYSICS_LAYER.md",
-    "Engine-System-Inquiry/Philo-Engine_Build_Instr/ACADEMIC_INTEGRATION_PIPELINE.md",
-    "Engine-System-Inquiry/AiPhilEngine_complete_code/2__PROFESSOR NIHIL_ THE COMPLETE AI PHILOSOPHER ENG.md",
-    "Engine-System-Inquiry/AiPhilEngine_complete_code/AiPhilEngineCode_Prompt.md",
-    "_Captured_/Code_Experience_Prompt.md",
-    "Engine-System-Inquiry/advanced_prompt_improver_results.md",
-    "Journal314/_314 Quotes_/3. Journal314 Part III 11-19.md",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/Better_Than_complete 1-6_text/PROFESSOR_NIHIL_FRONTEND_COMPLETE.jsx",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/Better_Than_complete 1-6_text/PROFESSOR_NIHIL_BACKEND_COMPLETE.py",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/Better_Than_complete 1-6_text/PROFESSOR_NIHIL_STYLES_COMPLETE.css",
