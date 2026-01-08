@@ -10,7 +10,7 @@ tags:
 backlink: "[[PEM_engine_metaprompt_original]]"
 description: This file is the HDSS ATOMIC PROTOCOL version of the 5,009 word PEM prompt enhancer text.
 ---
-# The Revised PEM Prompt (Atomic Protocol)
+# HDSS  (Atomic Protocol)
 
 ```
 >>SYS_INIT::[ROLE=PEM_ARCHITECT_PRIME];
