@@ -60,12 +60,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Captured_/HDSS_PEM.md",
+                "file": "Shared/Perplexity/2025-10-27 Mon 746AM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HDSS_PEM"
+              "title": "2025-10-27 Mon 746AM"
             }
           }
         ],
@@ -235,9 +235,12 @@
   },
   "active": "c636f89e80c31c08",
   "lastOpenFiles": [
+    "HDSS",
+    "Untitled",
+    "NT Research/Summary/AiDriveRENSums/HDSS_PEM.md",
+    "_Captured_/HDSS_PEM.md",
     "Shared/Perplexity/2025-10-27 Mon 746AM.md",
     "Engine-System-Inquiry/PEC/2ndBrain_HDSS_High-Density Semantic Syntax_.md",
-    "_Captured_/HDSS_PEM.md",
     "_Captured_/FILES_TO_REMEMBER.md",
     "Prompts/Prompt Tools/prompt_Improver.md",
     "Bases/Recent Notes January 2025.base",
@@ -261,8 +264,6 @@
     "Engine-System-Inquiry/Philo-Engine_Build_Instr/ADVANCED_ANALYSIS_TOOLS.md",
     "Engine-System-Inquiry/PEC/PEM_engine_metaprompt_original.md",
     "_Captured_/ArchitectureOfNihiltheism.md",
-    "Journal314/314Analysis/314aNALYSIS-VS_EXISTENIALISM.md",
-    "Engine-System-Inquiry/THE_AUTHORITATIVE_Synth_Philo-Engine.md",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/Better_Than_complete 1-6_text/PROFESSOR_NIHIL_FRONTEND_COMPLETE.jsx",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/Better_Than_complete 1-6_text/PROFESSOR_NIHIL_BACKEND_COMPLETE.py",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/Better_Than_complete 1-6_text/PROFESSOR_NIHIL_STYLES_COMPLETE.css",
@@ -270,7 +271,6 @@
     "Engine-System-Inquiry/AiPhilEngine_complete_code/Better_Than_complete 1-6text",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/New folder",
     "Obsidian Vault Git Sync",
-    "Engine-System-Inquiry/AiPhilEngine_complete_code/Gemini_Ai_Studio_Apps/neumorphism_-nci.zip",
     "Metadata/Journal314/314SumPrompts/314Universal_Toward Transcendent Synthesis.png",
     "NT Research/Outlines and Mindmaps/314Prompt_As_markmap.svg"
   ]
