@@ -65,9 +65,23 @@
               "icon": "lucide-file",
               "title": "ADVANCED_ANALYSIS_TOOLS"
             }
+          },
+          {
+            "id": "9528d67d3b5e8115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Captured_/Untitled.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT Research/Notes on Suicide/314Analysis_NTvsEXISTENIALISM.md",
+                "file": "_Captured_/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 314Analysis_NTvsEXISTENIALISM"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -221,14 +235,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16333ff42357e620",
+  "active": "9528d67d3b5e8115",
   "lastOpenFiles": [
+    "_Captured_/Untitled.md",
     "Engine-System-Inquiry/Philo-Engine_Build_Instr/ADVANCED_ANALYSIS_TOOLS.md",
-    "Journal314/314Analysis/314aNALYSIS-VS_EXISTENIALISM.md",
     "NT Research/Notes on Suicide/314Analysis_NTvsEXISTENIALISM.md",
+    "Journal314/314Analysis/314aNALYSIS-VS_EXISTENIALISM.md",
     "_Captured_/Untitled 5.md",
     "_Captured_/Untitled 1.md",
-    "_Captured_/Untitled.md",
     "Engine-System-Inquiry/THE_AUTHORITATIVE_Synth_Philo-Engine.md",
     "Bases/Recent Notes January 2025.base",
     "Engine-System-Inquiry/Philo-Engine_Build_Instr/Execution of Journal314 Nihiltheism Research Protocol.md",
