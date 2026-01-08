@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Captured_/Untitled.md",
+                "file": "Engine-System-Inquiry/Philo-Engine_Build_Instr/ADVANCED_ANALYSIS_TOOLS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of ADVANCED_ANALYSIS_TOOLS"
             }
           },
           {
@@ -235,11 +235,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9528d67d3b5e8115",
+  "active": "662d3f0d1c7fea62",
   "lastOpenFiles": [
-    "_Captured_/ArchitectureOfNihiltheism.md",
     "_Captured_/Untitled.md",
     "Engine-System-Inquiry/Philo-Engine_Build_Instr/ADVANCED_ANALYSIS_TOOLS.md",
+    "_Captured_/ArchitectureOfNihiltheism.md",
     "NT Research/Notes on Suicide/314Analysis_NTvsEXISTENIALISM.md",
     "Journal314/314Analysis/314aNALYSIS-VS_EXISTENIALISM.md",
     "_Captured_/Untitled 5.md",
