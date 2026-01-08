@@ -74,16 +74,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Captured_/Untitled.md",
+                "file": "Ai Convos/Promptessor/Gemini-AIPhilEngine_Enhancement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Gemini-AIPhilEngine_Enhancement"
+            }
+          },
+          {
+            "id": "72eb6d69f9e19588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ai Convos/Gemini/Gemini_FollowUp_Densification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gemini_FollowUp_Densification"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -115,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#monica  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +150,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,13 +262,25 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "7e1572f78e20104b",
+  "active": "72eb6d69f9e19588",
   "lastOpenFiles": [
-    "_Captured_/Untitled.md",
+    "Ai Convos/Monica/Expert Conversation Synthesizer Enhanced 1.md",
+    "Ai Convos/Monica/Expert Conversation Synthesizer Enhanced.md",
+    "NT Research/Notes on Suicide/Dedication to Mitchell Heisman (only).md",
+    "Prompts/CI/Custom Instructions Response Currently in Monica.md",
+    "NT Research/Notes on Suicide/Heisman/Dedication to Mitchell Heisman (only).md",
+    "NT Research/NT Structure/Custom Instructions from Monica.md",
+    "Ai Convos/Promptessor/Gemini-AIPhilEngine_Enhancement.md",
+    "Engine-System-Inquiry/advanced_prompt_improver_results.md",
+    "Engine-System-Inquiry/THE_AUTHORITATIVE_Synth_Philo-Engine.md",
+    "Engine-System-Inquiry/Architect_Of_Nihiltheism.md",
+    "Journal314/314Analysis/314Codebase_nblm_anal.md",
     "Shared/Perplexity/2025-10-27 Mon 746AM.md",
+    "NT Research/Summary/AiDriveRENSums/HDSS_PEM.md",
+    "Journal314/314Analysis/Journal314_IIDP.md",
+    "Journal314/j314 Abstracts/Journal314_Abstract_completeV.md",
     "HDSS",
     "Untitled",
-    "NT Research/Summary/AiDriveRENSums/HDSS_PEM.md",
     "_Captured_/HDSS_PEM.md",
     "Engine-System-Inquiry/PEC/2ndBrain_HDSS_High-Density Semantic Syntax_.md",
     "_Captured_/FILES_TO_REMEMBER.md",
@@ -262,23 +289,11 @@
     "NT Research/Outlines and Mindmaps/Mindmap&314_Agentic Workers.md",
     "_Captured_/Untitled 5.md",
     "_Captured_/zo_dashboard_code.md",
-    "Journal314/314Analysis/314Codebase_nblm_anal.md",
     "_Captured_/FlashAiStudio.md",
     "_Captured_/Floot_PKM.md",
     "_Captured_/FlowGPT_2025-10-21.md",
     "_Captured_/Copilot_Query_Nihiltheism_Writings.md",
-    "_Captured_/Contemplative.md",
-    "Journal314/314Analysis/314analysis_zo_computer.md",
-    "Engine-System-Inquiry/aiphil_architect_prompt.md",
-    "Prompts/1 Liners/Dangerously_Autonomous.md",
-    "_Captured_/unlinked.md",
-    "NT Research/Notes on Suicide/314Analysis_NTvsEXISTENIALISM.md",
-    "Engine-System-Inquiry/Architect_Of_Nihiltheism.md",
-    "NT Research/Deep Research/Perplexity DR/&gt;&gt;SYS_INIT__[ROLE=PEM_ARCHITECT_PRIME];_&gt;.md",
     "NT Research/Deep Research/Perplexity DR/Unconfirmed 527370.crdownload",
-    "Engine-System-Inquiry/Philo-Engine_Build_Instr/ADVANCED_ANALYSIS_TOOLS.md",
-    "Engine-System-Inquiry/PEC/PEM_engine_metaprompt_original.md",
-    "_Captured_/ArchitectureOfNihiltheism.md",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/Better_Than_complete 1-6_text/PROFESSOR_NIHIL_FRONTEND_COMPLETE.jsx",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/Better_Than_complete 1-6_text/PROFESSOR_NIHIL_BACKEND_COMPLETE.py",
     "Engine-System-Inquiry/AiPhilEngine_complete_code/Better_Than_complete 1-6_text/PROFESSOR_NIHIL_STYLES_COMPLETE.css",
