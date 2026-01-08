@@ -1,3 +1,16 @@
+---
+title: 314analysis_zo_computer
+created: 2026-01-07
+updated:
+tags:
+  - zo
+  - 314analysis
+backlink: "[["
+description:
+---
+
+
+
 # s/Eastern/mystic conceptions of divinity.  
 
 **Guilt**\- Being the basis of a nullity.  Since everyone is 'thrown' into existence and all possibilities are ultimately nothing, all actions are absurd and the natural self cannot possibly transcend its worldly self in order to 'reach' the authentic Self.  This unbridgeable gap between the finite and the infinite causes guilt.  This 'guilt' is part of Dasein or Being.
