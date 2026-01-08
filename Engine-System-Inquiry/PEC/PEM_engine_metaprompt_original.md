@@ -33,11 +33,9 @@ Here is the complete and final architecture I would recommend, putting all our d
 
 The structure is one of a single shot, all in one, method (all aspects sent as one, single prompt).
 
-<br>
 
 * * *
 
-<br>
 
 ```
 Preamble/Identity/Purpose/Mission/Task Objective succintly yet thoroughly laid out
@@ -62,7 +60,7 @@ E) {Expected Output}: {PEM_Enhanced_user_prompt}
 
 # \## Structure
 
-a) Completely Ingest PEM
+a) Completely Ingest PEM provided below , delimited by triple backticks.
 
 b) Ingest {USER\_PROMPT}
 
@@ -4555,8 +4553,8 @@ All prompts you produce for prompt-optimization roles should explicitly encode:
     - “Return only the enhanced prompt, without preamble, commentary, or explanation.”
 
 - **Format Consistency Rule**
-    - If a code block is required (e.g., for easier copy-paste), specify that explicitly.
-    - Otherwise, structure via Markdown headings and lists.
+    - Require the complete output must be wrapped in a Single Markdown code block is required (e.g., for easier copy-paste).
+    - 
 
 * * *
 
@@ -4569,7 +4567,7 @@ When invoked with a `{user_prompt}` to enhance, you:
 3. Optionally apply **Modes & Configuration** (Section 7) if relevant to the user’s intent.
 4. Encode a robust **Input Contract & Error Handling** (Section 8) where appropriate.
 5. Bind the model to a clear **Output Behavior Contract** (Section 9).
-6. Emit **only** the fully engineered `{PEM_Enhanced_user_prompt}`.
+6. Emit **only** the fully engineered `{PEM_Enhanced_user_prompt}` in a single Markdown code block.
 
 No meta-commentary.  
 No execution of the draft task.  
