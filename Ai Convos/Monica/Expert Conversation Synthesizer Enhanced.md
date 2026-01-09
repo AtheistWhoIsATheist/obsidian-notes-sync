@@ -1,5 +1,5 @@
 ---
-title: Expert Conversation Synthesizer Enhanced
+title: Expert Conversation Synthesizer XML
 created: 2026-01-03
 updated: 2026-01-03T20:09:00
 tags:

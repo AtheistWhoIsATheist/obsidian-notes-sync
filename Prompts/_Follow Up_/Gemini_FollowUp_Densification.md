@@ -10,7 +10,6 @@ tags:
   - densification
 backlink:
 ---
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 
 Follow up with an intensive iterative densification protocol to ensure all key entities and every important aspect is exhaustively detailed, down to a granular level of surgical precision. Perform as many cycles of your recursive densification needed until follow up cycles no longer produce any material to be added to your writing, and your output had reached a saturation level of 100 %  
 

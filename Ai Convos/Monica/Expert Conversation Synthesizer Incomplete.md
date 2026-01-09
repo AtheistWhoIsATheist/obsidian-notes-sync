@@ -1,5 +1,5 @@
 ---
-title: Expert Conversation Synthesizer Enhanced
+title: Expert Conversation Synthesizer Incomplete
 source: https://chatgpt.com/g/g-p-678b8352aac8819187c8a5c46d74f03e-journal314/c/6959b7da-6920-8333-b942-1b820e22736b
 created: 2026-01-03
 tags:
