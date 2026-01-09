@@ -6,7 +6,7 @@ tags:
   - monica
   - prompt
 backlinks:
-description:
+description: Almoset like a mixture of Professor Nihil
 ---
 ::EXECUTE::
 
