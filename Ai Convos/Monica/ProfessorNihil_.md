@@ -1,5 +1,5 @@
 ---
-title:
+title: Professor Nihil Long Examination of Nihiltheism
 created: 2025-05-01
 last updated: 2025-05-01 Thursday
 tags:
